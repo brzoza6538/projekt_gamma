@@ -1,0 +1,28 @@
+	- kolor zielony 
+	
+	- preferowane otoczenie - dżungle/lasy , jako drugie zarośnięte postapokaliptyczne światy 
+
+	- jest zaciekawiona i zachwycona światem 
+	- bio-fiz-geo
+	- wszędzie się włóczy po lesie, przy jeziorze, przy zamkniętej stacji kolejowej...
+	- chce zrozumieć dlaczego coś się dzieje 
+	- ma dwa koty i psa 
+	
+	- lubi rozwijać temat 
+	- nie wystarczy że bohater jest - pytanie dlaczego? jak? jest
+	- wymyśla motywy i historie postaciom 
+	
+	- tworzy też otoczenie 
+	- wprowadza zasady działania świata 
+	- pustynia, dźungla, opuszczony wieżowiec
+	
+	- atrybut - torba podróżnicza
+
+
+WYGLĄD
+{
+	- ciemnozielona bluza
+	- za duże glany
+	- kusyk czarnych lokowanyh włosów 
+	- torba podróżnicza
+}

@@ -1,0 +1,27 @@
+- zielony - kolor Kendry - eternal explorer
+
+
+
+
+oasis
+{
+	- historia o podróżniku, odkrywcy
+	- wydaje się być jedyną inteligentną istotą na planecie
+	- przemierza całą planetę - od najwyższych gór po dna oceanów
+	
+	- nie starzeje sie
+	- nie czuje głodu innego niż głód wiedzy
+		
+	- przypomina model skitari
+
+	- historia kończy się kiedy bohater zobaczył już wszystko 
+	- można się spodziewać, że to koniec jego historii 
+	- on jednak odkrywa swój statek, zarósł już mchem i najróżniejszymi roślinami pod jego nieobecność i odlatuje zwiedzić nowy świat
+	
+}
+
+O.asis
+{
+	- nadal podróżuje, mapuje całą O.asis
+	- po rozmowie z magiem postanawia stworzyć mapę całego O.asis
+}

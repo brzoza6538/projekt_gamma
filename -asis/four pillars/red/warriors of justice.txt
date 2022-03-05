@@ -1,0 +1,84 @@
+- czerwony - kolor Marka- warriors of justice
+
+- ich siła bierze się z ich liczby i oddania sprawie
+
+
+oasis
+{
+	-rycerz/lawman/spiderman - (A)
+	- grumpy, realistic, washed up sharpshooter - (B)
+
+	
+	- odrobinę tępy i łatwowierny 
+	- bezwarunkowa chęć pomocy wszystkim dookoła 
+	
+	- postanawia spróbować swoich sił jako łowca nagród, ale z własną zasadą by nigdy nie zabijać
+	- używać liny i własnej siły
+
+	- spotyka człowieka staczającego się w dół (B)
+	- jedna zła decyzja za drugą rzuciły go w spiralę porażek 
+	- był w długach, zaczął pracować dla gangu terroryzującego miasteczko
+	- jakimś cudem do tej pory nie było ofiar 
+	
+	- bohater (A) przyłącza się do uciekającego od gangu bohatera (B) - oboje nie wiedzą kim są
+	
+	- paru ludzi próbuje dopaść bohatera (B) za ucieczkę 
+	- bohater (A) nokautuje ich obu
+	- bohater (A) wyjaśnia że chce zostać łowcą nagród, bohater (B) ukrywa kim jest
+	- dla ochrony nadal jeździ z (A)
+	
+	- oboje jadą do najbliższego miasta
+	- w mieście (A) odkłada ludzi do szeryfa i dowiaduje się kim jest (B)
+	
+	- (A) uważając że zostali przyjaciółmi oburzony mówi wszystko (B) 
+	- (B) opowiada mu swoją historię, (A) robi się przykro 
+	- (B) prosi o pomoc z uratowaniem jego miasteczka 
+	- (A) się zgadza 
+	
+	-(B) wystrzeliwuje przeciwnikom pistolety z rąk z dachu banku a (A) ich obezwładnia		
+	
+	(próbuje wymyśleć co jakiś dzieciak by wymyślił - to najlepsze na co wpadłem ok?)
+	
+	- oboje ratują miasteczko 
+
+	
+	- robią z siebie duet i zaczynają podróż jako bounty hunters
+
+}
+	
+O.asis 
+{
+	- podróżują wszędzie tak samo jak zielony
+	- (A) robi za sumienie, a (B) robi za zdrowy rozsądek
+	- po drodze nieintencjonalnie natchnęli wielu by z nimi pilnowali prawa
+	
+	- grupa ciągle się powiększa, większość zostaje w swoich rejonach by ich pilnować
+	- organizowani są przez (B), natchnieni przez (A)
+	- twarzą zgrupowania jest (A), ale (B) je storzył i nim kieruje 
+	- twarz > kierownik/twórca organizacji > reszta
+	- każdy rejon ma swoją twarz (sumienie/ moralne),  kierownika (rozum/ zdrowy rozsadek) i inspektora
+	
+	twarz - przyciągający uwagę, podnoszący morale, wsparcie etyczne (jeśli dziecko coś uważa za nieetyczne to na 99.99% takie jest). ma decydujący głos
+	
+	kierownik - organizuje wszystko - twarz zatwierdza projekty ale on je tworzy, organizuje
+		
+	inpektor - tożsamość zna tylko A i B - ma bezpośredni kontakt do B i pilnuje wszystkiego pod kątem etycznym
+	- kierownik może ukrywać coś przed twarzą sektora ale nie przed nieznanym oficerem
+	
+	
+	
+	
+	- A i B cyklicznie sprawdzają stan każdego miasta 
+	- aktualnie podróżują z grupą 20 osób z różnych sekcji (elita straży)
+	- mają drony, wyrzutnie kleju itd..
+	- nie ma normalizacji sprzętu - jedyna zasada, to broń nie może być zabójcza
+	
+	- każdy sektor wprowadza niewielki podatek by utrzymywać korpus 
+	- każdy sektor ma lokalną twarz, kierownika i tajnego(znany tylko przez A i B) inspektora 
+	- inpektor ma bezpośredni kontakt do B i pilnuje wszystkiego pod kątem etycznym
+	- kierownik może ukrywać coś przed twarzą sektora ale nie przed nieznanym oficerem (innymi słowy każdym oficerem)
+	
+	- poza tym A i B regularnie sami robią inspekcję by podnieść morale i sprawdzić czy wszystko w porządku
+	
+	- jeśli strażnik jest podejrzewany o umyślne zabójstwo albo okaleczenie, bez wyraźnej potrzeby , żeby wrócić do służby musi przejść wizytę z telepatą
+}

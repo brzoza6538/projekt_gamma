@@ -1,0 +1,17 @@
+ OPIS
+{
+	-świat kryminałów noir z lat 1940,
+}
+
+KOLOR PALETTE
+{
+	- sporo czarnego (Russel lubił kiedyś kryminały noir więc jest kilka historii na ten temat)
+	- normalna ilość niebieskiego 
+	- niewiele zielonego i czerwonego
+	- 
+}
+	
+MIESZKAŃCY
+{
+	- ludzie 
+}

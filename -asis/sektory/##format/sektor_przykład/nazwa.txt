@@ -1,0 +1,15 @@
+OPIS
+{
+	- typ sektora (np. futurystyczny)
+}
+
+KOLOR PALETTE
+{
+	- od najbardzeij występującego koloru do najmniej
+}
+	
+MIESZKAŃCY
+{
+	- ogólne rasy itd. powszechnie występujące w danym regionnie
+	- np. gnomy są często spotykane w sektorze futurystycznym i steampunkowym 
+}

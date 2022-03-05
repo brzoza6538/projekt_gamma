@@ -1,0 +1,26 @@
+- tytuł
+
+
+biorący udział
+{
+	- jakie postacie brały udział
+}
+
+wprowadzenie
+{
+
+	- informacje jak, kto co robił. 
+	- kto był obecny 
+	- opis otoczenia
+	
+}
+	
+do przemyślenia
+{
+	
+}
+
+historia
+{
+	
+}

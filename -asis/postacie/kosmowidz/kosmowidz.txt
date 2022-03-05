@@ -1,0 +1,74 @@
+OPIS
+{
+	- Regan 
+?
+[
+	- kiedyś wypuścił swojego bliźniaka i wylądował w wypadku samochodowym 
+	- zapadł w śpiączkę na kilka miesięcy
+	- duch pod jego nieobecność się nie ruszał 
+	- ziemia zrobiła prawie połowę obrotu, a ponieważ grawitacja nie działa na bliźniaka, ten nie zmienił pozycji
+	
+	- kiedy się obudził Regan poczuł chłód 
+	- widzał pustkę i słyszał przytłaczającą ciszę 
+	
+	- nie wiedział gdzie jest i spanikowany zaczął biec szukając czegokolwiek 
+	- może jest w jakiejś piwnicy?
+	
+	- biegł tak długo że zgubił się bez możliwości powrotu
+]
+
+???	- zgubił się w historii, czy przez relokację do O.asis [?] 
+
+	- bliźniak zgubił się bez możliwości powrotu
+	- trochę oszalał w lovecraftowym stylu, ciągle czuje mróz, widzi nieskończoną pustkę bez możliwości powrotu 
+	- zagubiony w kosmosie na wieki, jednocześnie będąc na ziemi
+	
+}
+
+KOLOR PALETTE
+{
+	- duzo czarnego i niebieskiego
+}
+
+
+REZYDENCJA
+{
+
+}
+
+
+EKWIPUNEK
+{
+	
+}
+
+
+MOCE & UMIEJETNOSCI
+{
+	- Metafizyczny bliźniak
+	{
+		- może wysłać metafizycznego bliźniaka
+		- ducha połączonego z nim mentalnie
+		- widzi to co widzi, słyszy, czuje to co duch 
+		- duch nie może umrzeć 
+		- duch jest całkowicie kontrolowany przez osobę - nie ma własnej osobowości
+		- duch nie może wpływać na otoczenie 
+		- można "wyłączyć" umiejętność absorbując z powrotem ducha
+		
+		- trochę jak sterowanie dwoma postaciami naraz
+	}
+
+}
+
+HISTORIE W OASIS
+{
+	
+}
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+
+}
+
+
+- new way home - Foo Fighters

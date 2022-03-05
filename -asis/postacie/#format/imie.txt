@@ -1,0 +1,41 @@
+OPIS
+{
+	- opis postaci
+}
+
+KOLOR PALETTE
+{
+	- od najbardzeij występującego koloru do najmniej
+}
+
+
+REZYDENCJA
+{
+	- oryginalnie - "nazwa_sektora" / "nazwa zgrupowania/nazwa_sektora.txt"
+	- aktualnie -  -||-
+}
+
+
+EKWIPUNEK
+{
+	
+}
+
+
+MOCE & UMIEJETNOSCI
+{
+	- opis umiejtnosci, specyfikacji, mocy postaci
+}
+
+HISTORIE W OASIS
+{
+	-identyfikator histori z której powstał
+	
+}
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+	-identyfikator histori w jakich bierze udział w O.asis
+
+}
+

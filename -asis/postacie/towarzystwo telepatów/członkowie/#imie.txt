@@ -1,0 +1,33 @@
+OPIS
+{
+	- opis postaci - kolor palette, kim jest
+
+	kolor palette
+	{
+	
+	}
+}
+
+EKWIPUNEK
+{
+	
+}
+
+
+MOCE & UMIEJETNOSCI
+{
+	- opis umiejtnosci, specyfikacji, mocy postaci
+}
+
+HISTORIE W OASIS
+{
+	-identyfikator histori z której powstał
+	
+}
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+	-identyfikator histori w jakich bierze udział w O.asis
+
+}
+

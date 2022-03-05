@@ -1,0 +1,81 @@
+OPIS
+{
+	
+	- warriors of justice potrzebowali kartografa
+	- eternal explorer czasami był zajęty czymś innym kiedy dochodził nowy sektor
+
+	- pomimo wyglądu jest łagodny i uprzejmy, ale nie komicznie łagodny 
+	- jest typem osoby która ma problem ze zrozumieniem o co innym chodzi
+	- nie rozumie sarkazmu
+	- często trudno mu się wpasować - stwarza czasami niekomfortową atmosferę kiedy mówi 
+	- trudno mu odczytac emocje
+	- jest oddany swojej pracy i niezwykle uczciwy 
+		
+	- jest twardy ale nie ma zadnych dziwnych mocy 
+	
+	- sztywno się porusza 
+	
+	
+	- ma zmutowaną lewą rękę - (3.jpg)
+	- używa mechanicznej protezy - (1.jpg)
+	- kiedy proteza odpada natychmiast odrasta zmutowana ręka
+	- żeby założyć protezę musi ociąć zmutowaną rękę
+	- zmutowaną nie jest w stanie nic zrobić precyzyjnego
+
+}
+
+KOLOR PALETTE
+{
+	- duzo zieleni - ciekawy świata
+		
+	- sporo czerwonego
+	
+	- niewiele niebieskiego
+		
+	- zdrowa ilość czarnego 
+	
+}
+
+REZYDENCJA
+{
+	- oryginalnie - kosmiczny western
+	- aktualnie - zmienny - podróżuje z warriors of justice
+}
+
+
+
+EKWIPUNEK
+{
+    - rewolwer futurystyczny & egzorcystyczny - jeden na biodrze drugi przy boku - (1.jpg) & (3.jpg)
+	
+[?]	- nóż bowie egzorcystyczny  - (3.jpg)
+	
+	- przyrządy do mapowania (ten dziwny trójkąt z mapą , miarko podobne cuś i opaska z danymi) - (1.jpg)
+	
+	
+	- płaszcz i karmazynowa kamizelka  - (3.jpg)
+	
+	- dziennik  - (3.jpg)
+	
+	- kapelusz  - (3.jpg)
+	
+	- maska mechaniczna - (3.jpg)
+}
+
+
+MOCE & UMIEJETNOSCI
+{
+	- pokryty ogromnymi luskami ogon  - (3.jpg) - blisko niezniszlany, robi za tarczę i włócznię 
+
+}
+
+HISTORIE W OASIS
+{
+	
+}
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+
+}
+

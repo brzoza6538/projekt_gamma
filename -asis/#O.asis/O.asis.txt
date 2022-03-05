@@ -1,0 +1,170 @@
+WSTĘP
+{
+[?]	- bohaterowie historii = kreacje
+	
+	- Dzięki oasis i spotkaniach M.A.R.K. pomysły całej czwórki istnieją w tym samym świecie
+	
+	- kiedy historia się kończy, zostaje dodana do O.asis
+	- przestaje to byc zamknięta symulacja 
+	- M.A.R.K. zapisują scenę w Oasis a kreacje zdiwione budzą się w zupełnie nowym świecie
+	- rozumieją że byli aktorami grającymi przedstawienie 
+	
+	- nie mowa tu o marionetkach nie panujących nad sobą 
+	- M.A.R.K tworzy historię - tworzy bohaterów i ich charaktery
+	- zostawiają ich w danej sytuacji i zastanawiają się co ONI by wtedy zrobili 
+	- wymyślają historię kreacji, w ten sposób żeby można było poczuć że ONA podjęła tą decyzję
+
+	
+	- kiedy kreacja umiera w historii, jest zapomniana, ginie też w o.asis
+
+	
+	- W życiu każdej kreacji[?] dzieją się trzy ważne wydarzenia:
+		- jej powstanie
+		- koniec jej historii 
+		- zapomnienie/śmierć
+		
+		
+
+[?]	- O.asis jest uznawana za raj, ponieważ dzięki oasis, nie są w stanie umrzeć z zapomnienia, a kreacje M.A.R.K. dogadują się zwykle równie dobrze jak ich twórcy
+	
+	- Kiedy historia jest czytana ponownie, wszystkie elementy są resetowane - dopiero po powrocie do O.asis kreacje odzyskują swoje wspomnienia z O.asis
+	
+	THE ELDER FOUR
+	{
+		- Pierwsze spotkanie M.A.R.K. wyglądało inaczej od reszty 
+		- każdy opowiedział własną historię - bez wkładu innnych 
+		- cztery pierwsze historie - filary O.asis
+		- całkowicie niebieski MAG, czarna plaga zombie, zielony wieczny odkrywca, czerwoni warriors of justice 
+	}
+
+}
+
+///////////////////////////////
+ 
+ 
+ SEKTORY I PRAWA 
+ {
+ 
+	 - każdej nowej kreacji telepatycznie, przez MAGA, zostaje wyjaśnione prawo i obecna sytuacja
+	 - jeśli historia była wystarczająco duża (otoczenie się liczy, nie długość historii) zostaje sama przerobiona na sektor, jeśli jest na to za mała jest dołączana do sektora o podobnej tematyce
+	 
+	 
+	 - straż jest całkowicie odłączona od rządu sektora
+	 - Sektory są na tyle wielkie, że można je porównać do osbobnych krajów/ planet 
+
+	 POMYSŁ I - wygrał ?/!
+	 [
+	  - MAG po stworzeniu O.asis uznał że nazbyt problematyczne byłoby stworzenie jednolitego prawa
+	  - stworzył podstawowe prawo dla każdego z sektorów którym do czasu wyborów i wprowadzenia zmian musieli operować
+	  
+	  - sektor przez pierwsze cztery X[lata] przed wyborami pilnowała straż główna
+	  - w tym czasie teren był mapowany (zwykle przez wiecznego podróżnika, ale po pewnym czasie straż znalazła zastępstwo na wszelki wypadek)
+	  - po roku przygotowań i czasu na zapoznanie się dochodziło do wyborów - najpierw w gminach - po kolejnym roku w powiatach - po kolejnym roku w województwach - a po kolejnym roku dla sektoru
+	  
+	  - rząd może wprowadzać wszelkie zmiany w prawie*
+	  * zmiany nie mogą wpływać na straż, podróż i prawa człowieka
+		- straż jest niezależna od rządu, zmiany w straży wprowadzają jedynie warriors of justice
+		- podróż pomiędzy sektorami nie może być ograniczona w żaden sposób - teleportery jak metro 
+		- oba te segmenty muszą być wspierane przez obliczony na podstawie średniego dochodu w sektorze podatek
+		- pozbycie się praw człowieka byłoby nieetyczne z oczywistych względów
+		- naruszenie tych praw skutkowałoby w stanie wyjątkowym, chwilowym przejęciu władzy przez warriors of justice, powrocie do podstawowych praw i dogłębnej analizie przez MAGA
+	  
+	  
+	  - każdy sektor ma status kraju
+	  - zmiany wprowadzone w jednym nie będą wpływały na drugi 
+	 ]
+	 
+	 
+	 
+	 POMYSŁ II
+	 [
+	 
+	 - MAG po stworzeniu O.asis uznał że nazbyt problematyczne byłoby stworzenie jednolitego prawa
+	 - nie byłoby często zgodne z tym które aktualnie istniało w sektorze, a utrzymywanie tych samych zasad na przestrzeni całej galaktyki byłoby praktycznie niemożliwe 
+	 - dopóki prawa obowiązujące można było uznać za etyczne, sektor nie miał zmienionych praw i polityków
+	 - różne sektory widzą siebie jak różne kraje 
+	 
+	 - powszechnie zostały zmienione tylko prawa dotyczące policji i podróży
+	 - policja została zastąpiona strażą, działającą wszedzie pod takimi samymi zasadami, niezależną od rządu 
+	 - podróż jest powszechnie dostępna
+	 ]
+
+}
+
+///////////////////////////////////
+
+WIĘZIENIE
+{
+
+	- więzienia są pod jurysdykcją straży  
+	
+	- osoby które popełniły zbrodnie w historii są skazywane jak gdyby popełniły zbrodnie w O.asis
+
+	- każdy sektor ma przynajmniej jedno więzienie
+	
+	- organizacja telepatów zaopatruje każdy sektor w przynajmniej jednego telepate
+	
+	- w przypadku poważnych przestępstw (morderstwo, genocide itd.) prawo zezwala telepatom na zaglądanie przestępcom w umysł 
+	
+	- po odsiedzonym wyroku telepata sprawdza czy przestępca może wrócić do społeczeństwa
+	- jeśli telepata nadal wyczuwa chęci przemocy więzień nie zostaje wypuszczony 
+	- test jeśli więzień tego pragnie może zostać powtórzony rok później 
+	
+	- by zminimalizować "stałych klientów" więzienia są zaopatrzone w psychologów, a strażnicy pracują z mottem zero przemocy 
+	
+	
+}
+
+///////////////////////////////////
+
+ORGANIZACJA TELEPATÓW
+{
+	- historia gdzie każdy człowiek jest telepatą
+	
+	- mogą słyszeć myśli lub zajrzeć do głowy (sprawdzić wszystko)
+	
+	- telepatów jest w O.asis kilka milionów 
+	
+	- część z nich stworzyła organizację i podpisała umowę z MAGIEM
+	
+	- są wykorzystywani przez strażników, by sprawdzać intencję zatrzymanego lub strażnika
+	
+	- telepaci tylko za werbalną zgodą, lub w przypadku więźniów którzy popełnili wykroczenie gorsze lub równe morderstwu mogą zajrzeć wgłąb umysłu
+	- tylk za zgodą sądu lub członka warriors of justice, lub jednego z pilarów, podczas przesłuchania można wykorzystać telepatę
+	
+	- słuchanie myśli nie jest karalne, tylko łatwe do wyczucia zajrzenie wgłąb
+	
+}
+
+
+///////////////////////////////////
+
+ŚMIERĆ
+{
+	- można zginąć na trzy sposoby - zapomnienie, śmierć w historii, śmierć w O.asis
+	
+	- śmierć w O.asis + śmierć w historii
+		- zasady dotyczące śmierci różnią sie pomiędzy sektorami/historiami
+		
+		- jeśli śmierć jest wyjasniona w oasis, bohater nie umiera, dzieje się z nim to co zostało opisane w oasis
+		- jeśli śmierć jest niewyjaśniona, bohater umiera całkowicie - śmierć taka jak w rzeczywistości, bez powrotu 
+		
+		- np. w historii o wikingach, zabity bohater trafia do walhali
+		- natomiast np. bohater ze świata urbanistycznego, który ma imitować nasz, po śmierci ląduje tam gdzie każdy człowiek - niewiadomo 
+		
+		- JEDNAK jeśli bohater umiera w O.asis, może zostać przywrócony do życia podczas historii (historia przywraca do świat do "checkpointu")
+		
+	- śmierć przez zapomnienie
+		
+		- bohater jest zapomniany - traci siły, i powoli zanika ze świata 
+		- M.A.R.K. może zapomnieć, ale oasis nigdy nie zapomni
+}
+
+
+
+
+
+
+
+
+

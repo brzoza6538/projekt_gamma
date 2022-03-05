@@ -1,0 +1,42 @@
+- reprezentacja poprzez kolory w O.asis - każdy ma swój kolor który pokazuje ich wkład w historię
+
+
+
+ Pomysł I (/kolory_1.txt)
+{
+
+- Andrew wymyślił zarys nowej postaci - kontury postaci są zielone
+- Mark dodał postaci emocji i osobowości  -  twarz jest niebieska
+- Kendra dodała mu historię i motywacje - detale są żółte - tak samo tło
+- Russel udoskonalił moce postaci, jak działają i dlaczego działają - moce są czerwone (np. wysuwane pazury, pioruny są czerwone)
+
+- ludzie tworząc nowe postacie zwykle skupiają się na jednej rzeczy a postacie zwykle przypominają ludzi których znają, lub ich samych
+- ten sam charakter, te same sylwetki mają tą samą paletę kolorów
+- świetnie pokazane, że niektóre pomysły źle się mieszają - pomarańcz, zielony i fioletowy się źle łączą, ale niebieski i zielony działają już lepiej
+- im więcej kolorów tym głębsza jest postać, ale łatwo wtedy przedobrzyć - wymieszanie ze sobą wszystkich farb da nam kolor błota, a nie arcydzieło
+
+- ważna jest możliwość stworzenia abominacji i dzieł sztuki w tym samym czasie
+
+- nikogo nie obchodzi, że było powiedziane, że włosy są zielone - włosy są koloru osoby która to wymyśliła
+}
+
+
+
+
+
+ Pomysł II (/kolory_2.txt)  - ZWYCIĘZCA ?/!
+{
+
+- Andrew wprowadza niebieski 
+- Mark czerwony
+- Kassandra zielony 
+- Russel czarny
+
+- łącząc siły są w stanie stworzyć wyraźniejsze postacie 
+- jeśli cała postać jest tego samego odcieniu zieleni nic nie zrozumiesz
+- Pracując ze sobą mieszają kolory - np. Mark pracujący z Andrew stworzy postać niebieską+czerwoną+fioletową (w uproszczeniu)
+- Russel dodaje postaci odcienia - dodaje konturów i detali - działa widocznie inaczej od reszty dla O.asis - dopracowywuje postaci
+
+- im kolory gładziej przechodzą pomiędzy sobą tym postać bardziej zgodna ze sobą samą
+- im gładsza tym mniej chaotyczna, przewidywalna
+}

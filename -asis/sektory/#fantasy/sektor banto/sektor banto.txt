@@ -1,0 +1,28 @@
+OPIS
+{
+	- średniowieczny fantasy
+	- na podstawie projektu banto
+}
+
+KOLOR PALETTE
+{
+	- duzo zieleni
+	- trochę mniej ale nadal dużo niebieskiego 
+}
+	
+MIESZKAŃCY
+{
+	- ludzie 
+		- niektórzy magiczni - magia wydaje się być przenoszona jak choroba
+			- możliwość kontroli temperatury
+			- pozwala na kontrolę temperatury dookoła ciebie
+			- Dzięki temu masz możliwość zmiany ciśnienia i atmosfery dookoła siebie
+			- jesteś w stanie kontrolować trajektorię pocisków, tworzyć wiatry, "lewitować" przedmioty
+			- trzy style walki - wiatr, lód, ogień
+			
+		- garstka futurystycznych
+			- utknęli z innego świata
+			- mogą phaseować, teleportować się, mają drony i tarcze energetyczne
+		
+	
+}

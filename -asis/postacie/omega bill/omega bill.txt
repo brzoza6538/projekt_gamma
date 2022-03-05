@@ -1,0 +1,107 @@
+OPIS
+{
+	- (omega) bill
+	
+	- zaczyna jako nastolatek - zaczął ze schorzeniem i nadprodukcją kości (Fibrodysplasia ossificans progressiva (FOP))
+	- kiedy tylko dostał moce zebrał tkankę kostną z niepotrzebnych miejsc i zrobił z niej kij
+	
+	- by zrozumiec jak działa jego moc i w pełni ją wykorzystać zajmuje się medycyną
+	- tak jak Law (one piece), potrzebuje zrozumieć jak działa ludzkie ciało, żeby w pełni wykorzystać swoją umiejętność
+	
+	- możesz pójść na nim all out jeśli chodzi o akrobacje
+	
+}
+
+paleta kolorów
+{
+	- sporo odcieni - Russel długo myślał jak miałaby działać jego moc
+		
+	- niewielki wpływ Marka - postać jest "sucha", mało emocjonalna
+	
+	- sporo niebieskiego - moc została wymyślona przez Andrew
+		
+	- sporo zielonego - medycyna pomysłem Kendry i Russela
+}
+
+REZYDENCJA
+{
+	- oryginalnie - urbanistyczny/
+	- aktualnie - zmienny
+}
+
+
+EKWIPUNEK
+{
+	- ubrany zwyczajnie - czasami koszula, czasami płąszcz, czasami bluza
+	czy
+	- plauge doctor style? - z lekka zielonkawy, czarny płaszcz, maska 
+	
+	- kij / laska z kości którą może manipulować - wzmocnić szkielet/ zrobić miecz etc...
+	
+	- torba przyczepiona z różnościami - środki znieczulające, adrenalina, różne odczynniki
+}
+
+MOCE & UMIEJETNOSCI
+{
+	Manipulacja ciałem
+	{
+		-moc rozłożenia masy ciała jak tylko sie chce
+		- pełne wykorzystanie talentu dzięki zrozumieniu jak działa ludzkie ciało 
+		- dopóki cząstki ciała nie zostały zmienione w żaden sposób (spalone/ przeżarte kwasem) - można je dowolnie wykorzystywać
+		- jest w stanie wykryć gdzie jest jego ciało, ale nie ma kontaktu myśli pomiędzy dwoma odrębnymi częściami ciała
+		
+		
+		[chwilowo zablokowane]	- nie rozumie jak działa ciało wystarczająco dobrze by to aktualnie używał	- odblokowanie przez naukę medycyny
+
+		klonowanie
+		{
+			- moc tworzenia klonów, tak długo jak masa się zgadza 
+			- podzielenie masy na dwa oznacza pracowanie w skali pierwiastek sześcienny z dwa - masa zależy od objętości(a^3) - skala się zmienia w zależności w ilu wymiarach pracujemy
+
+			- klony są identyczne do oryginału ale różnią się wielkością 
+			- nie jest to do końca zasadą, po prostu tak jest mu najłatwiej - tworzenie ciała od zera jest skomplikowane - łatwiej zrobić kopiuj wklej własnego ciała
+			
+			- klony są tylko masą, jesłi oberwą obrażenie nie przeniesie się na oryginał
+			- tak długo jak oryginał może odzyskać masę z której zrobił klony, nie ma żadnych kosekwencji
+			- jeśli oryginał oberwie, będą konsekwencje
+			- może  nawet zrobić sekcję zwłok klona, zanim go z powrotem przyswoi
+
+			
+		}
+		
+
+		[chwilowo zablokowane] - regeneracja własnego ciała	
+		{
+			- możliwość leczenia poprzez natychmiastowe sklepienie i zagojenie rany
+			- spalony materiał jest niemożliwy do wyleczenia
+			
+		}
+
+		[chwilowo zablokowane] - moc rozłożenia masy ciała jak tylko sie chce - nie tylko klonowanie (kopiuj-wklej) 
+		{
+			- zmiana postaci jak tylko się podoba dopóki masa się zgadza
+			- na przykład ucho z palcami które może się przekraść i robić za podsłuch
+		}
+		
+	}
+	
+	
+}
+
+HISTORIE W OASIS
+{
+	-identyfikator histori z której powstał
+	
+}
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+	-identyfikator histori w jakich bierze udział w O.asis
+
+}
+
+
+POMYSŁY 
+{
+	- 2D slash - kompresja do momentu że obiekt jest praktycznie dwuwymiarowy
+}

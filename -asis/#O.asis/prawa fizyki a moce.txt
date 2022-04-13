@@ -22,7 +22,11 @@
 	- prawa natury tego świata na to pozwalają - nie ich moce 
 	- poza ich sektorem ich marionetki, oraz ich przyszyte części zmieniłyby się w kompostownik po tygodniu
 
-
+- klątwy i inne efekty długotrchwałe:
+	- działają tylko w sektorze z którego pochodzi
+	- po wyjściu klątwa przestaje działać
+	- po powrocie klątwa wraca do działania
+	- klątwa poza sektorem nie jest aktywna, ale fakt przeklęcia pozostaje
 
 
 

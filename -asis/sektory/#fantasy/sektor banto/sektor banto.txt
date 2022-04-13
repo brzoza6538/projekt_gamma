@@ -12,17 +12,40 @@ KOLOR PALETTE
 	
 MIESZKAŃCY
 {
-	- ludzie 
-		- niektórzy magiczni - magia wydaje się być przenoszona jak choroba
+	- ludzie:
+		-magiczni
+		-futurystyczni
+		-zwykli
+	
+	- pasożytnicze istoty magiczne
+		- umożliwiają korzystanie z mocy ludziom, zabierając część
+	
+
+}
+
+
+OPIS
+{
+
+	- magia:
+		- niektórzy ludzie są magiczni - magia wydaje się być przenoszona jak choroba
+		- kto się zbliży do magika może dostać moce
+		- każdy ma mane/siłe życiową - pasożytnicze magiczne cuś daje ci do niej dostęp zżerając część
+		- coś jak wbicie słomki w kartonik z sokiem - potrzebujesz słomki żeby się dostać do soku, ale zawsze trochę soku zostanie w słomcę
+		
+		moce:
 			- możliwość kontroli temperatury
 			- pozwala na kontrolę temperatury dookoła ciebie
 			- Dzięki temu masz możliwość zmiany ciśnienia i atmosfery dookoła siebie
 			- jesteś w stanie kontrolować trajektorię pocisków, tworzyć wiatry, "lewitować" przedmioty
 			- trzy style walki - wiatr, lód, ogień
-			
-		- garstka futurystycznych
-			- utknęli z innego świata
-			- mogą phaseować, teleportować się, mają drony i tarcze energetyczne
+			-tworzyć "elementale", kontrolując ułożenie ognia/lodu/dymu (salamandra/golem/wilk)
 		
-	
+	- zagubieni:
+		- garstka futurystycznych ludzi w kombinezonach/egzoszkieltach 
+		- przez przypadek przyszli z innego świata/ przyszłości i nie mogą wrócić
+		- mogą phaseować, teleportować się, mają drony i tarcze energetyczne	
+		
+		
+
 }

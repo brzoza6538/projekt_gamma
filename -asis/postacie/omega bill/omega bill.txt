@@ -1,5 +1,9 @@
 OPIS
 {
+? 	- czy jest z grupy w której był eye mimic?
+		projekt_gamma\-asis\sektory\#urbanistyczne\sektor niewielkich mocy
+		projekt_gamma\-asis\postacie\eye mimic
+
 	- (omega) bill
 	
 	- zaczyna jako nastolatek - zaczął ze schorzeniem i nadprodukcją kości (Fibrodysplasia ossificans progressiva (FOP))
@@ -26,7 +30,13 @@ paleta kolorów
 REZYDENCJA
 {
 	- oryginalnie - urbanistyczny/
+	
+?	projekt_gamma\-asis\sektory\#urbanistyczne\sektor niewielkich mocy?
+		- czy moc nie za duża, żeby to zrobić?
+	
 	- aktualnie - zmienny
+	
+?	projekt_gamma\-asis\sektory\#fantasy\sektor na kwarantannie - baza wypadowa?
 }
 
 
@@ -104,4 +114,39 @@ HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
 POMYSŁY 
 {
 	- 2D slash - kompresja do momentu że obiekt jest praktycznie dwuwymiarowy
+	
+	
+	- historia z o.asis
+	{
+	
+		- jeśli wystarczająco się skoncentruje jest w stanie przerobić też masę którą po prostu połknie 
+		- jeśli zje kamień nie jest on częścią niego 
+		- potrzebuje ogromnego skupienia żeby wykorzystać taki materiał 
+		
+		
+		- wykorzystał to żeby stworzyć swoje klony 
+		- stworzył 7 klonów po jednym na każdy kontynent i wysłał je żeby się same rozmnażały i analizowały sytuację
+?		- w ten sposób nie ma jednej osoby która zna cały plan [nie doszłoby wtedy do pomyłki w przypadku międzynarodowej sytuacji?]
+		
+		- klony tworzą nowe klony, zmieniają im twarzę i budowę 
+		- robi się z tego praktycznie organizacja, ktora ma zarówno tysiące jak i tylko jednego członka
+		
+		- założenie jest proste, trzeba zacząć od początku z wiedzą którą zebraliśmy, ale bez tyranii ludzi manipulujących innymi
+		- trzeba się pozbyć wszystkich którzy kierują tym światem
+		- problem że jeśli pozbędziesz się kilku reszta się ukryje
+		- trzeba zabić wszystkich na raz 
+		
+		- cała organizacja planuje jeden wielki dzien zero 
+		- zabójstwo każdej ważnej figury 
+		
+!		- PROBLEM - Po prostu powstanie nowa generacja ludzi rządzących światem po wielu walkach i śmierciach
+		
+	}
+	
+	- zapis danych 
+		- zamrożony mózg w słoiku sprzed tygodnia, dwóch, trzech itd.
+	
+	
+	
+
 }

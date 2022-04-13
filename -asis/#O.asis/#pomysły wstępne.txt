@@ -44,3 +44,22 @@ ORGANIZACJA TELEPATÓW
 
 ///////////////////////////////////
 
+STOPNIOWANIE MOCY
+{
+	- niektóre moce są na tyle popularne że są stopniowane i klasyfikowane
+	
+	np shapeshiftery - 
+		1 stopień - modyfikacja jednej specyficznej część ciała
+		2 stopień - możliwość zmiany dowolnej częśći ciała, ale nie całego ciała na raz
+		3 stopień - zwykły, kopiowanie całego ciała
+		4 stopień - robisz z ciałem co chesz - nie kopiujesz otoczenia, wymyślasz co chcesz zrobić
+		
+	telepaci:
+		1 stopień - "czujesz" emocje
+		2 stopień - słyszysz myśli innych
+		3 stopien - możesz przejrzeć wspomnienia
+		4 stopień - możesz kontrolować innych
+		
+		
+		
+}

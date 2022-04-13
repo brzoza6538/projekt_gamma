@@ -13,3 +13,8 @@ MIESZKAŃCY
 	- ogólne rasy itd. powszechnie występujące w danym regionnie
 	- np. gnomy są często spotykane w sektorze futurystycznym i steampunkowym 
 }
+
+OPIS DO GŁĘBI
+{
+	- co tak ciekawego w tym sektorze 
+}

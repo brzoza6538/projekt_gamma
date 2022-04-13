@@ -1,0 +1,38 @@
+- stworzenie okrągłego portalu dookoła siebie 
+- wygląda jak pole siłowe - dochodzi do zniekształceń, jakby patrzyło się przez szkło/ dym ale nic więcej
+- każdy cios jest teleportowany by padł na atakującego 
+- próbujesz dźgnąć go, ostrze telopertuje się w ciebie 
+
+- osoba traci energię żeby stworzyć portal, nie traci energi na przeniesienie przedmiotu
+- przeniesienie kostki do gry i kuli do kręgli będzie go kosztowało tyle samo energi
+
+- nie traci energii na odbicie ciosu, czy blokowanie go
+- nie ważne jak mocny cios, osoba traci energię tylko żeby go przemieścić
+- traci zawsze tyle samo energi na przeniesienie ciosu
+
+- żeby atak zawsze spadł na przeciwnika broniący musi co chwila zmieniać połączenie pomiędzy portalami 
+- przeciwnik się przemieszcza, więc miejsce w które celuje portal też sie zmienia 
+- aktywna obrona zużywa więcej energi bo portale się co chwila zmieniają 
+
+- może też zrobić bańkę portali i nie ruszać jej, nie tracąc wtedy energii
+- wtedy tylko cel portali się nie zmienia i atakujący nie otrzyma zawsze ciosu z powrotem w siebie 
+
+- nic nie dociera do bańki 
+- musi jednym z portali dostarczać sobie tlen
+- jeśli przeciwnik odkryje który to portal, broniący będzie miał przerąbane 
+- musi co chwila ukrywać/uciekać tym portalem od przeciwnika 
+
+- nie może robić portali do miejsca którego nie widzi - dokładniej po prostu sie boi 
+- ziemia się przemieszcza, więc jest szansa że stworzyłby portal do pustki kosmosu, która wciągnełaby w siebie wszystko 
+
+- najlepszy sposób kontrataku? szybkie lekkie ciosy
+- jeśli się wystarczająco szybko poruszasz broniący nie nadąży ze zmianą portali 
+- masz szansę trafić na portal od tlenu 
+
+- ALBO - jeszcze lepiej 
+	- ataki obszarowe
+	- bomby dymne POD portale na przykład
+	- granat by walnął z powrotem w ciebie
+	- ale dym po prostu się rozleci dookoła, przejdzie przez portal i może nawet dojdzie do portalu dostarczającego tlen 
+
+- portale są praktycznie przezroczyste - lekko błękitne/fioletowe na krawędziach trochę jak mgiełka

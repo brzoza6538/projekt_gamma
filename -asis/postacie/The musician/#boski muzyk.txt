@@ -1,0 +1,64 @@
+OPIS
+{
+	- osoba z trzecią ręką
+?	- gra całkiem nieźle na instrumencie [duolin czy coś zwykłego?]
+	
+	- nie jest to gra doskonała, jak ludzie ją słyszą, wiedzą że jest dobra, ale nie padają przed nim na kolana
+	
+	- natura to nieświadoma swojego istnienia siła wszeświata
+	- lubi muzykę, ale dlatego że "każda potwora ma swojego adoratora", nie ponieważ muzyka jest cudem świata
+	- zachowuję się trochę jak zwierzę - podoba jej się muzyka, ale jak skończy grać, zapomina o całym zajściu
+	
+	
+
+	- muzyk boi się śmierci
+	- gra na łożu śmierci, żeby zyskać kilka lat życia
+	
+	- 
+}
+
+KOLOR PALETTE
+{
+	-czerwony
+	- niebieski
+	- zielony i czarny
+}
+
+
+REZYDENCJA
+{
+	- oryginalnie - "nazwa_sektora" / "nazwa zgrupowania/nazwa_sektora.txt"
+	- aktualnie -  -||-
+}
+
+
+EKWIPUNEK
+{
+	- duolin - skrzypce z dwoma szyjkami
+}
+
+
+MOCE & UMIEJETNOSCI
+{
+	- Boska muzyka
+		- kiedy gra natura robi wszystko żeby muzyka dalej grała
+		
+		- zabiję ludzi którzy mogliby ją zakłócić i broni muzyka na wszystkie sposoby
+		- nawet leczy go, kiedy rana nie pozwala mu kontunuować gry
+		
+		- nie gra ulubieńców - bo nie wie nawet kto gra, co to muzyka i co się dzieje
+		- wie jedynie nie może pozwolic żeby piosenka zakończyła się przedwcześnie
+
+}
+
+HISTORIE W OASIS
+{
+	
+}
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+
+}
+
+

@@ -1,0 +1,69 @@
+OPIS
+{
+	- mądry, ale brakuje mu sprytu i emocjonalnej kotwicy
+	- spokojny, mechaniczny
+	
+	- zależy mu na innych, przez co przestrzega tradycji, ale potrafi o tym zapomnieć kiedy się wciągnie w doświadczenie
+}
+
+KOLOR PALETTE
+{
+	-niebieski
+	- zielony
+	- czarny
+	- czerwony
+}
+
+
+REZYDENCJA
+{
+	- oryginalnie - projekt_gamma\-asis\sektory\#fantasy\sektor franknsteinów
+	- aktualnie -  -||-
+}
+
+
+EKWIPUNEK
+{
+	- 9 marionetek #( + 1)
+		- 6 marionetki z kuszami automatycznymi jako obie ręki
+			- kusze przyszyte w ten sposób, żeby można je było przeładować jedną ręką
+		
+		
+		- 3 marionetki obsługujące balistę 
+		
+#		- marionetka z piłą łańcuchową	
+
+	
+	-naginata skalpelopodobna
+		
+}
+
+
+MOCE & UMIEJETNOSCI
+{
+	- "moce" frankensteinów 
+}
+
+HISTORIE W OASIS
+{
+	
+}
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+
+}
+
+ - Egon
+	- opanowany, jeden z mądrzejszych 
+	
+	- marionetki
+		- metalowe dodatki 
+		- połączenie kilku ludzi w żywą balistę
+		- matalowe ręce, nogi
+	
+	- obchodzą go tradycje, ale nic nie stanie na drodze progresu
+	
+	
+
+# - O.asis canon

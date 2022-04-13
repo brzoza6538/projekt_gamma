@@ -1,0 +1,73 @@
+OPIS
+{
+	 - zwykle jest spokojny, rzadko się odzywa 
+	 - dba o innych bardziej niż ktokolwiek
+	 - zależy mu żeby czuć się przydatnym
+	 - pomaga jak może
+	 - w walce skupia się zwykle na obronie innych 
+	
+	- specjalizuje się w "golemach" - marionetkach ze skórą z gliny i ludzkimi częściami ciała pod skorupą
+}
+
+KOLOR PALETTE
+{
+	- dużo czerwieni
+	- średnio zielonego
+	- czarny
+	- niewiele niebieskiego 
+}
+
+
+REZYDENCJA
+{
+	- oryginalnie - projekt_gamma\-asis\sektory\#fantasy\sektor franknsteinów
+	- aktualnie -  -||-
+}
+
+
+EKWIPUNEK
+{
+	- 12 marionetek otoczonych gliną zmieszaną z trzciną dla wytrzymałości
+	
+		- dwie otocznone cegłami 
+			- większe od reszty 
+			- na tyle duże że mógł użyć cegieł zamiast otaczać je po prostu gliną 
+			- jedna to wielgachny facet, druga to niedźwiedź
+			- atakują czystą siłą fizyczną
+			
+			
+		- cztery ze skorupą z gliny 
+			- normalnej wielkości 
+			- przypomina to bardziej zbroję niż kombinezon 
+			- dużo szczelin, otworów na atak 
+			- mają piki i tarcze
+			- wyglądają jakbyś wrzucił coś do gliny i wysuszył 
+		
+		
+		- sześciu od ścian
+			- na każde dwie marionetki przypada zapora z cegieł
+			- łącznie są trzy zapory
+			/| - o takie cuś na kółkach 
+			- przenośne ściany dwa metry na dwa metry wysokości 
+			- wyposażenie marionetek jest identyczne do marionetek ze skorupą 
+			
+	- sam używa tarczy i miecza wyglądającego jak skalpel
+		
+}
+
+
+MOCE & UMIEJETNOSCI
+{
+	- "moce" frankensteinów 
+}
+
+HISTORIE W OASIS
+{
+	
+}
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+
+}
+

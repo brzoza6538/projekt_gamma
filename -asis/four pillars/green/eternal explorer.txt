@@ -24,4 +24,6 @@ O.asis
 {
 	- nadal podróżuje, mapuje całą O.asis
 	- po rozmowie z magiem postanawia stworzyć mapę całego O.asis
+	
+	- zdecydowanie jest potężniejszy od maga, ale nigdy nie interweniuje 
 }

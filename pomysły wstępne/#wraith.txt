@@ -26,7 +26,7 @@
  - immobilizacja
  - drugie ciało w tym czasie korzysta z okazji i atakuje 
  
- - upiór może wytrzymać bez ciała
+ - upiór może się utrzymać bez ciała
  - nie może niczego dotknąć, a nic nie może dotknąc jego 
  - jego jedyna moc to opanowanie truchła
  - 

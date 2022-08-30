@@ -26,7 +26,8 @@
 - ziemia się przemieszcza, więc jest szansa że stworzyłby portal do pustki kosmosu, która wciągnełaby w siebie wszystko 
 
 - najlepszy sposób kontrataku? szybkie lekkie ciosy
-- jeśli się wystarczająco szybko poruszasz broniący nie nadąży ze zmianą portali 
+- jeśli się wystarczająco szybko poruszasz broniący nie nadąży ze zmianą portali albo uzna że nie ma energi na zmianę umiejscowienia portali 10 razy na sekundę
+portale nie są wtedy w ciebie wymierzone, więc tylko niewielki procent w ciebie trafia
 - masz szansę trafić na portal od tlenu 
 
 - ALBO - jeszcze lepiej 
@@ -36,3 +37,17 @@
 	- ale dym po prostu się rozleci dookoła, przejdzie przez portal i może nawet dojdzie do portalu dostarczającego tlen 
 
 - portale są praktycznie przezroczyste - lekko błękitne/fioletowe na krawędziach trochę jak mgiełka
+- albo szklano przezroczyste ze złotymi obwódkami
+
+
+
+
+
+
+POMYSŁ 2:
+{
+	- portal kinetyczny?
+	- przenosisz tylko energię, sam przedmiot się nie porusza
+	- łatwo pokonać używając czegokolwiek poza energią kinetyczną
+	- obiekt wytraca siłe w jednej chwili, a energia wylatuje drugim portalem
+}

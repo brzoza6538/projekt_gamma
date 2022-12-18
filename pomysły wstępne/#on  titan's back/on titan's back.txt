@@ -1,0 +1,104 @@
+ - dzielimy świat z ogromnymi istotami 
+ - pracują jak autobus/dźwig więc płaci im się jak autobusowi/dźwigowi 
+ - są mądrzejsi od ludzi, ale super powolni dla naszych oczu
+ - o wiele mniej ich w porównaniu do ludzi
+ - myśl my dla nich to mrówki, oni dla nas wieloryby
+ 
+ - dla uproszczenia - jedna moneta to koszt życia 
+ - ile muszą zapłacić za jeden dzień podróży i ilu żeby im się zwróciło to?
+ - tytan dwa razy większy od człowieka je za dwie monety itd.
+ 
+ - to co dostają musi być > kosztu życia
+ - to co dostają zależy od tego ile osób mogą przenieść maxymalnie
+ 
+ pomysł 1
+ {
+ - w przybliżeniu potrzeba by było żeby przy wszystkich miejscach zajętych 
+ - przy założeniu że jest w stanie nosić 25% swojego ciężaru ciała (słonie jak i my tyak mamy więc chyba bomba)
+ - przy założeniu że głód się skaluje jak masa
+ - potrzebaby było żeby 64 osoby płaciły przynajmniej 12 razy ludzką średnią dzienną życia 
+ - gigant musiałby być 750 razy większy - w przybliżeniu 9 razy wyższy
+ - krok jest też 9 razy dłuższy - powiedzmy że gigant też chodzi 6 razy szybciej od człowieka 
+ - bo prędkość zależy od s/t gdzie skala dla s jest 9 a giganty jako wolniejmyślące potrzzebują więcej czasu
+
+ - miałoby to sens tylko jeśli drogi by było bardzo niebezpieczne, albo niedostępne, 
+ - raczej starsze niż nowsze klimaty 
+ 
+ - może w sumie sie zaopatrzać w lesie 
+ - jest za duży na mieszkanie w średniowieczu(to musiałaby być katedra żeby go zmieścić a te powstają dekadami)
+ - nie ma w sumie za dużo wydatków w tej wersji 
+ 
+ - historia, chłopiec ucieka z domu, nie ma kasy więc daje przewoźnikowi jedzenie(ukradła?)
+ - przewoźnik z dwojga złego się zgadza, pod warunkiem że zajmie się robotamiw plecaku
+ - po dojeździe przewoźnik z dwojga złego przewoźnik proponuje nie rozwiązywać współpracy
+ - głównie zajmuje się rachunkami i gotowaniem - plecak ma teraz w ofercie odpłatne jedzenie
+ 
+  https://www.desmos.com/calculator/fyi9fjm8k4
+ } - obliczenia nie zakładają praktycznie żadnych ścian czy podłóg ale jakoś to wygląda plus minus
+ 
+ 
+ 
+ 
+ 
+ pomysł 2 - 
+ {
+ - czasy teraźniejsze
+ - sieć tytanów miejskich
+ - noszą ze sobą parę wagonów na plecach i zdejmują po jednym na odpowiedniej stacji
+ - komercjalizacja i mniejsze trasy oznaczają mniejsze koszta, oraz brak potrzeby pokoi
+ - teraz wystarczą krzesła
+ - tytan obsługuje teraz więcej ludzi dziennie, bo trasy są krótsze
+ - (normalnie nikt nie myślałby w średniowieczu o podwózcę dwa kilosy dalej na drugi kraniec miasta)
+ - jako transport miejski są wspierane rządowo
+ - mi
+ 
+ - albo wielkości wagonów pociągąwych(40 ton - 80 ludzi - 15*80*4 dziennie za cztery wagony - 5000 razy większy)
+	-
+ 
+ - albo kontenerowe(4~5 ton - 20 ludzi(siedzeni na pół metra plus wujścia) - 10*20*4 dziennie za cztery wagony - 800 razy większy)
+	- krok jest też 9 razy dłuższy - powiedzmy że gigant też chodzi 6 razy szybciej od człowieka 
+	- bo prędkość zależy od s/t gdzie skala dla s jest 9 a giganty jako wolniejmyślące potrzzebują więcej czasu
+
+	 załóżmy że trasa zbierająca średnio 70% miejsc trchwa 10 minut
+	 - (musi odłożyć wagon i wziąć następny to trochę zajmuje nie opłacołoby się tego robić jak autobusy)
+	 - może to robić 8 godzin dziennie, czyli zrobiłby minimum 48 kursów - czyli około 1060 normalnej ilości do przeżycia
+	 - i to jeszcze nie licząc wsparcia rządowego
+	 - przy koszcie 0,3 średnich dziennych wydatków ludzkich dziennie dostaje około 800 średnich(przy zapotrzebowaniu 800)
+	 - są nadal na tyle małe że mogłyby mieszkać w hangarach i tym podobnych
+	 
+	 - określem średnie wydatki na żywność - powinny one składać się na 1/5-1/3 całego dziennego zarobku
+	 - żeby to miało sens ludzie musieliby płacić 0,9 (około 30-40 zyla) za 10 minutową przejażdżkę
+	 - licząc z rządową pomocą może miałoby to jeszcze sens, ale nadal mały
+	 
+	 
+ https://www.desmos.com/calculator/4x91n2qsqj
+}
+
+
+
+
+pomysł 3
+{
+ - może miałoby sens jako zwiedzanie?  - jak te autobusy bez dachów co zapierniczają po hollywood
+ - wtedy można by było wymulić nawet ze trzy średnie dać i nie potrzeba by było sieci - tak z godzina zwiedzania i bomba
+ - jeden wagon - 20 osób - 5 ton - 200 razy większy od człowieka - 8 wycieczek dziennie
+ 
+ - wydatki raczej się nie zmieniają względem wilekości
+ - z 800, za wymulenie 6,2 średniej (ze 250 zyla) 
+ - lub 620 za 4,8 średniej(okolo 200 zyla)
+ 
+ 
+ https://www.desmos.com/calculator/tvurjt7yav
+}
+
+
+
+
+
+
+ https://blog.railwaymuseum.org.uk/just-the-ticket/
+ 
+ 
+ 
+ 
+ czy to jest aż tak nieopłacalne jak myślę?

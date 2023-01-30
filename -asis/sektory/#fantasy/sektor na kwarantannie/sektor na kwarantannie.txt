@@ -37,6 +37,7 @@ OPIS
 
 	- klątwa tak naprawdę była zupełnie nieszkodliwym wirusem który został zaczarowany, żeby wpływał na ludzi
 	- wirus był nie do wykrycia i w żaden sposób nie wpływał na życie
+	- kontrola graniczna nic nie widziała, bo sam wirus nie wpływał na przyszłość świata do którego wchodził
 	- magia którą przenosił z kolei, w granicach sektora, była aktywowana i wprowadzała zmiany w człowieku
 	- wchodzisz do sektora i chociaż jeden jest na tobie? - zostajesz przeklęty
 

@@ -23,7 +23,7 @@ MIESZKAŃCY
 		
 		
 		- np. człowiek patrząc na pewien symbol tworzy na nim niewielkie wyładowanie elektryczne
-		- np. człowiek może sobie podgrzać rękę, ale nadal czuje ciepło
+		- np. człowiek może sobie podgrzać rękę, ale nadal czuje ciepło (fun: kiedy straci rękę nadal może podgrzać miejsce gdzie była jego ręka)
 		- np. człowiek po utracie oczu uzyskuje x-ray vision
 		
 		- loteria jeśli chodzi o te moce

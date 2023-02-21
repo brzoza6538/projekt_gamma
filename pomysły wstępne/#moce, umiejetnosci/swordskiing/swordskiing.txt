@@ -1,0 +1,7 @@
+ - nosi narty z ostrzy
+ - może teleportwać się na szczyt jednej specyficznej góry
+ - nauczył się to wykorzystywać do obrony
+ - zjeżdża cicho na nartach zacina gościa szybko, teleportuje się z powrotem
+ - zjeżdża z drugiej strony na nartach, zacina i teleportuje się z powrotem
+ - wejście na górę zajmuje dni, zjazd zajmuje kilka minut
+ - czuje się w niebezpieczeństwie? - teleportuje się z powrotem

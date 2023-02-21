@@ -1,0 +1,9 @@
+ - główny świat - zasady głównej historii
+ - lokalizacje - miejsca w głównej historii
+ - świat gdzie - miejsca gdzie coś działa w jakiś sposób
+ - moce, umiejetnosci - moce, umiejętności, style walki, 
+ - historie - tu trafiają postacie, lokalizacje, przedmioty itd. z powiązaną historią - ma priorytet
+ - istoty - stworzenia co żyją ale nie myślą
+ - przedmioty - przedmioty
+ - postacie - postacie o których jedynych rzeczą którą o nich wiemy jest ich moc, czy broń (te idą do moce, umiejętności, czy przedmioty)
+ - różne - dziwne rozkminy które gdzieś chce zapisać ale nie mam pojęcia gdzie

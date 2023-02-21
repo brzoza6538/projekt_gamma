@@ -1,0 +1,9 @@
+ - zwiększając moc broni palnej w końcu dojdziesz do momentu gdy odrzut urwałby ci rękę
+ 
+ - rozwiązanie?
+ - odrzut nie ładuje kolejnego pocisku
+ - łuska wylatuje z taką samą siłą co sam pocisk z tyłu po prostej linni żeby nie przekazać żadnej siły strzelającemu
+ - ładuje się ręcznie 
+
+ - krater powstaje z przodu i tyłu
+ 

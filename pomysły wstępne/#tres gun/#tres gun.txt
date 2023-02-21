@@ -1,0 +1,7 @@
+ - bo nie moge tego po prostu nazwać trigun
+ - ogromny rewolwer z bębnem na 6 strzałów, 3 naboje każdy
+ - lufy tworzą trójkąt, na którego środku jest celownik laserowy
+ - z celownikiem zawsze problem że nigdy nie patrzy dokładnie gdzie poleci strzał
+ 
+ - teraz rozrywane jest dokładnie wszystko dookoła laseru
+ - więc technicnie rzecz biorąc dokładnie tam gdzie się celowało

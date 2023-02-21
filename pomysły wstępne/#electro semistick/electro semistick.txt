@@ -1,0 +1,3 @@
+ - kij modułowy zakończony paralizatorem
+ - moduły połączone sznurkiem
+ - napinasz sznurek prostujesz kij

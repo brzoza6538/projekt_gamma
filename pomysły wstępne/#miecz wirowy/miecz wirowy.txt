@@ -1,0 +1,6 @@
+ - miecz zakończony naostrzonym okręgiem
+ - można go naładować, w środku okręgu zacznie powstawać wir
+ - kiedy się naładuje można nim rzucić 
+ -? przypomina dysk, czy wir? - chyba dysk
+ -? wirujacy w środku dysk po prostu?
+ 

@@ -1,0 +1,7 @@
+ - każda broń w jednej
+ - łuk, kij, miecze, dwie długości włóczni, taarcza, kołczan, nunchak, pałka, trinunchak, sztylety, whipshot...
+ 
+ - whipshot:
+	- metalowa kulka leci prze tulejkę w biczu
+	- strzał z bicza wyrzuca kulkę z ogromną siłą
+ - 

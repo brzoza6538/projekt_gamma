@@ -1,0 +1,4 @@
+ - energia kinetyczna idzie w złą stornę
+ - kierunek * -1
+ - uderzasz, twoje ciało uderza, uderzone się zbliża zamiast oddalać od ciosu
+ 

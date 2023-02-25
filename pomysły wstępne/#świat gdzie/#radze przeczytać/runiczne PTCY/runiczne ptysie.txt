@@ -1,0 +1,20 @@
+ - runy dlaczego działają?
+ 
+ - linie robią za przewodnik, który trzeba w specyficzny sposób ułożyć żeby otrzymać odpowiedni nurt
+ - jak woda płynie przez ostry zakręt to się spieni, jak przez zaokrąglony, to nie itd.
+ - to ważne jak nakreślisz linie, bo inne składniki potrzebują innego przepływu magii
+ 
+ - linie łączą składniki, opoźniacze, bramki logiczne, inne układy itd.
+ 
+ - ważne jest żeby pilnowac timingu, żeby do niektórych elementów magia doszła przed, innym po
+ - wcześniej po prostu tworzono super długie linie, żeby przepływ dłużej zajął (musiały być proste żeby nie zmienić rodzaju przepływu)
+ - dopiero później odkryli, że mogą użyć przedmiotów żeby opóźnić przepływ
+ - świerszcze na przykład nie wpływają na układ, ale magia długo przez nie przechodzi, opóźniając przepływ (latest tech)
+ 
+ - można to modułować jak zwykłą elektronikę
+ - można na przykład połączyć 10 modółów zaklęć standardowych które podnoszą jeden kilogram każde, razem podnosząc 10 kilo
+ - możesz kupic hermetycznie zamknięte miniukłady magiczne 
+ 
+ - masz dyskusje typu co jest lepsze na opóżniacz. 
+ - Świerszcz, czy kieł tygrysa? Jedno jest o wiele łatwiejsze do zdoybcia, ale drugie jest badziej niezawodne
+ - ta sama dyskusja o tym czy używać złota, czy krwi jako przewodnika

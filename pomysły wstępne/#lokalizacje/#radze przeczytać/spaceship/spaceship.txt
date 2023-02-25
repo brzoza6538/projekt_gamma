@@ -1,0 +1,77 @@
+ - statek sznurek który leci śrubokrętem żeby sie poruszyć
+ - jak stoi, łączy koniec z początkiem, tworząc koło i sie obraca bez zużywania paliwa, tylko energi
+ - mogą łączyc się kilka ze sobą tworząc dłuższy sznurek
+ 
+ - sznurek może zmieniać kształt jakkolwiek
+ 
+ - porusza się troche jak sperma, trochę jak śruba 
+ - https://www.youtube.com/watch?v=31PrHiPRdcE
+ 
+ 
+ ------------------opcja 1
+?- statki bojowe
+?- po co im były te statki? niewiadomo, wchodzą w ptsd trans myśląc tylko o tym, ale nikt nic nie powie-
+ - sami twórcy też nie wiedzieli co tam wstawić więc jest to tajemnicą? 
+ - po 40k style inwazji kosmitów? - weredykowano wszystkie
+ - teraz sprzedali statki pod warunkiem możliwości ponownego użycia jak potwory nadejdą
+ - bliżej temu do wynajmowania
+ - wojsko nie musi sie przejmować pilnowaniem tego, a jest gotowe i jeszcze kasa do was leci
+ ------------opcja 2
+ - statki innej cywilizacji?
+ 
+ 
+ - po latach walki nasz wielki problem przestał być problemem 
+ - jest to zbyt wielka przesada na walkę interplanetarną
+ - nie ma sensu go utrzymywać
+ - jakiś gogolioner go wykupił za grosze 
+ - jego plan to stworzyć ze dwa kontynenty na nim
+ - jeden z dziwnych ryzyk typu metaverse, czy musk twitter
+ - Ten JAKIMŚ CUDEM WYGRAŁ loterię
+ 
+ - wszelkie wcześniejsze kolonie nie były w stanie sobie poradzić z grawitacją
+ - to jest pierwsza pozaplanetarna kolonia z "grawitacją" (siła odśrodkowa)
+ - ponadto z powodu wielkości można było rozłożyć przestrzeń jak się chciało 
+ - i tak było za mało chętnych żeby całość zaludnić
+ - potrzebowaliby przeludnić całą europę i amerykę (z 2022) żeby go wypełnić 
+ 
+ (według wartości minimalnych ze 2 miliardy by się zmieściły
+ (przy założeniu że zostanie jeszcze 10, 20% wolnego miejsca),
+ 3 byłyby w stanie utworzyć pierścień dookoła merkurego, 1000km długości, 26 km średnicy)
+ 
+ - nie trzeba się przejmować miejscem, mogą być chaotyczni
+ - wygląda to pięknie, większzość kolonii musi uważać na miejsce, nie może sie nic zmarnować
+ - tu z kolei wszyscy mogą się budować gdzie chcą tak jak na ziemi 
+
+ - masz lasy, parki itd. 
+ - ludzi to porwało od razu 
+ 
+ - na dodatek można pracować bez problemu bez grawitacji
+ - Na żadnym etapie nie trzeba się przejmować pracą na planecie
+ - (zwykle pracują na księżycach. mała grawitacja i blisko na dostawy)
+ 
+ - masz parę pierścieni upraw i hodowli, ale nadal masz masę zielieni w częściach urbanistycznych
+
+
+ - ponieważ ma swój własny mikroklimat pogoda też tam istnieje, masz owalne chmury, zbierające się w środku pierścienia
+ 
+ 
+ 
+ 
+ - military grade szczelność i panele słoneczne pochłaniające ciepło 
+ - mogą być cholernie blisko słońca i być uznane za układ zamknięty
+ - na pancerzu jest od cholery paneli słonecznych
+ 
+ - przy założeniu że mamy ściany statku grubości 5m średnio (ŚREDNIO nie licząc przerw itd.)
+ - mamy ~ 485 000m^3 materiału, przzy założeniu że waży 4 tony/m^3 (tytan = 4,5 a aluminium ok.3 [ton/m^3]) 
+ - ważyłby 2 000 000 ton ie licząc paliwa
+ 
+ - chyba nie aż tak dużo na żeby zmienić znacznie orbitę merkurego ale zawsze
+ 
+ 
+ - paliwo - czy wystarcza mu energia słoneczna?
+ - żeby się poruszać w kosmosie potrzeba się odepchnąc od czegoś
+ - potrzebuje stracić masę żeby się poruszyć w próżni
+ - inna opcja to magnetycznie, ale to by mocno zrąbało tor planet
+ - to musiałaby być ogromna planeta niezamieszkana i daleko
+ 
+ - może solar sail działać - łapać w żagiel to co wyrzuca słońce

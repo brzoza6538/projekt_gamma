@@ -6,14 +6,15 @@
 	- preferowane otoczenie - dżungle/lasy , jako drugie zarośnięte postapokaliptyczne światy 
 
 	- jest zaciekawiona i zachwycona światem 
-	- bio-fiz-geo
-	- wszędzie się włóczy po lesie, przy jeziorze, przy zamkniętej stacji kolejowej...
+	- bio-fiz-geo-chem , te klimaty
+	- co chwila się włóczy po lesie, przy jeziorze, przy zamkniętej stacji kolejowej...
 	- chce zrozumieć dlaczego coś się dzieje 
+	
 	- ma dwa koty i psa 
 	
-	- lubi rozwijać temat 
-	- nie wystarczy że bohater jest - pytanie dlaczego? jak? jest
-	- wymyśla motywy i historie postaciom 
+	- nie tyle kopiuje to co przeczytała słowo w słowo, raczej dostaje natchnienia
+	- przeczytała gdzieś jak powstają chmury więc luźno to wykorzysta tworząc postać
+	- nie stworzyła postać i teraz stara się znaleźć logiczne dla niej wytłumaczenie
 	
 	- tworzy też otoczenie 
 	- wprowadza zasady działania świata 
@@ -33,6 +34,6 @@ WYGLĄD
 }
 
 NA KOŃCU
-- nadal wychodzi podziwiać przyrodę ale teraz robi to rzadziej - nie odpycha wszystkiego innego żeby to robić
+- nadal wychodzi podziwiać przyrodę ale teraz robi to rzadziej 
+- nie odpycha wszystkiego innego żeby to robić
 - nadal ma lekkie problemy z dogadywaniem się z ludźmi ale już nie tak duże 
-- dużo niebieskiego

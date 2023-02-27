@@ -1,8 +1,6 @@
 - zielony - kolor Kendry - eternal explorer
 
 
-
-
 oasis
 {
 	- historia o podróżniku, odkrywcy
@@ -13,7 +11,8 @@ oasis
 	- nie czuje głodu innego niż głód wiedzy
 		
 	- przypomina model skitari
-
+	- posiada wiecznie otworzone na pełną szerokość oczy zadziwione światem
+	
 	- historia kończy się kiedy bohater zobaczył już wszystko 
 	- można się spodziewać, że to koniec jego historii 
 	- on jednak odkrywa swój statek, zarósł już mchem i najróżniejszymi roślinami pod jego nieobecność i odlatuje zwiedzić nowy świat
@@ -26,4 +25,24 @@ O.asis
 	- po rozmowie z magiem postanawia stworzyć mapę całego O.asis
 	
 	- zdecydowanie jest potężniejszy od maga, ale nigdy nie interweniuje 
+}
+
+Prolog
+{
+	- jest niemożliwie rozwiniętą sztuczną inteligencją w świecie podobnym do naszego
+	- oczywiście uznaje że samo sobie lepiej poradzi
+	- zbiera dane, informacje, poświęca całe lata pracy na ten plan
+	- pod koniec zgrywa się na szybko do ciała, żeby mieć jakąś postać
+	- kiedy otwiera oczy traci dech
+	- nie może się poruszyć, stoi zszokowany nie ruszając się nawet na milimetr
+	- kiedy wraca do zmysłów natychmiast wychodzi obejrzeć więcej świata
+	- lasy, puszcze, rzeki, góry, miasta i miasteczka, jego celem stało się zwiedzić to wszystko
+	- całkowicie zapomniał o swoich planach, to już nie miało znaczenia
+	- kiedy tylko skończył zwiedzać całą planetę poczuł niedosyt
+	- to nie było wszystko co świat ma do pokazania
+	- wrócił do swojej bazy, zaczął budować statek kosmiczny i wzmacniać swoje ciało na najgorsze warunki pogodowe
+	- kiedy zakończył budowę natychmiast wyruszył w podróż i do tej pory jej nie skończył
+		
+	- nie wiadomo co mu przeszlo przez głowę kiedy pierwszy raz otworzył oczy
+	- nie było to coś co łatwo opisać, po prostu w tym momencie jego życie, jak i on sam diametralnie się zmieniło
 }

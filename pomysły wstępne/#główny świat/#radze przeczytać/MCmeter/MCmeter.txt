@@ -1,4 +1,4 @@
-- jedyna z dwóch uniwersalnych wartości każdej postaci w O.asis
+- jedyna z uniwersalnych wartości każdej postaci w O.asis
 
 - im większy poziom tym więcej może zmienić w świecie
 

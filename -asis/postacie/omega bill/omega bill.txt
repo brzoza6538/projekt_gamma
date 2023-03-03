@@ -1,6 +1,6 @@
 OPIS
 {
-? 	- czy jest z grupy w której był eye mimic?
+? 	- czy jest z grupy w której był eye mimic? - chyba nie eye mimic jest raczej ze świata o mniejszych mocach - ale na pewno jest z urbanistycznego świata
 		projekt_gamma\-asis\sektory\#urbanistyczne\sektor niewielkich mocy
 		projekt_gamma\-asis\postacie\eye mimic
 

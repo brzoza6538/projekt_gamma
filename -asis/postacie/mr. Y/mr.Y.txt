@@ -45,6 +45,8 @@ MOCE & UMIEJETNOSCI
 	{
 		- podczas medytacji podświadomość rezygnuje z wielu procesów i skupia się na wyszczególnionej rzeczy
 		- jest w stanie rozgryźć co się stało na miejscu zbrodni w kilka sekund
+		- ale nie sbiera informacji o tym co widzi, co się dziej wokół niego itd. 
+		- trochę jak używanie karty graficznej do kopania krypto
 	}
 
 }

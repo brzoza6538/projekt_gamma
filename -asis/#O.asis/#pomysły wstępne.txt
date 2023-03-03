@@ -21,7 +21,8 @@ WIĘZIENIE
 }
 
 ///////////////////////////////////
-
+ -? czy świat gdzie każdy jest psychikiem? - pomogło by na granicy z clairvoiance
+ 
 ORGANIZACJA TELEPATÓW
 {
 	- historia gdzie każdy człowiek jest telepatą
@@ -62,4 +63,23 @@ STOPNIOWANIE MOCY
 		
 		
 		
+}
+
+////////////////////////////////////////////
+
+STRAŻ GRANICZNA
+{
+ - każdy świat ma swój własny ekosystem 
+ - wprowadzenie najmniejszej żaby może rozpierdolić australię
+ - pomyśl teraz co by się stało gryby wprowadzić superszarańczę w średniowiecznym świecie
+ - kontakt między światami nie jest zabroniony, można mieszać kultury, technologię itd,
+	ale zmiana zasad działania tego świata wymaga demokrtycznego głosowania
+ - nie można wprowadzić superroślin, żeby poprawic wydajność rolniczą 
+	jeśli roślina jest gatunkiem inwazyjnym i zmieni ekosystem
+
+ - żeby o to dbać mamy straż graniczną, zazwyczaj jakiś kolo który może sprawdzać przyszłość
+ - często ten sam superkomputer, który chociaż niezawodny, jest bardziej zawodny od sprawdzenia przyszlości
+ - sprawdzają przyszłość/stan i psychikę osobnika i przyszłość/symulację regionu po tym jak go wpuszczą
+ - opuszczających sprawdzają tylko osobnika bo sprawdzenie całego świata jest zbyt skomplikowane
+
 }

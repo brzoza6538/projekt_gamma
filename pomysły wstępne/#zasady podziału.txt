@@ -5,9 +5,11 @@
  - historie - tu trafiają postacie, lokalizacje, przedmioty itd. z powiązaną historią - ma priorytet
  - istoty - stworzenia co żyją ale nie myślą
  - przedmioty - przedmioty
- - postacie - postacie o których jedynych rzeczą którą o nich wiemy jest ich moc, czy broń (te idą do moce, umiejętności, czy przedmioty)
+ - postacie - postacie o których wiemy więcej niż tylko ich moc, czy broń (te idą do moce, umiejętności, czy przedmioty)
+	- jest jakikolwiek opis charakteru, emocji itd.
  - różne - dziwne rozkminy które gdzieś chce zapisać ale nie mam pojęcia gdzie. raczej nie zaglądajcie, lekki cringe
  
  ## - główne grupy
  # - bardziej sprezyzowane grupy pomysłów
+		masz jakiś theme - postacie/moce o podobnej tematyce
   - pomysł

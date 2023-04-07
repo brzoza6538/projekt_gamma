@@ -1,3 +1,5 @@
 - sprężyna złożona z lewitujących namagnesowanych dysków
 - dyski się odpychają
 - można użyć jako sprężyny, tarczy itd
+
+- magnesy wynikające z mocy magnetic cutana

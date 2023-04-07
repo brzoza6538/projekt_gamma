@@ -1,0 +1,76 @@
+ - kraken raiders
+ - kultuści piraci w kosmosie używająca krakena jako statku
+ - kult piratów czczących swój statek
+ -? wiele eldrichowych istot, każda ma ogromne drzewo z różnych powodów - dead elder one sektor
+
+ - origin:
+	{
+	 - eldrichowy potwór, z jakiegoś powodu zraniony/głodny w morzu
+	 -? tytan któremu wyrosło drzewo na krakenie?
+	 - jakiś kosmita podchodzi za blisko 
+	 - oszołomiony widzi jak ten koszmar się wyłania z wody
+	 - każe mu siebie nakramić
+
+	 - widząc tak niewiarygodną siłę, nawet jeśli jest czystym złem 
+	 - coś tak blisko boskości
+	 - nie obchodzi cię że jest złem, obchodzi cie że jest najbliższą rzeczą do Boga jaką w życiu znajdziesz
+	 
+	 - kapitan
+		 - jak poznaje ludzi to ich idealizuje, uznaje siebie za gorszego od nich
+		 - stawia ich na piedestale powyżej siebie
+		 - osoba nie dożywa do tych standartów - oburzenie
+		 - z czasem zauważa wady osoby i zrywa relację, jak nie są tą wyidealizowaną wersją siebie to są gorsi od niego
+		 - z czasem coraz więcej wad zauważa, osoba zostaje zrzucona z piedestału
+		 - czuje niechęć - jak mogłem tak ją idealizować
+		 - zerwanie kontaktu
+	 
+	 - kiedy widzi tą istotę nie widzi absolutnego zła, widzi absolutną moc która nigdy go nie zawiedzie
+	 - coś co pozostanie na tym piedestale aż do zarania dziejów
+	 
+	 - natychmiast leci do najbliższej wioski i załatwia "pozywienie"
+	 
+	 - przez następne pare dni przynosił dary istocie
+	 - istota zaskoczona gorliwością postanawia go wynagrodzić 
+	 - każdy fragment ciała isoty ma ogromną moc 
+	 - daje mu odrobinę własnej krwi 
+	 - wykorzystana później by stworzyć miecz wirowy(wykorzystuje krew nie jest z niej)
+	 
+	 - kapitanowi udaje się znaleźć więcej wyznawców
+	 
+	 - istota postanawia się wykorzystać kultystów na dłużej
+	 - kto nie chce służących
+	 
+	 - pozwala im zasiedlić swoją skóre
+	 - z czasem istota postanawia opuścić planetę
+	 - nakazuje swoim kultystom wybrać się z nią
+	 
+	 - podróżując po galaktykach, robiąc wypady wykorzystując zdobyte statki
+	 - nastoletnie dzieci są indoktrynowane do kultu	 
+
+	}
+	
+ - lokalizacja
+	{
+		- wszechobecne macki i korzenie głównego drzewa
+		- na środku stoi drzewo i ogromna dziura w której znikają korzenie
+		- chatki ze śmieci, pare statkóws
+	}
+	
+
+ - banda kosmitów z różnych planet wyznawających istotę na której jeżdżą
+ - miasteczko pirackie
+ - jedyne surowce przychodzą z napadów
+ - mają od istoty atmosfere i nic więcej
+
+	- istota, jak jest zadowolona nagradza najlepszych częścią siebie 
+
+- miecz wirowy
+	- wykorzystuje krew istoty
+	- animacja jak krew powoli zaczyna się zbierać
+	-? kiedy krew spływa po okręgu tworzy wir/czarną dziure?
+
+
+ - ending?
+	- Kapitan
+	- kiedy tylko widzi porażke, piedestał o boskiej proporcji spada niszcząc cały jego świat
+	- sam atakuje potwora?

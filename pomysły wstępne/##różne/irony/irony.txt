@@ -1,0 +1,5 @@
+ - stworzyć pracę która przypominałaby taką stworzoną przez AI
+ - dosłownie pracować na podstawie podanych danych
+ - nie używając AI do stworzenia pracy nawet na chwilę
+ - nauczyć się jak AI by wykonało pracę 
+ - 

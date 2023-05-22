@@ -1,0 +1,40 @@
+ - na każdej stronie jest runa innego zaklęcia
+ - jedna lekko kopnie prądem, inna zatrąbi
+ - po prostu rzucasz kością i dostajesz losowym zaklęciem
+ 
+ ?- czy to gra, czy narzędzie do zapisywania czarów?
+ 
+ 
+------------------pomysł 1
+ - dlaczego można rzucać zaklęcia tylko kośćmi?
+ - same kości mają wymienne miejsca na runy?
+ - trudno zdobyć kafelki więc nie można po prostu nastackować kości 
+ 
+ - rzucasz kością, bo to jedyny sposób żeby przechowywać runy
+ - po rzucie jesteś "natchnięty" runą która wypadła na pewien czas 
+ 
+ - same runy znikają po pewnym czasie 
+ - trzeba je przechowywać w kości
+ - kiedy "natchnięcie" się kończy runa znika na zawsze
+ - możesz w ostatniej chwili przenieść zaklęcie z powrotem do kości
+ 
+ -? czy to jest k nieskończoność? 
+ 
+ -? czy ilość ścianek zależy od ciebie?
+ - im więcej zaklęć potrzebujesz tym więcej ścianek na kości
+ - minimum 6 ścianek może mieć kość
+
+ - zżerałaby po prostu zklęcia
+ 
+ - deckbuilder taki
+ - po pewnym czasie największy problem to ilość zaklęć które nie są już potrzebne
+ 
+----------------pomysł 2
+ - zwykła gra
+ 
+	- kopnięcie prądem
+	- przyzwanie na parę sekund jakiegoś słodkiego stworka
+	- głośne tutnięcie
+	- wyrasta mały kwiatek
+	
+ ?- czy każde zaklęcie jest z jednego z głównych szczepów magii (bardowie, botaniczni, beastmasters, elektryczni?)

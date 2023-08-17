@@ -1,6 +1,10 @@
  - morderca mówi, mam tu duszę 20 osób zgodnie z umową żniwiarzu, daj mi nieśmiertelność
  - żniwiarz mówi, chwila, te dusze miały tego chcieć. morderstwo to nadal morderstwo
- - zabija mordercę, ale problem taki że zgodnie z umową musi dostarczyć nieśmiertelność
+ 
+ -X zabija mordercę, ale problem taki że zgodnie z umową musi dostarczyć nieśmiertelność
+ - chce być miły
+ - może uratować jedną z osob jesli reszta się zgodzi
+ - 
  
  - daje wybrać pozostałym ofiarom kto otrzyma nieśmiertelność
  - on po prostu zamieni tylko mordercę z wybranym miejscami w papierach
@@ -8,3 +12,5 @@
  - co sie mają śmierci na marne być?
  
  - kogo wybierają?
+ 
+ - nieważne kogo, będzie żył nieskończenie długo więc argument dziecko, a starzec nie ma znaczenia

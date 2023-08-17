@@ -1,4 +1,5 @@
  - miecz zakończony naostrzonym okręgiem
+ - trochę jakby ktoś do pirackiej szabli przyspawał na czubku czakram
  - można go naładować, w środku okręgu zacznie powstawać wir
  - kiedy się naładuje można nim rzucić 
  -? przypomina dysk, czy wir? - chyba dysk

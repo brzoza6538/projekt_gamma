@@ -1,0 +1,20 @@
+ - facet może się cofać w czasie do poprzedniego momentu
+ - tylko że prawdziwa losowość się zmienia
+ - rzeczy rzeczywiście losowe zostaną znowu wylosowane
+ - nie będą musiały mieć tego wyniku co ostatnio
+ 
+ - powrót w czasie bez powrotu
+ - np. wynik kości ci się nie podoba więc cofasz się w czasie aż dostaniesz taki jaki chcesz
+ 
+ I
+ -? czy może się cofać w czasie o określony czas?
+ - że na przykład nawet jeśli chcesz tylko przerzucić kośc, musisz się cofnąć o 15 minut 
+	i być gotowym że los nie pozwoli ci nawet znowu wejść do kasyna 
+	
+II 
+ - czy checkpointy
+ 
+III
+ - czy po prostu kiedy chcesz
+ - przydatne bo możesz przeżyc zupełnie inne zycia 
+ - butter effect style

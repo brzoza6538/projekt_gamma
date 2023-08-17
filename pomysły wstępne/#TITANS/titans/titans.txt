@@ -1,6 +1,6 @@
  - gatunek drzew 
  - na ziemi też są 
- - dęby, brzoy, cholera wie
+ - dęby, brzozy, cholera wie
  
  - same nic nie zrobią ale z wystarczająco wielkim hostem mogą go przejąć
  
@@ -13,7 +13,7 @@
  
  - samo jest pasożytem
  
- - elder one nie jest martwy
+ - "elder one" nie jest martwy
  - drzewo przejeło mózg i aktualnie przejmuje ciało
  - takie wielkie ciało przejęcie zajmuje setki lat
  
@@ -26,4 +26,5 @@
  - strasznie trudno począć wiecznego
  - niby to tylko nasiono, ale samo nie znajdzie hosta
  - to jest nasiono które ktoś musi zasiać
- - na początku jak rośnie potrzebuje tych samych warunków 
+ - na początku jak rośnie potrzebuje tych samych warunków co zwykłe drzewo
+ 

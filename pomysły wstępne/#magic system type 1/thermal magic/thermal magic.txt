@@ -1,0 +1,28 @@
+ - może stworzyć dwa bieguny temperatur kładąc ręce na połączonych ze sobą dwóch punktach
+ 
+ - im dłużej trzyma ręce na biegunach tym większa różnica temperatur
+ 
+ - trochę jak ligth/dark magic, tylko zamiast światła temperatura
+ 
+ - im lepszy przewodnik ciepła tym szybciej będą się zmieniać temperatury
+ 
+ - żeby uniknąć poparzeń mogą pracować na dobrym przewodniku ciepła
+ - zmieniają temperatury, zużywają szybko temperature i znowu kładą ręce
+ 
+ -  bieguny muszą mieć połączenie, inaczej czar pryska
+ 
+ - musisz połozyć gołe ręce
+ - opracowano specjalen rękawice bez osłoniętej strony wewnętrznej
+ - przechodzą przez całą rękawice rurki z chłodziwem, albo ogrzewaczem
+ 
+ -? tempo nagrzewania jest na tyle wolne że kiedy oderwiesz ręce, temperatura będzie się jeszcze
+	zmieniać drugie tyle czasu
+	
+ - w jakiś sposób musi dojść to do poważnych temperatur
+ 
+ - ale jak??
+ 
+ - siła zależy od wytrzymałości, nie od siły magii
+ - zawsze zmieniasz świat w tym samym stopniu
+ - siła wynika z ćwiczenia rzeczy niezwiązanych z samą magią
+ - nie możesz wyćwiczyć silniejszej magii

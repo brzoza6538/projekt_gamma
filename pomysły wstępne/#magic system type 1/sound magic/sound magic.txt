@@ -1,0 +1,20 @@
+ - każdy dźwięk ma dźwięk siostrzany
+ 
+ - dzwięki siostrzane mają moc w przeciwieństwie do zwykłych
+ - możesz zmnienić dźwięk na jego siostrzane brzmienie
+ 
+ - nie ma w tym logiki
+ 
+ - możesz tylko metodą prób i błędów znaleźć dźwięk który coś robi
+ - a później genialnym słuchem i umiejętnością muzyczną być w stanie go powtórzyć 
+ 
+ - nie możesz użyć nagrywarki
+ - nawet gdyby jakość nagrania była idealna, trzeba brać pod uwagę 
+	- jak hałas dookoła wpłynie na brzmienie, akustykę pomieszczenia, wilgotność...
+
+ - odrobię inny dźwięk ma zupełnie inny siostrzany dźwięk
+  
+ - siła zależy od umiejętności muzycznych, nie od siły magii
+ - zawsze zmieniasz świat w tym samym stopniu
+ - siła wynika z ćwiczenia rzeczy niezwiązanych z samą magią
+ - nie możesz wyćwiczyć silniejszej magii

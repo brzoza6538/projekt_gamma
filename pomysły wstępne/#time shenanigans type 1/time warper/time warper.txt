@@ -1,0 +1,63 @@
+ - time delay:
+	 - cios którego czas trchwania się nie zmienia ale, prędkość już tak
+	 - cios może zacząć super wolno, skończyć super szybko
+	 - przez 4,[9] sekundy będzie się poruszać 0,[0]1 m/s , a w ostatniej chwili przejdzie całą drogę w ułamku sekundy
+	 - od początku pięciu sekund do końca ruch się nie zmienia
+	 - cios poleci tam gdzie miał, ale czas w jednym momencie trchwał znacząco dłużej
+	 - im gorzej zrobione, tym wię↓ksza fala w drugą stronę potem
+	 - 
+ 
+ - time wave
+	 - łączy czas pomiędzy dwoma rzeczami
+	 - jednej osoby czas porusza się dwa razy szybciej, potem się wyrównuje, potem się nie porusza praktycznie wcale
+	 - fala odbijająca się od brzegu do brzegu tworząc przypływ i odpływ
+	 - może połączyć się z przedmiotem żeby być superszybki co jakiś czas, a potem superwolny
+	 - albo połączyć się z przeciwnikiem żeby na zmianę poruszali się szybko, kiedy druga osoba ledwo jest w stanie 
+	 - A:2 - B:0,		A:1.5 - B:0.5,	A:1 - B:1,	A:0.5 - B:1.5,		A:0-B:2
+	 - może też połączyć po prostu przeciwnika z przedmiotem żeby go zmylić
+	 - nie zależy to od prędkości, a od czasu 
+	 
+	 - im mniejsza fala, tym rzadziej i na dłużej jest się szybkim
+	 
+ - time parade
+	- zamieszanie wody
+	- nieprzewidywalnie zmienianie czasu
+	- trochę ryzykowne bo sam nie wiesz, ale dzięki temu nieprzewidywalne
+
+ - whirltime
+	- im dłużej trchwa tym wolniejszy ruch pośrodku i szybszy na początku i końcu
+	
+ - fala jednoosobowa
+	- co ruch szybki, ruch wolny, ruch szybki, ruch wolny
+	
+	
+ - łatwiej łączyć czas między dwoma przedmiotami falą, niż kontrolować czas samemu 
+ - traktowanie czasu jako basenu z wodą, można :
+	 - robić fale, 
+	 - kontrolować ile wody jest w tej części a ile w tej(przechylając zbiornik, tworząc wir)
+ - 
+
+?- wszystkie funkcje mocy da się przedstawić jako blisko dwuwymiarowy zbiornik z wodą(tak jak elektrykę hydrauliką)
+?- jak trudno to utrzymać po 5 sekundach?
+ - ruch określa dla 5 sekund, póżniej następuje w nim zmiana, określa 5 sekund, zmiana itd
+
+- co można zrobić z wodą?:
+	- wir - przy łączeniu wielu obiektów na raz nie ma za wielu zastosowań
+	- fale
+	- przeczylić zbiornik(trudniejsze, zamiast pomachać ręką w wodzie, musisz podnieść zbiornik pełen wody)
+	- zamieszać chaotycznie wodę
+	-
+	
+- podczas tworzenia ruchu nie trzeba sie przejmować ile to będzie trchwać 
+- robisz ruch raz a później fala, robi swoje
+
+- nosi ze sobą małe zbiorniczki z wodą do wizualizacji
+- woda się porusza zgodnie z czasem, twierdzi jaką szybko wykonuje ruch w danym okresie
+
+
+
+
+
+--------------------------------------------------------
+myśl o czasie jako wodospadzie, możesz go chwilowo zatrzymać zatykając go chwilowo ramieniem, nie potrchwa to jednak za długo 
+- przechylając dwa zbiorniki obok siebie raz woda będzie spadała tylko z jednego, raz tylko z drugiego, 

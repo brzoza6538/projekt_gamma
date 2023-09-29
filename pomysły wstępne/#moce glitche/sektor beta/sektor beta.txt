@@ -1,0 +1,31 @@
+OPIS
+{
+	- urbanistyczny 
+	- na podstawie projektu beta
+	
+}
+
+KOLOR PALETTE
+{
+	- niebieski + zielony
+}
+	
+MIESZKAŃCY
+{
+?	- zamieszkany przez ludzi - znaczny procent ma moce [10%]
+		- dusza jest w stanie zrobić cokolwiek się tym ludziom zamarzy
+		- ich ciała ograniczają duszę
+		- np. "jeśli masz rękę w tej pozycji i chcesz strzelić piorunem : nie pozwól"
+
+		- ciało nie jest doskonałe. Tak samo jak człowiek może się urodzić z nieodpowiednią liczbą rąk, ograniczenia też mogą nie być idealne
+		- czasami osłona nie działa do końca i można znaleźć exploity
+		- np. "Jeśli masz nogę w tej pozycji i chcesz podgrzać powietrze dookoła ciebie: [default] zezwolono"
+		
+		
+		- np. człowiek patrząc na pewien symbol tworzy na nim niewielkie wyładowanie elektryczne
+		- np. człowiek może sobie podgrzać rękę, ale nadal czuje ciepło (fun: kiedy straci rękę nadal może podgrzać miejsce gdzie była jego ręka)
+		- np. człowiek po utracie oczu uzyskuje x-ray vision
+		
+		- loteria jeśli chodzi o te moce
+
+}

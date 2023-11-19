@@ -1,0 +1,44 @@
+ - może w każdej chwili się teleportować do nieznanego miejsca w nieznanym czasie w nieznanym wymiarze
+ -? w jedną stronę on się teleportuje, w drugą potrzebuje pomocy drugiej osoby 
+ 
+ - kiedy teleportuje się, czas oryginalnej lokacji przestaje lecieć
+ - odchodzisz o 12:00:00.000, wracasz o 12:00:00.000
+ 
+ - przekonujesz kogoś żeby z tobą wrócił
+ - nieważne ile razy się teleportujesz, zawsze będzie to inne miejsce
+ - nigdy nie natrafisz na znajome twarze
+
+ - zawsze potrzebujesz przetrchwać w tamtym świecie wystarczająco długo żeby znaleźć sojuszników
+
+ -? sam nie jesteś nawet w stanie wrócić - potrzebujesz pomocy w drugą stronę?
+ - czasami oznacza to nauczenie się nowego języka nawet
+ 
+ - wiedza zostaje, wracasz zawsze do tego samego ciała
+ -? czy zapominasz o swoich podróżach?
+ 
+ -? może być rekurencyjnie?
+	- teleportujesz w świecie do którego się teleportowałeś (do świata 3)
+	- znajdujesz tam pomoc 
+	- wracasz do świata do którego najpierw się teleportowałeś (świat 2)
+	-? tracisz sousznika ze świata 3
+	- znajdujesz pomoc
+	-? wychodzisz ze świata 2 tylko z sojusznikiem ze świata 2
+	- wracasz do świata 1
+	
+	
+ - przykład:
+	 - ktoś cię atakuje
+	 - teleportujesz się
+	 - znajdujesz się w nieznanym świecie
+	 - znajdujesz tutejszą populacje
+	 - zaprzyjaźniasz się z nimi
+	 - uczysz się o nich, ich języka, problemów
+	 - pomagasz im
+	 - mijają miesiące
+	 - ktoś zgadza ci się pomoć
+	 - wykorzystujesz jego pomoc żeby wrócić i pokonać osobe która cię atakowałą
+	 - wracasz dokładnie do momentu w którym odszedłeś
+	 - twoje ciało nie postarzało się nawet o dzień
+	 - odsyłasz przyjaciela wiedząc że nigdy więcej go nie zobaczysz
+	 - 
+	 

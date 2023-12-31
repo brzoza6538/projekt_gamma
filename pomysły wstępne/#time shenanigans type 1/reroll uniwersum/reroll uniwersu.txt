@@ -1,7 +1,8 @@
  - facet może się cofać w czasie do poprzedniego momentu
- - tylko że prawdziwa losowość się zmienia
+ - tylko że zdarzenia prawdziwie losowe się zmieniają
  - rzeczy rzeczywiście losowe zostaną znowu wylosowane
- - nie będą musiały mieć tego wyniku co ostatnio
+ - nawet jak powtórzysz swoje kroki dokładnie w ten sam sposób, nie skończysz w tym samym miejscu
+ 
  
  - powrót w czasie bez powrotu
  - np. wynik kości ci się nie podoba więc cofasz się w czasie aż dostaniesz taki jaki chcesz
@@ -17,4 +18,4 @@ II
 III
  - czy po prostu kiedy chcesz
  - przydatne bo możesz przeżyc zupełnie inne zycia 
- - butter effect style
+ - butterfly effect style

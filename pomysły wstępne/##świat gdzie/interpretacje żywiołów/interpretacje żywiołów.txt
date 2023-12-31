@@ -8,7 +8,7 @@
  - inne regiony są wyczulone na inne rzeczy
  
  - tak jak w prawdziwym świecie jestesmy wyczuleni bardziej na inne kolory
- - rosjanie łatwiej rozróżniają odcienie niebieskiego
+ - rosjanie łatwiej rozróżniają odcienie niebieskiego ponieważ mają takie rozróżnienia w języku
  - jacyś ludzie w afryce/azji nie rozróżniają niebieskiego i zielonego
  https://www.youtube.com/watch?v=VIg5HkyauoY
  https://www.youtube.com/watch?v=mgxyfqHRPoE 
@@ -20,7 +20,7 @@
  - odcieniem ziemi i ognia jest magma
  - odcieniem wody i ziemi jest lód
  
- - każdy region się skupia na odcieniach których używa, które ma opisane i ignoruje resztę
+ - niektóre regiony się skupiają na odcieniach których używają, które są opisane i ignoruje resztę
  - niektóre ignorują podstawy zupełnie
  
  - w cholere dawno temu były 3 główne kolory czarny, biały, czerwony i reszta była ich odcieniami
@@ -52,22 +52,26 @@
  
  -----------------------------------------------------------------------------------------------
  
+ - niektóre regiony się skupiają na odcieniach których używają, które są opisane i ignoruje resztę
+ - niektóre ignorują podstawy zupełnie
+  
+ 
  - niektóre regiony uważają że z jednego żywiolu wzięła się reszta
 	- woda z wychodzi z ziemi
 	- ogień z krzemieni
-	- wiatr?
-	- metal, drewno z ziemi
+	- wiatr? - z gór?
+	- metal i drewno z ziemi
 	- ziemia jest głównym składnikiem, a reszta wychodzi z ziemi
 	- ideologia, jak możesz ziemię to możesz wszystko 
 	- możesz poruszać tylko te części innych żywiołów połączone z ziemią
-		np. ogień przez palący się węgiel, wodę przez błoto
+		np. ogień przez palący się węgiel, wodę przez błoto i nieczystości
 	- myślą że ziemia może wszystko z wystarczającą skupieniem, a każdy inny jest tylko
-		specjalizacją w ziemi. umiesz kontrolować wodę? nie, umiesz kontrolować tą specyfikację ziemi
+		specjalizacją w ziemi. umiesz kontrolować wodę? nie. Umiesz kontrolować tą specyfikację ziemi
 	-? mają więcej ludzi od ziemi, żeby poprzeć tą teorię?
 		
 	
  - inne podzieliły najważniejszy dla nich żywioł na specyfikacje
-	- np. (ziemia, kamień), woda, powietrze, ogień
+	- np. [ziemia, kamień], woda, powietrze, ogień
  
  - to że cywilizacja jest z antarktyki nie oznacza że nie mogą się
 	specjalizować w ziemi której tam praktycznie nie ma
@@ -78,14 +82,14 @@
  - 
  
  - to nie może być po prostu kopiuj wklej z odrobinę różnymi danymi 
- - każdy ma mieć inna ideologię
+ - każdy region ma mieć inna ideologię
  - i brak jedego świata któremu udało sie zgadnąć i ten region jest super a reszta to idioci
  
  
  ------------------------------------------------------------------------------------------------
  - regiony gdzie specjalizacje są ważniejsze od niektórych specjalizacji
- - uczelnia się chwali dorbymi matematykami, mają matematykę od probabilistyki, geometrii itd
-	ale mają tylko jeden przedmiot humanstyczny i każdy rodzaj wpada w tą samą kategorię. 
+ - uczelnia się chwali dobrymi matematykami, mają matematykę od probabilistyki, geometrii itd
+	ale mają tylko jeden przedmiot humanistyczny i każdy rodzaj wpada w tą samą kategorię. 
 	Co z tego że polski i prawo nie mają ze sobą nic wspólnego, 
 	a tymczasem sam polski może być podzielony na historię sztuki i pisarstwo czy jak to nazwać.
 	Oni się skupiają na tym i mają wszystkie słowa na ważne dla nich specjalizację 
@@ -99,7 +103,7 @@
 	używają pary jako umbrella term dla wody i powietrza
 	- ważne dla nich przecinające się ogień i ziemia
 
- -? ziemia i wiatr są podobne dla pustynnych
+ -? ziemia i wiatr są podobne dla pustynnych - tak, piasek w powietrzu pomaga
 	-? woda i wiatr to podobnie poprzez parę/wilgoć? - raczej nie 
 	-? ogień i wiatr
  

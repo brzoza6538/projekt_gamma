@@ -1,0 +1,12 @@
+ - zapałki z drewna tytana 
+ 
+ - sposób działania
+	- zapalasz
+	- gasisz
+	- wdychasz dym
+	- zmieniasz się w akumulator pełen tytaniej energii
+	- zbierasz zwęglone drewno z zapałki
+	- rysujesz nim na ciele rune
+	- energia tytana wykorzystuje symbol żeby opuścić ciało w podany sposób
+	
+

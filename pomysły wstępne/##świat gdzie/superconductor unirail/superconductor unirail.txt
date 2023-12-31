@@ -1,0 +1,46 @@
+ - unirail na superkonduktorze
+ 
+ 
+ - https://en.wikipedia.org/wiki/Lanthanum_decahydride
+	 - ~ -23*C
+	 - ~150 GPa
+ - https://en.wikipedia.org/wiki/Cuprate_superconductor
+	 - ~ -240*C 
+	 - ~ 0.0001 GPa
+	 - superkonduktor wysokotemperaturowy tho (śłabszy)
+	 
+
+	
+ - z reguły im niższa temperatura i wyższe ciśnienie tym lepiej
+ - aktualnie możemy tworzyć budowle które  wytrzymają 
+	~ 0.005 GPa ()
+	https://en.wikipedia.org/wiki/Atmospheric_diving_suit
+
+	- ~0.11 Gpa na stosunkowo krótko
+	https://en.wikipedia.org/wiki/Deepsea_Challenger
+ 
+ 
+ - Uranus - przykład
+	~ -224*C
+	~ 0.1 GPa
+	~ 8.7 m/s^2
+	
+ - Tytan
+	~ -180*C
+	~ 0.0015 Gpa
+	~ 1,35 m/s^2
+	- jeziora metanu
+	-? atmospheric superrotation
+	- można rozstawić pociąg na superkonduktorach zbierający metan 
+	
+ 
+ - Venus
+	~ 464*C
+	~ 0.01 Gpa
+	~ 8.9 m/s^2
+	-? miasto w chmurach
+
+	
+	
+	
+https://assets.weforum.org/editor/1SZEuK_SANLXORLMyAL4DzjB6uzG5VJbsRegkHsO8zM.PNG

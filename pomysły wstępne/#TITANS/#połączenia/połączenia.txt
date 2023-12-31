@@ -9,8 +9,8 @@
  - "kraken" na którym żyją jest stworem morskim 
   (ogromną ośmiornicą czy czymśtam) zainfekowaną drzewem tytana
 
-### aktualne "kraken riders" + "miecz wirowy" + "łuk cierni"
- - oba są artefaktami  
+### aktualne "kraken riders" + "miecz wirowy" + "łuk cierni" + "titan matches"
+ - są artefaktami  
  - "kraken" wynagradza co wierniejszych artefaktami z jego ciała
  - "miecz wirowy" należy do kapitana
  

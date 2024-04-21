@@ -1,0 +1,239 @@
+OPIS
+{
+	- średniowieczny fantasy
+	- na podstawie projektu banto
+}
+
+KOLOR PALETTE
+{
+	- duzo zieleni
+	- trochę mniej ale nadal dużo niebieskiego 
+}
+	
+MIESZKAŃCY
+{
+	- ludzie:
+		-magiczni
+		-futurystyczni
+		-zwykli
+	
+	- pasożytnicze istoty magiczne
+		- umożliwiają korzystanie z mocy ludziom, zabierając część
+	
+
+}
+
+
+OPIS
+{
+
+	- magia:
+		- niektórzy ludzie są magiczni - magia wydaje się być przenoszona jak choroba
+		- kto się zbliży do magika może dostać moce
+		- każdy ma mane/siłe życiową - pasożytnicze magiczne cuś daje ci do niej dostęp zżerając część
+		- coś jak wbicie słomki w kartonik z sokiem - potrzebujesz słomki żeby się dostać do soku, ale zawsze trochę soku zostanie w słomcę
+		
+		-? są różne odmiany magicznego wirusa?
+		
+		moce:
+			- możliwość kontroli temperatury
+			- pozwala na kontrolę temperatury dookoła ciebie
+			- Dzięki temu masz możliwość zmiany ciśnienia i atmosfery dookoła siebie
+			- jesteś w stanie kontrolować trajektorię pocisków, tworzyć wiatry, "lewitować" przedmioty
+			- trzy style walki - wiatr, lód, ogień
+			-tworzyć "elementale", kontrolując ułożenie ognia/lodu/dymu (salamandra/golem/wilk)
+			- poruszasz palące się mgiełkę alkocholu i kontrolujesz ogień
+			- sadzę i masz dym, wodę, wyładowania elektryczne...
+		
+	- zagubieni:
+		- garstka futurystycznych ludzi w kombinezonach/egzoszkieltach 
+		
+		- przez przypadek przyszli z innego świata/ przyszłości i nie mogą wrócić
+			- moce phaseowania okazały się mieć pare problemów technicznych
+		- mogą phaseować, teleportować się, mają drony i tarcze energetyczne	
+		
+		- ogólnie futurystyczni szacher macher ludzie adaptują się w różnych stopniach do otoczenia
+			- niektórzy wyrzucili kombinezon bo oszczędzają baterię na broń
+			- inni polują na innych futurystycznych żeby mieć jak najwięcej baterii 
+			- inni zaakceptowali sprawę i po prostu w różnych stopniach zaakceptowali magię
+			- inni oszczędzają baterię na kombinezon i używają broni z tego świata 
+				- jeden obwieszony od góry do dołu pistoletami flintowymi
+				- inny z siekierą
+				- jeden uznał że szpada + dash będzie niepokonane i przekłuje nawet pancerze
+			- jedni ukrywają bycie futurystycznymi przed lokalnymi, inni ukrywają bycie magami przed swoimi
+			- czasami ukrywają bycie futurystycznymi przed swoimi z powodu polowań na baterię
+}
+
+ - czas nie ma znaczenia w o.asis, mierzenie go pomiędzy sektorami żadko działa
+ 
+ - lepiej niż w większości miejsc widać połączenie tych dwóch grup które nauczyły się żyć jedna drugą plus minus
+ - w większości miejsc masz duży procent ludności publicznej i od cholery imigrantów z *różnych* światów
+ - tutaj masz dwie bardzo różne grupy, z bardzo różnych światów o dużej wielkości
+ 
+ - jak opuszczasz swój świat, bardzo żadko widujesz ludzi z twojego świata którzy wybrali podobnie do ciebie
+ - tam, jest duża grupa ludzi bardzo różnych od natywnych
+ 
+ - minęło bardzo dużo czasu od czasu problemu z phasem w historii
+ - zasymilowali się do tego świata
+ 
+ - ludzie traktują ich po prostu jako nowy rodzaj magii
+ - przeciętny człowiek nie rozumie ani jednego ani drugiego więc co szkodzi takie założenie?
+ 
+ 
+
+------------------------------ UBIÓR
+
+ - biało-niebiesko-pomarańczowe robocopy
+ - brązowo-fioletowi magowie z wstawkami
+ 
+ - są trzy standardy zbroi
+	- standart ale ze sprzętem medycznym
+	- standardowe
+	- ? (tank nie ma sensu, ich zbroje są blisko niezniszczalne i mają phasing ability, co najwyżej jest w arsenale tarcza energetyczna)
+
+ - i od chuja standardów szat magów bo nikomu się nie chce robić mundurka
+	magowie to elita ponieważ byli w akademii, niewielka ilość się wkupiła
+	
+	- szkoły magii płacą za edukację i ubranka ale każdy customizuje ile wlezie bo są dzieciakami a to nie są mundurki
+	- każdy dostaje brązowe szaty na budżecie i mówią, róbta z nimi co chceta
+	- kultura dzieciaków z ego które wiedzą że za parę lat będą koksu
+	- są na drodze rags to riches i dobrze o tym wiedzą
+	- swag wchodzi ile wlezie
+	- kultura do tradycji i nauczycieli jest po prostu szkoła ma wywalone bo to tylko ubrania na budżecie które zapewniają ludziom żeby się nie musieli martwić kosztami podczas nauki
+	- jak jakiś snob przyjdzie se i powie nie, to będzie se łaził w fancy ubrankach z domu i nikt go nie powstrzyma, tylko będą przezywać od snobów za plecami
+
+	- a jeszcze jak wyjdą ze szkoły... będą mieli chajs na fajne ubranka, ale będą musieli się trzymać plus minus ubranek szkolnych żeby było widać że są magami
+	- "wyglądasz jak mag" to jedna z lepszych reklam 
+	
+-------------------robocopy
+	
+ - oryginalnie było 300 kombinezonów i 1500 baterii
+	- 50 pilnuje instytutu 
+		- ~800 baterii (skupują od żyjących i kradną zwłokom)
+	- 200 żyje sobie po prostu
+		- 550 baterii
+		- Po śmierci może ktoś sprzeda ich zbroję do instytutu, a może mieli dzieci które ją przejmą
+	- 50 nie żyje lub zaginęła
+		- zanim świat się uregulował i przyzwyczaił do nich sporo się wydarzyło
+		- razem z nimi 150 baterii nie wiadomo gdzie są
+	
+ - nikt nie szuka powrotu
+ - mają doświadczenie w walce, nie 5 magistrów z robotyki, fizyki i elektroniki
+ 
+ - nawet jakby mieli materiały, nie byliby w stanie nic z tym zrobić
+ - po prostu od teraz tu żyją
+ 
+ - byli tacy którzy mieli nadzieję że magia im pomoże, ale z czasem się poddali jak zrozumieli jej limity
+	- to było jak proszenie czajnika żeby obliczył twój podatek
+ 
+ - aktualnie się rozeszli, większość robiła za najemników
+ 
+ - trochę biznes im się rozypał jak niektórzy z nich zostali wynajęci żeby wytrenować ludzi jak sobie z nimi radzić
+ 
+ - novelty wore off, doszło to do normy a z nią rozwiązania jak sobie z nimi radzić (zoltrak situation)
+ (na przykład odcięcie tlenu, bo nic nie przejdzie przez zbroję)
+ 
+ - założyli nawet instytut magii
+	 - niektórzy magowie do teraz na to plują
+	 - ale jakby nie patrzeć nie są w stanie dowieść że nie jest to magia
+	 - po prostu wiedzą że to coś innego niż ich magia
+	 - inni uznają że nawet jeśli jest z innego źródła to nadal jest to magia
+	 
+	 - przyjmuja bardzo mało uczniów
+	 - po prostu przyjmują mało bo jest mało sprzętu i kto lepszy ten wchodzi
+	 
+	 - jeśli chce pójść z minusami takich manewrów, to przyjmują tylko swoje dzieci, traktują tutejszych jak idiotów i nie chcą połączyć kultur
+	 - nie są nauczycielami, nie mają wyższej edukacji więc żadko ich dzieci mają jakąkolwiek przewagę która zapewniłaby im przyjęcie
+	 - większość nie zna nawet tutejszego sposobu pisania i polega na kombinezonach z translatorem
+	 - kto chce nepotyzmu jak część z nich jest tu bo nie mieli możliwości na wyższą edukacje?
+	 
+	 - poza tym często futurystyczni rodzice traktują po prostu zbroję jak klejnoty rodzinne nie posyłając dzieci do instytutu
+	 - uczą ich podstaw i oddają jak są na nią za starzy samemu
+	 - co powiedzą im tam, czego nie będą wiedzieli tu?
+	 
+	 -? kiedy przyjmują? kombinezony przecież chyba mają rozmiary tylko tych którzy w nich przyszli w plus minus
+		- raczej budowa nie ma znaczenia, problem się robi jak uczyć dzieci kiedy nie mogą wejść do kombinezonu?
+		- niby broń, tarcze, drony i inne akcesoria nadal będą w stanie używać
+		- niewiele osób dostaje swój kombinezon? większośc kończy z pistoletem, dronem czy czymś innym i tylko "magistrzy" kończą ze zbroją?
+	 - co stopień dostajesz baterię więcej, a im wyżej tym trudniej pójść dalej
+	 - dzieciak ma sobie pistolet, nastolatek karabin, starszak drona, a magister kombinezon
+	 
+	 - semestr/stopień zajmuje 2 lata (awans z 2 na 3 i z 3 na 4 zależą bardziej od zasług niż czasu)
+		- po zdaniu semestru dostajesz jedną baterię
+		- zwykle z 20 zdaje na pierwszy stopień, 10 na drugi, 5 na trzeci, 1-4 na czwarty (naprawdę limit czasu nic wtedy nie znaczy. Kiedy jesteś gotowy zostajesz najwyższym magiem)
+		- wynika z tego że co 10 lat tracą 120 baterii 
+		- na jedną generację tracą 480 które instytut odzyskuje kiedy członkowie umierają ze starości 
+		- nauczyciele i stali rezydenci to kolejne 200 baterii
+		- żeby pętla była stabilna potrzebujemy przynajmniej 680 baterii
+		- kiedy oryginalni wyginą numery się ustabilizują i będzie można przyjmować więcej uczniów
+		- (więcej przeciętniaków z jedną baterią, czy mniejszy próg do awansu?)
+		
+	 - na szczęście kopiowanie sprzętu chociaż kosztowne, nie jest aż tak trudne
+		- zbierasz materiały, rozwalasz sprzęt na dwie części i dajesz "medykowi" zrobić swoje
+		-? na szczęście działa po pierwiastkach, a nie po materiałach więc nigdy nie ma problemu z tworzeniem
+		-? a może baterie są na tyle mocarne, że zasilasz medyka czterema i jest w stanie prosto z energii utworzyc materię?
+		
+	 
+ - zbroi nie przybywa, ale nie znaleziono jeszcze sposobu jak zniszczyć jedną
+	 - nawet inna zbroja żadko ma wystarczająco mocy
+	 - ALE
+	 - jest sposób na robienie nowego kombinezonu
+	 - wymaga to dużo materiałów, ale istnieją kombinezony "medyczne" będące w stanie naprawic zbroje
+	 - mogą być wojownikami, ale nie są aż tacy głupi żeby nie zrozumieć że jeśli przepołowią pancerz, naprawią jedną część i drugą osobno to skończą z dwoma pancerzami
+	 - potrzeba do tego od cholery rzadkich materiałów więc przyrost zbroi jest minimalny
+	 - w samym instytucie są tylko dwie
+ 
+ - baterie
+	- baterii niestety zawsze jest za mało
+	-? mechanik może stworzyć nowe naładowane baterie? - ni cholery, gdzie w tym sens?
+	-? po rozładowaniu są śmieciami nieużytecznymi
+	- jest ograniczona liczba ale mogą się ładować z czasem?
+	- mechanik miał zapas?
+	-? część fabryki także została jakimś cudem przeniesiona?
+		- robot raczej niż dosłownie fragemtn budynku
+		- nieee
+	- jedna bateria do operowania, jedna na broń, dwie na phase, jedna na dron, tarczę czy coś?
+	-! są blisko niekończące się, ale jest ich stała ilość
+	- racjonują je, wybierają przed operacją co się przyda
+	- "czy potrzebuję baterii w pistolecie, czy dronie?"
+	- baterię były wszędzie i do wszystkiego w ich świecie. Zawsze mieli zapas
+	- teraz racjonują co potrzebują a czego nie żeby mieć jak najwięcej broni
+	
+	- są zbyt zaawansowane żeby próbować je wykorzystać do czegokolwiek co stworzą
+ 
+ - zwykli ludzie zwykle ich akceptują jako magów, nie próbują im ukraść zbroi bo dobrze wiedzą że nauka magii wymaga lat, a to jest nowy typ ktorego nawet magowie nie rozumieją
+	- poza tym i tak uznają że magia jest w pilotach, nie w zbroi, więc to też mocno wpływa na ich chęci zabrania zbroi
+	- piloci czasami dawali nawet założyć zbroję po wyjęciu baterii innym ludziom żeby pokazać że "magia" wychodzi z nich
+	- ogólnie, nie chcesz wkurwić maga zbychu, a nawet jak cię uda to zostaniesz ze zbroją której nie umiesz używać i całym instytucie magii na karku
+
+ 
+ - są na tyle popularni żeby wszyscy o nich słyszeli ale raczej żadko sie ich widuje
+
+--------------------------- szkoła magii
+ - trzy instytuty, każdy skupia się na innych aspektach 
+ - nie chcę ściągać od awatara
+ -? długie rękawy żeby nie było widać co gestykulują?
+ -? ucisły ubiór pozwalający na manewr, ale duże rękawy
+ 
+ - ogólnie masz przerośniętą szatę nocną, jak chcesz tu jest zestaw do szycia, jak chcesz możesz zaszaleć
+ 
+ - każdy instytut działa inaczej
+	- jeden sie skopia na manipulowaniu temperaturą
+	- inny na manipulacji atmosferą poprzez temperaturę
+	-? trzeci na ...
+	-? jedne na teorii, inne na praktyce?
+	- jeden produkuje żołnierzy, inny arystokratów?
+	
+ - ogólnie każdy ma swój styl
+ 
+---------------------------
+  - historia o dzieciaku którego wywalili z instytutu
+	- zatrzymał pistolet z którym zaczynał z którym przeżył większość dzieciństwa
+	- tak sobie łazi najemnik western style
+	- wywalili go zanim nauczył się czegokolwiek więcej
+	- 
+	
+------- przykłady
+ - jeden ma tylko przeciążone nogi dwoma bateriami i zasuwa superszybko z siekierą
+ - inna straciła większość baterii, jest w stanie zasilić tylko kombinezon, więc obwiesiła go od góry do dołu pistoletami jednostrzałowymi
+ - kolejny wymienił cały swój sprzęt poza bateriami na drony które kontroluje jak stado

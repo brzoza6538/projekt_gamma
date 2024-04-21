@@ -1,0 +1,4 @@
+ - czaszka ma wystający fragment kości
+ - kość wysyła i zbiera wibracje 
+ - pojebana wersja echolokacji
+ 

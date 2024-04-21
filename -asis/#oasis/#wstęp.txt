@@ -6,4 +6,6 @@
 
 - historia umiera, kiedy się o niej zapomina, oasis utrzymuje ich kreacje przy życiu
 
-- kiedy kreacja umiera w historii, jest zapomniana i ginie też w o.asis
+- czas w Oasis i w prawdzwym świecie działa inaczej
+- nie wolniej
+- po prostu jeden ignoruje istnienie drugiego i oba robią co chcą

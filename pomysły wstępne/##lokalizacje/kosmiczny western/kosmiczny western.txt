@@ -1,0 +1,45 @@
+OPIS
+{
+	- nie na planecie a na pasie asteroid
+	- pełny surowców
+	- niebezpieczne, wypełnione nomadami, chaotyczne 
+	- zwykle trzeba kogoś wynająć jeśli chcesz przeżyć próbę dotarcia do surowców
+	
+	- jest tam sporo kolonii niebezpiecznych stworzeń, czy skarbów z rozbitych statków które tędy przelatywały
+	
+	- niektóre są sporawe - mają grawitacje i atmosfere, daleko od reszty - wielkości dużego miasta
+	- inne są niewielkie i można pomiędzy nimi bez problemu przeskakiwać
+	
+	- na niektórych wycinkach są po prostu maszyny utrzymywające atmosferę
+	
+	- niektórzy nomadzi spieli niektóre z nich ze sobą tworząc sieci po których mogą się poruszać
+	- miejsce na pająk reference 
+	
+	- miejsce w cholere niebezpieczne z powodu tego całego obok ciebie są co chwila uderzające w siebie głazy o wielkości liczonej w kilometrach
+		- żyjesz na powierzchni - pierwszy lepszy kamień cie skasuje
+		- w jaskinii? tylko na większych to zadziała na dłużej
+			- zamieniasz wypełniony kamień w jajko które sie rozłupie jak tylko coś w nie uderzy
+	-? jak żyją nomadzi?
+		- po prostu sprawdzają w jakim miejscu nie powinno nic w nich uderzyć całą noc?
+		- śpiąna zmianę i uprzedzają siebie chyba 
+		- połowa śpi, a druga pracuje i ich pilnuje
+}
+
+KOLOR PALETTE
+{
+	- chaotyczne miejsce 
+	- każde skupisko ma swój własny klimat i kolory
+}
+	
+MIESZKAŃCY
+{
+	- kosmici, ludzie, maszyny, mutanci, gnomy, elfy, krasnoludy (wszystko)
+	- w tematyce futurystycznej, cyberpunkowej, steampunkowej, postapokaliptycznej
+	- głównie z odcieniami westernowymi
+	
+	- ze dwa typy bestii będących w stanie przetrchwać w próżni, które rozmnażały się od kiedy statek je przenoszący się tam rozbił
+	
+	- sporo krasnoludów bo mówimy o kopalniach wśród gwiazd
+	- sporo zbyt przeraża jak daleko i blisko do gruntu są jednak
+	
+}

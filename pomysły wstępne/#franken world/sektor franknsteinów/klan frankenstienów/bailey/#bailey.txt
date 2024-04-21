@@ -1,0 +1,67 @@
+OPIS
+{
+	- góra mięśni 
+	- arogancki
+	- asshole, ale nigdy nie naraziłby rodziny
+	- nie obchodzą go tradycje 
+		- nie że ma na ich temat konkretne zdanie, po prostu ich nie lubi 
+	- zwłoki traktuje bez szacunku
+	
+	- zwykle walczy samemu 
+	- nie chce pomocy od nikogo 
+	- nie że nie lubi rodziny, po prostu uznałby to za pokazanie słabości 
+	
+	- zwykle w przeciwieństwie do innych walczy z przodu z marionetkami zamiast z tyłu rzucając komanedy
+	
+	- przez pewien czas podróżował
+}
+
+KOLOR PALETTE
+{
+	- niebieski
+	- czerwony
+	- czarny
+	- zielony
+}
+
+
+REZYDENCJA
+{
+	- oryginalnie -  \projekt_gamma\-asis\sektory\#fantasy\sektor franknsteinów
+	- aktualnie -  -||-
+}
+
+
+EKWIPUNEK
+{
+	8 marionetek frankensteinów
+		- cztery marionetki czterorękich gór mięśni
+			- uzbrojenie różne
+			- tarcze, halabardy, miecze...
+			
+		- cztery centaury 
+			- kawaleria
+			- tors człowieka, od pasa w dół koń/tygrys/lew 
+				- kiedyś podróżował to przyniósł ze sobą
+			
+?	- dwa topory - skalpelopodobne
+}
+
+
+MOCE & UMIEJETNOSCI
+{
+	- "moce" frankensteinów 
+}
+
+HISTORIE W OASIS
+{
+	
+}
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+
+}
+
+
+		

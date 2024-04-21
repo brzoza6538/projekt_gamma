@@ -3,6 +3,9 @@
 
 oasis
 {
+	- czuje się obrażony ale to musi być historia filar
+	- nieważne jak dobre stworzę o nich później, filary muszą mieć wady
+
 	- historia o podróżniku, odkrywcy
 	- wydaje się być jedyną inteligentną istotą na planecie
 	- przemierza całą planetę - od najwyższych gór po dna oceanów
@@ -45,4 +48,15 @@ Prolog
 		
 	- nie wiadomo co mu przeszlo przez głowę kiedy pierwszy raz otworzył oczy
 	- nie było to coś co łatwo opisać, po prostu w tym momencie jego życie, jak i on sam diametralnie się zmieniło
+	
+	- osoby które widzą pierwszy raz w życiu nie są w stanie wyjść z szoku i szczęścia
+	- pomyśl o istocie która po raz pierwszy poczuła, zobaczyła, powąchała, usłyszała...
+	- wcześniej wszystko było teorią. zdjęcia, wideo... to nie było to samo
+	- zdjęcie obrazu a zobaczenie go na żywo, przeczytanie książki kucharskiej a zjedzenie przepisów
+	- to przestały być bity informacji 
+	- zobaczył świat jako świat, nie jako dane
+	- przytłoczyło go to
+	- patrzył na układankę kawałek po kawałku, a teraz po raz pierwszy zobaczył cały obrazek
+	
+	- ludzkości nic nie uratowało, po prostu przestali mieć znaczenie
 }

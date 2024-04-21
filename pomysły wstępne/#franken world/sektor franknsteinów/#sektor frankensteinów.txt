@@ -1,0 +1,40 @@
+OPIS
+{
+?	- czas
+		- przypomina klasyczny średniowieczny?
+		- na tyle nowoczesny żeby wiedzieli co to skalpel
+		
+	
+	- świat gdzie medycyna jest znacznie uproszczona 
+	- przyszycie odrąbanej ręki nicią dentystyczną jest uznane za profesjonalizm lekarski
+	- części ciała nigdy nie jest za bardzo zgniłe żeby je użyć
+	
+	- poza tym świat jest plus minus normalny
+	
+	
+}
+
+KOLOR PALETTE
+{
+	- dużo zieleni i czerni
+	- czerwony
+	- tylko trochę niebieskiego
+}
+	
+MIESZKAŃCY
+{
+	- ludzie:
+		- zwykli
+		- klan frankensteinów 
+
+			
+}
+
+OPIS DO GŁĘBI
+{
+	klan frankensteinów 
+		- najemnicy?
+		- są jedynymi "lekarzami" w sektorze
+		- niektórzy się rozchodzą po świecie
+		- leczą większość trzyma się razem
+}

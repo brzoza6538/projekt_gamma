@@ -9,7 +9,7 @@
 - człowiek na którego nie działa grawitacja, wszędzie będzie mógł lewitować
 
 * - magia:
-	- magia która pochodzi od świata (np. pochodząca z glifów z OH) działa tylko w danym sektorze 
+	- magia która pochodzi od świata (np. pochodząca z glyfów z OH) działa tylko w danym sektorze 
 	- magia - jako dar, który mają niektórzy (np. pochodząca z bile sacks (OH) ) dziala wszędzie - to moc indywidualnej jednostki
 	
 	
@@ -22,34 +22,31 @@
 	- prawa natury tego świata na to pozwalają - nie ich moce 
 	- poza ich sektorem ich marionetki, oraz ich przyszyte części zmieniłyby się w kompostownik po tygodniu
 
-- klątwy i inne efekty długotrchwałe:
-	- działają tylko w sektorze z którego pochodzi
+- klątwy i temu podobne:
+	- działają tylko w sektorze z którego pochodzą
 	- po wyjściu klątwa przestaje działać
 	- po powrocie klątwa wraca do działania
 	- klątwa poza sektorem nie jest aktywna, ale fakt przeklęcia pozostaje
+	
+	
+	LOOOPHOLE-? lepiej dać komuś krzywdzącą moc, bo ona zawsze będzie aktywna
 
 
 
 - jeśli coś nie zostało wyjaśnione w oasis, podczas histori, przyjmuje się że to coś działa według praw prawdziwego świata
 
 
-- podróże w czasie
-	- podróże w czasie nie działają poomiędzy sektorami
-	- nawet jeśli prawa by na to pozwalały techonologia przemieszczania się w czasie działa tylko dla sektora z którego pochodzi
-?	- przenieść można się tylko do momentu który wydarzyl się w historii 
-
-
 - MAG z wdzięczności może wprowadzić zmiany na cały multiversum 
 
 	PRZYKŁAD NIE WIEM CZY TO WYKORZYSTAM 
 	[
-		- np. klan frankensteinów uratuje sektor? 
+		- np. klan frankensteinów zrobi coś heroicznego? 
 
 		- w sektorze frankensteinów ludzie są w stanie przywrócić trupa do życia TYLKO dzięki medycynie 
 		- prawa natury tego świata na to pozwalają - nie ich moce 
 		- ludzie w ich sektorze nie muszą się przejmować zużyciem, czy rozkładem organów - nie występuje to w ich sektorze
 
-		- w ramach wdzięczności od teraz ich marionetki nie zmieniają się w kompostownik po tygodniu
+		- w ramach wdzięczności MAG sprawia że od teraz ich marionetki nie zmieniają się w kompostownik po tygodniu poza ich światem
 		- robi z tego moc frankensteinów 
 		- nie jest to już tylko prawo natury tego sektora 
 		

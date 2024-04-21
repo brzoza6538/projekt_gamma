@@ -1,0 +1,93 @@
+OPIS
+{
+	- należała do jakiegoś tajnego oddziału czy coś
+	- częściowy shapeshift = regeneracja przyspieszona ciała + częściowa kontrola ciała 
+		X- efekt uboczny - kiedy oczy się zmieniają, najpierw pozbywa się starych oczu a nowe regenerują się takie jakich potrzebuje
+		X- jej ciało musi dostarczyć potrzebne minerały i materiały żeby w kilka sekund stworzyć nowe oczy
+		X- jej organy sobie z tym nie radzą - potrzeba materiału, a został tylko w mięśniach serca? - serce od teraz ma mniej mięśni, bo część poszła żeby zregenerować oczy
+	
+	- po dołączeniu do O.asis organizacja została rozwiązana z oczywistych powodów
+	
+	- rzuciła pracę i zaczęła zwiedzać
+	
+	
+	- skończyła w sektorze frankenstienów
+	- frankensteinowie przypadli jej do gustu - zatrzymała się u nich
+	
+	projekt_gamma\-asis\postacie\klan frankenstienów
+	
+	- Michelle ją uczy
+	- dogaduje się z Mitchiem
+	- Egon często do niej przychodzi, żeby dowiedzieć się czegoś nowego o technologii
+		
+	- jako jedyna komunikuje się z marionetkami na odległość - prowadzi misje z daleka
+		- widzi oczami jastrzębia/sowy/czegoś
+		- używa technologi z jej świata - earpiece - żeby się porozumiewać
+	
+	- uczy się od michelle, wprowadza innowacje z egonem
+}
+
+KOLOR PALETTE
+{
+	- zielony i czarny
+	- czerwony niebieski
+}
+
+
+REZYDENCJA
+{
+	- oryginalnie - sektor niewielkich mocy
+	
+	projekt_gamma\-asis\sektory\#urbanistyczne\sektor niewielkich mocy
+	
+	- aktualnie - sektor frankensteinów
+	
+	projekt_gamma\-asis\sektory\#fantasy\sektor franknsteinów
+}
+
+EKWIPUNEK
+{
+	- czarny kombinezon sił specjalnych
+	- nieznaczny egzoszkielet?
+
+	- brak hełmu, tylk maska na dolną część twarzy
+}
+
+
+MOCE & UMIEJETNOSCI
+{
+	- shape shifter
+	
+	- potrafi zmieniać swoje oczy:
+	
+		- oczy jastrzębia? -> zoom
+		- oczy ? -> heat vision
+		- oczy bankera? -> dostęp do jego sejfu ze skanerem oka
+		- broad vision? -> oczy kameleona
+		
+		-"In goldfish, eyesight is a highly developed sense, and it’s thought to be superior to humans. In fact, goldfish are the only members of the animal kingdom that can see both infrared and ultraviolet light."
+
+		-"Bullfrogs, who can see infrared light, have eyes that can see both above and below the water surface."
+
+
+
+}
+
+
+HISTORIE W OASIS
+{
+	- jest z historii o jednostce specjalnej 
+	- z urbanistycznego niefuturystycznego sektora
+}
+
+
+HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
+{
+	- dołącza do frankensteinów - uczy się od nich
+}
+
+
+POMYSŁY WSTĘPNE
+{
+	- możliwość widzenia tego co widzi właściciel oryginalnych oczu?
+}

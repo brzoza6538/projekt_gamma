@@ -1,8 +1,17 @@
+ - Mark zagadał do nich jest powodem dlaczego to się zaczęło (serce, klej)
+ - kendra utrzymuje klub przy życiu i robi za organizatora
+ - andrew wpada najwięcej pomysłów, wyobraźnia i kreatywność duża 
+ - russel robi za skrybę i szlifierkę
+ 
+ 
+------------------------SEMI-BULLSHIT TERRITORY 
+
+
 - Mark 
 
 	- historie zwykle trudno brać na poważnie
 		- dziecinne nastawienie 
-		- niezbyt kreatywne zwykle
+		-? niezbyt kreatywne zwykle
 	
 	+ dodaje postaciom emocji, nie są bezdusznymi robotami
 	
@@ -11,8 +20,8 @@
 - Andrew 
 
 	- historiom brak impaktu, są nudne 
-		- daje się ponieść fantazji i zwykle postacie, które preferuje
-		- są zbyt potężne żeby była mowa o równej walce
+		- daje się ponieść fantazji i zwykle postacie, które preferuje 
+			są zbyt potężne żeby była mowa o równej walce
 		- wiadomo od razu kto wygra
 		- nie doświadczamy progresu i poświęceń bohatera, tylko jego monotonną drogę do celu
 		
@@ -28,7 +37,7 @@
 		- zawsze stara się wyjaśnić dlaczego coś się dzieje tak jak się dzieje 
 		
 	-  historię mają ciekawe otoczenie, tło, postacie, ale brakuje tam historii
-		- zwykle skupia się na opisywaniu otoczenia
+		- zwykle skupia się na opisywaniu
 	
 	
 	
@@ -36,10 +45,59 @@
 - Russel 
 
 	+ pomaga uziemić świat
-		- zadaje pytania dlaczego 
+		- zadaje pytania "dlaczego"
 		- dodaje mu odcieni
 		
 	- nie otwiera się do innych 
-		- nie podaje własnych pomysłów 
+		- nie podaje za często własnych pomysłów 
 		- zwykle tylko krytykuje
 		- boi się powiedzieć coś od siebie
+		
+		
+		
+
+
+
+------------------------BULLSHIT TERRITORY 
+	
+ BULLSHIT? - na cholere robisz powerscaling???
+- Moce
+{
+	- czerwone 
+	
+		- moce działają po prostu
+		
+		- np. postać może strzelać piorunami z rąk
+		
+		- są najprostsze ale też najsłabsze
+	
+	- zielone 
+	
+		- moce działają na podstawie plus minus praw fizyki i natury 
+		
+		- np. postać może kontrolować temperaturę
+		- dzięki może kontrolować ciśnienie
+		- dzięki czemu może kontrolować pogodę 
+		- dzięki czemu może tworzyć pioruny 
+		
+		- trudne do aktywowania, całkiem mocne
+	
+	- niebieskie
+	
+		- moce mają zasady i są bardziej skomplikowane
+		
+		- np. jeśli postać wykona odpowiedni znak / wypije jakąś miksturę, może strzelać piorunami 
+		
+		- najtrudniejsze warunki do aktywowania, najmocniejsze 
+	
+	- czarne 
+		
+		- moce na podstawie tego co Russel widział wcześniej
+	
+		- np. postać umie strzelać pirunami, bo gdzieś widział taką postać która tak umiała
+		
+		- moce są trudne do sklasyfikowania 
+		- nieprzewidywalne 
+		
+		- czasami są takie jak niebieskie, czasami jak zielone, a czasami jak czerwone
+}

@@ -1,0 +1,121 @@
+- reprezentacja poprzez kolory w O.asis - każdy ma swój kolor który pokazuje ich wkład w historię
+
+
+
+ Pomysł I (/kolory_1.txt)
+{
+
+- Andrew wymyślił zarys nowej postaci - kontury postaci są zielone
+- Mark dodał postaci emocji i osobowości  -  twarz jest niebieska
+- Kendra dodała mu historię i motywacje - detale są żółte - tak samo tło
+- Russel udoskonalił moce postaci, jak działają i dlaczego działają - moce są czerwone (np. wysuwane pazury, pioruny są czerwone)
+
+- ludzie tworząc nowe postacie zwykle skupiają się na jednej rzeczy a postacie zwykle przypominają ludzi których znają, lub ich samych
+- ten sam charakter, te same sylwetki mają tą samą paletę kolorów
+- świetnie pokazane, że niektóre pomysły źle się mieszają - pomarańcz, zielony i fioletowy się źle łączą, ale niebieski i zielony działają już lepiej
+- im więcej kolorów tym głębsza jest postać, ale łatwo wtedy przedobrzyć - wymieszanie ze sobą wszystkich farb da nam kolor błota, a nie arcydzieło
+
+- ważna jest możliwość stworzenia abominacji i dzieł sztuki w tym samym czasie
+
+- nikogo nie obchodzi, że było powiedziane, że włosy są zielone - włosy są koloru osoby która to wymyśliła
+}
+
+
+
+
+
+ Pomysł II (/kolory_2.txt)  
+{
+
+- Andrew wprowadza niebieski 
+- Mark czerwony
+- Kassandra zielony 
+- Russel czarny
+
+- łącząc siły są w stanie stworzyć wyraźniejsze postacie 
+- jeśli cała postać jest tego samego odcieniu zieleni nic nie zrozumiesz
+- Pracując ze sobą mieszają kolory - np. Mark pracujący z Andrew stworzy postać niebieską+czerwoną+fioletową (w uproszczeniu)
+- Russel dodaje postaci odcienia - dodaje konturów i detali - działa widocznie inaczej od reszty dla O.asis - dopracowywuje postaci
+
+- im kolory gładziej przechodzą pomiędzy sobą tym postać bardziej zgodna ze sobą samą
+- im gładsza tym mniej chaotyczna, przewidywalna
+}
+
+
+Pomysł III  - ZWYCIĘZCA ?(albo II)
+{
+ - kolory wyłącznie wewnętrznie
+ - na podstawie kolorów można stwierdzić czyjąś duszę i moc
+ - w histori jak i w rzeczywistości 
+ - Kendra może stworzyć czerwoną postać ale nie będzie ona dobra
+ - nie rozumie do końca "czerwonych" osób, więc jej czerwona postać będzie sztucznie czerwona
+ - niezrównoważona w porównaniu do postaci Marka
+ - nie będzie szła czerwoną logiką, plus minus albo pod spodem będzie tak naprawdę zielona, albo nie będzie niczym pod spodem
+ - akcje wynikają z tego jacy jesteśmy, jeśli postać jest sztucznie czerwona, to nie będzie prawdziwie czerwona
+ - jej akcje będą akcjami osoby zielonej chcącej myśleć czerwono, albo zupełnie pustej w środku której akcje nie mają dla niej znaczenia
+	
+
+
+  - niebieski 
+	- twój świat wewnętrzny - umysł
+	- świat niematerialny - TWÓJ świat niematerialny, myśli
+	
+  - czerwony 
+	- twój świat zewnętrzny 
+	- twoje ciało i rzeczy fizyczne w twoim życiu, twoje otoczenie
+	- np. twoi przyjaciele, twoje łóżko itd.
+	- świat materialny - TWÓJ świat materialny i twoje relacje z nim
+	
+  - zielony
+	-? natura - jak to dokładniej opisać?
+	- ani materialny, ani niematerialny 
+	- np. drzewa, ludzie jako gatunek, zwierzęta, pogoda, prawa fizyczne po części
+	
+ - czarny 
+	- pustka
+	- brak celu, brak motywacji 
+	- depresja, nie bycie otwartym na świat dookoła, wewnętrzny, czy zewnętrzny
+	- nie widzisz sensu w sobie, nie widzisz go u innych, nie widzisz go w naturze
+	- 0R + 0G + 0B = czarny
+ 
+ - biały
+	- widząc trzy światy
+	- rozumiejąc że potrzebujesz każdego z nich
+	- otwierając się na każdy z nich
+	- doznajesz oświecenia 
+	- R+G+B = biały
+	
+ 
+ - każdy z dzieciaków reprezentuje pewien kolor, ale nie jest nim
+ - Kendra lubi naturę i wszystko z nią związaną, ale potrafi też częściowo zrozumieć innych - być "czerwona trochę"
+ - Andrew jest niebieski z niewielką domieszką zielonego
+ - Mark ma najczystszy czerwony
+ - Russel ma czarnoniebieską pustkę
+ 
+ bycie tylko jednego koloru oznacza że mamy niezdrowy niedobór innych
+ - Kendra
+	- zwykle ucieka od ludzi i siebie patrząc na ładne roślinki
+	- stara się ignoraować siebie i innych, zmiany dojrzewaniowe chce żeby było jak dawniej
+	
+ - Mark 
+	- szuka atencji ludzi za mocno
+	- poza nimi nie ma za bardzo osobowości
+	- nie może sobie pozwolić żeby jego świat runął - jego przyjaciel odejdzie
+ 
+ - Andrew 
+	- ma swój mind palace ale boi się z niego wyjść 
+	- nie ma za wiele przyjaciół
+	- dobrze się bawi na spotkaniach, ale sam nigdy by takiego nie zaplanował
+	- często inni muszą go ciągnąć na spotkania
+	- gdyby nie inni zapomniałby o nich, nie dlatego że chce o nich zapomnieć 
+	- są dla niego ważni, dlaczego tak łatwo mu byłoby o nich zapomnieć
+	- dlaczego coś tak ważnego nie może tam zostać na dłużej niż pieć minut
+	
+ - Russel
+	- depresja, ma po trochu problemy każdego z innych
+	- czuje że jego akcje nie mają sensu i znaczenia
+	- lubi spotkania, ale jest zbyt zmaknięty żeby coś na nich robić
+	- nie jest najkreatywniejszy wśród nich wszystkich, więc żadko się odzywa
+	- nie widzi sensu w naturze, piękna w tym wszystkim
+}
+	- 

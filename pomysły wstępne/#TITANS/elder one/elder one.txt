@@ -24,15 +24,21 @@ MIESZKAŃCY
 	
 }
 
- - przejęty pasożytem TYTANA, przejęcia zajmie całe milenia, ale kiedy się skończy to będzie przerąbane
+ - przejęty pasożytem TYTANA, przejęcie zajmie całe milenia, ale kiedy się skończy to będziemy mieli przerąbane
  - jak na razie drzewo nie roztacza wpływów dookoła 
- - skupia całą energię na ekspansję
+ - skupia całą energię na jak najszybszą ekspansję
  
- - w przeciwieństwie do kraken riders nie stara się skoruptować ludzi dookoła
- - da im się rozrosnąć, stworzyć całe państwa, a nie małą wioskę jak kraken riders 
+ - elder one umierał. tytan przejął jego ciało zanim mózg się wyłączył, 
+	ale przejęty umysł nie oznacza przejętego i sprawnego ciała
+ - zwykle tytan ma trochę czasu na rozrost zanim host umrze i zacznie się rozkładać
+ - teraz ten czas jest skalowalnie dłuższy ponieważ jest więcej do przejęcia, 
+	 podczas gdy czas potrzebny na rozłożenie ciała pozostaje ten sam 
+ 
+ - w przeciwieństwie do kraken riders nie stara się skoruptować istot dookoła
+ - daje im się rozrosnąć, stworzyć całe państwa, a nie małą wioskę jak kraken riders 
  - nie skupia swojej siły na wpływach
  
- - musi się zająć własnym ciałem, razem z nim, na elder one pojwiła się atmosfera, atmosfera która powoli rokłada ciało
+ - musi się zająć własnym ciałem, razem z tytanem, na elder one pojwiła się atmosfera, atmosfera która powoli rokłada ciało
  - im szybciej je przejmie tym mniej straci
  - nie będzie go w stanie zregenerować
  - może tylko załatać je korzeniami

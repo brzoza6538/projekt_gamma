@@ -1,0 +1,28 @@
+ - naturalne golemy
+ 
+
+	
+ - na pewno odkrywamy dzięki pszczołom jak używać magii w nowy sposób
+ 
+ - są inne stworzenia wykorzystujące magię, ale w inny sposób
+ - jakieś zwierzę zionie ogniem bo po prostu jest magiczne 
+ - pszczoły wyewulowały umiejętność rzucania zaklęć
+ - królowa zarządza co i jak, a robotnice rozpisują runy po całym ulu
+ 
+ - jedne ule chodzą po ziemi, inne jak leniwce zwisają z drzew
+ - niektóre autentycznie walczą z drapieżnikami, inne są szybkie i zwiewają
+ - z zasady im mniej miodu nektaru itd tracisz na rzecz poruszania się tym lepiej
+ - nie są humanoidalne, czy nawet zwierzętoidalne czasami 
+ 
+ -? czytasz magię czy ją tańczysz? słowo A,słowo B, krzyk C czy lewo, prawo, zakręć dupą
+	- raczej nie - raczej runy zwykle operują i tyle 
+	
+ -? czy potrzebujesz przczół do operowania golema?
+	- chyba się słuchają tylko tego kto go stworzył, ale w jakim języku?
+	- może to jeden z powodów dlaczego trudno stworzyć golemy?
+	
+ -? wykorzystuje inny język magiczny? - nie!
+	- chyba nie, mają nas nauczyć jak można myślić o magii
+	- my piszemy jak w pythonie, one jak w assemblerze
+	
+ -? kontrolują golema czy dają mu świadomość wyboru co ma zrobić

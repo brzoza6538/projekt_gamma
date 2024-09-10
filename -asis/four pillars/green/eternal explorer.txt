@@ -36,6 +36,7 @@ Prolog
 	- oczywiście uznaje że samo sobie lepiej poradzi
 	- zbiera dane, informacje, poświęca całe lata pracy na ten plan
 	- pod koniec zgrywa się na szybko do ciała, żeby mieć jakąś postać
+	- tak przy okazji
 	- kiedy otwiera oczy traci dech
 	- nie może się poruszyć, stoi zszokowany nie ruszając się nawet na milimetr
 	- kiedy wraca do zmysłów natychmiast wychodzi obejrzeć więcej świata
@@ -49,7 +50,7 @@ Prolog
 	- nie wiadomo co mu przeszlo przez głowę kiedy pierwszy raz otworzył oczy
 	- nie było to coś co łatwo opisać, po prostu w tym momencie jego życie, jak i on sam diametralnie się zmieniło
 	
-	- osoby które widzą pierwszy raz w życiu nie są w stanie wyjść z szoku i szczęścia
+	- osoby które widzą pierwszy raz w życiu nie są w stanie wyjść z szoku
 	- pomyśl o istocie która po raz pierwszy poczuła, zobaczyła, powąchała, usłyszała...
 	- wcześniej wszystko było teorią. zdjęcia, wideo... to nie było to samo
 	- zdjęcie obrazu a zobaczenie go na żywo, przeczytanie książki kucharskiej a zjedzenie przepisów
@@ -59,4 +60,39 @@ Prolog
 	- patrzył na układankę kawałek po kawałku, a teraz po raz pierwszy zobaczył cały obrazek
 	
 	- ludzkości nic nie uratowało, po prostu przestali mieć znaczenie
+	
+	
+	
+	?{
+	- nie posiada biasu naturalności i nie musi się przejmować cudzą katastrofą
+	- jego nie dotyczą te rzeczy
+	
+	- podziwiamy ruiny chociaż to miejsca katastrofy
+	- brak nam kontekstu, przywiązania 
+	- z zielonym jest tak samo
+	
+	- widzi coś co mu się podoba i nie interesuje go historia 
+	- to że coś nie jest "naturalne" nie oznacza że nie da się w tym znaleźć czegoś wyjątkowego
+	
+
+	-? czy to że niszczymy ten widok mu nie przeszkadza?
+		- czy jest zbyt zachwycony żeby zwracać na to uwagę?
+		- uznaje to za naturalne?
+		- kiedy w klatce w zoo małpy urządzają walkę na gówno wychodzisz z klatki i idziesz zwiedzać gdzie indziej
+		
+		- oglądasz walkę osy z pająkiem, czujesz obrzydzenie, ale czy kiedykolwiek pomyślisz żeby ich od siebie odciągnąć?
+		- to że jedno pożera drugiego znaczy że niszczą coś ważnego?
+	} - czy to wszystko jest potrzebne?
+	- jest cichy, trzyma sie siebie i zawsze jest w ruchu, zawsze podziwia
+	- to nie wystarczy?
+	- nie wystarczy pokazać jak bierze pierwszy widok, zapiera mu dech w piersiach i pokazać że to uczucie nigdy nie znikło?
+	- absolutna wolność 
+	
+	- niebieski to więzienie stworzone przez siebie
+	- czerwony przez ludzi ci bliskich
+	- ale zielony? zielony jest od tego odłączony zupełnie
+	- ma to oczywiście swoje minusy, ale są to minusy zupełnie różne od dwóch pozostałych 
+	
+	
+	
 }

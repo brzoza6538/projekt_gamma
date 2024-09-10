@@ -1,11 +1,24 @@
   - gatunek siostrzany tytanów
-  - słabszy i żeruje wyłącznie na martwych ciałach 
-	w przeciwieństwie do tytanów potrzebujących żywego nosiciela
+  ?- słabszy i żeruje wyłącznie na martwych ciałach w przeciwieństwie do tytanów potrzebujących żywego nosiciela
  
-  - moc ograniczona, w przeciwieństwie do tytanów pracują w grupach 
+ - są tworzone przez tytanów
+ - przenoszą się poprzez zarodniki
+ 
+ - w przeciwieństwie do nasion nie dzielą wspomnień z oryginałem
+ - są posłuczne przodkowi
+ -? nie mają własnej woli?
+ 
+ - tytan wytwarza armię pseudotytanów na swoich rozkazach zwykle kiedy ma z lekka słabe ciało
+	 i stara się nadrobić robiąc w każdej wolnej chwili nowych służących
+ 
+  - moc mocno ograniczona
+  -? w przeciwieństwie do tytanów pracują w grupach 
   -? czy mają hivemind? czy mają przedstawiciela? czy myślą jako jeden?
   
   -? chyba są połączone myślami i idą w ilość
-  - im więcej tym mocniejszy i mądrzejszy rój
+  -? im więcej tym mocniejszy i mądrzejszy rój
   
   - tytani w jakość, lesser titans w ilość
+  
+  -? nie mogą się rozmnażać bez tytana?
+  

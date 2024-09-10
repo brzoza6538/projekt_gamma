@@ -1,0 +1,7 @@
+ - kryształowy kciuk/paznokieć
+ - żelazne paznokcie reszty palców 
+ 
+ - pstrykasz, uderzenie w kryształ wytwarza iskrę 
+	która przenosi się po drodze opiłków metalu z paznokcia szorującego o kryształ
+	
+ -? można naładować kryształ? to nie musi być tylko energia wyzwolona z uderzenia?

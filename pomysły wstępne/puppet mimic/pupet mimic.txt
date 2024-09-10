@@ -1,0 +1,8 @@
+ - marionetka czaszki
+ - operując ją odpowiednio może wydać jakikolwiek głos
+ 
+ - jeśli głos przypomina wystarczająco cel, ciało zaczyna oplatać czaszkę, tworząc kopię twarzy 
+ 
+ - ty musisz być wystarczająco zdolny żeby pokierować czaszkę
+ 
+ -? nie wytwarza włosów? tylko ciało?

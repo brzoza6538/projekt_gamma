@@ -1,4 +1,3 @@
-OPIS
 {
 	- (omega) bill
 	
@@ -9,23 +8,17 @@ OPIS
 	- potrzebuje zrozumieć jak działa ludzkie ciało, żeby w pełni wykorzystać swoją umiejętność
 	
 	-? możesz pójść na nim all out jeśli chodzi o akrobacje (co? co ja miałem do choelry na myśli???)
+		
+	- znajdzie sposób żeby wymusić zmianę na ludzkości
 	
-	- traktuje ludzi jak zwierzęta trochę które trzeba kontrolować
-	- znajdzie sposób żeby wymusić zmianę na populacji
-	
-	-? przeciwieństwo tego co robią czerwoni?
 }
 
-paleta kolorów
-{
-	dużo zielonego, czarnego
-}
 
 REZYDENCJA
 {
 	- oryginalnie - urbanistyczny/
 	
-	-? projekt_gamma\-asis\sektory\#fantasy\sektor na kwarantannie - baza wypadowa?
+	-? sektor na kwarantannie - baza wypadowa?
 }
 
 
@@ -38,27 +31,27 @@ EKWIPUNEK
 	- kij / laska z kości którą może manipulować - wzmocnić szkielet/ zrobić miecz etc...
 	
 	-? torba przyczepiona z różnościami - środki znieczulające, adrenalina, różne odczynniki
+		 - jakby nie patrzeć może je ekstraktować ze swojego ciała bez problemu... przynajmniej adrenaline itd.
 }
+
+
 
 MOCE & UMIEJETNOSCI
 {
 	Manipulacja ciałem
 	{
-		-moc rozłożenia masy ciała jak tylko sie chce
-		- pełne wykorzystanie talentu dzięki zrozumieniu jak działa ludzkie ciało 
-		- dopóki cząstki ciała nie zostały zmienione w żaden sposób (spalone/ przeżarte kwasem) - można je dowolnie wykorzystywać
-		- jest w stanie wykryć gdzie jest jego ciało, ale nie ma kontaktu myśli pomiędzy dwoma odrębnymi częściami ciała
+		-moc rozłożenia masy ciała jak tylko sie chce		
 		
-		
-		[chwilowo zablokowane]	- nie rozumie jak działa ciało wystarczająco dobrze by to aktualnie używał	- odblokowanie przez naukę medycyny
-
 		klonowanie
 		{
 			- moc tworzenia klonów, tak długo jak masa się zgadza 
-			- podzielenie masy na dwa oznacza pracowanie w skali pierwiastek sześcienny z dwa - masa zależy od objętości(a^3) - skala się zmienia w zależności w ilu wymiarach pracujemy
+			- podzielenie masy na dwa oznacza pracowanie w skali pierwiastek sześcienny z dwa 
+			- masa zależy od objętości(a^3) - skala się zmienia w zależności w ilu wymiarach pracujemy
 
 			- klony są identyczne do oryginału ale różnią się wielkością 
-			- nie jest to do końca zasadą, po prostu tak jest mu najłatwiej - tworzenie ciała od zera jest skomplikowane - łatwiej zrobić kopiuj wklej własnego ciała
+			- nie jest to do końca zasadą, po prostu tak jest mu najłatwiej 
+			- tworzenie ciała od zera jest skomplikowane 
+			- łatwiej zrobić kopiuj wklej własnego ciała
 			
 			- klony są tylko masą, jesłi oberwą obrażenie nie przeniesie się na oryginał
 			- tak długo jak oryginał może odzyskać masę z której zrobił klony, nie ma żadnych kosekwencji
@@ -69,19 +62,17 @@ MOCE & UMIEJETNOSCI
 		}
 		
 
-		[chwilowo zablokowane] - regeneracja własnego ciała	
+		- regeneracja własnego ciała	
 		{
 			- możliwość leczenia poprzez natychmiastowe sklepienie i zagojenie rany
-			- spalony materiał jest niemożliwy do wyleczenia
-			
+			- spalony materiał jest niemożliwy do wyleczenia - wszystko jest węglem zamisast potrzebnymi składnikami
 		}
 
-		[chwilowo zablokowane] - moc rozłożenia masy ciała jak tylko sie chce - nie tylko klonowanie (kopiuj-wklej) 
+		- moc rozłożenia masy ciała jak tylko sie chce - nie tylko klonowanie/kopiuj-wklej
 		{
 			- zmiana postaci jak tylko się podoba dopóki masa się zgadza
-			- na przykład ucho z palcami które może się przekraść i robić za podsłuch
+			- na przykład ucho z palcami  podłączone do ciala czterometrowym wężoogonem może się przekraść i robić za podsłuch
 		}
-		
 	}
 	
 	
@@ -89,27 +80,27 @@ MOCE & UMIEJETNOSCI
 
 HISTORIE W OASIS
 {
-	-identyfikator histori z której powstał
+	-identyfikator histori z której powstał (o co mi chodziło?)
 	
 }
 
 HISTORIE W KTÓRYCH BIERZE UDZIAŁ W O.ASIS
 {
-	-identyfikator histori w jakich bierze udział w O.asis
+	-identyfikator histori w jakich bierze udział w O.asis (co?)
 
 }
 
 
 POMYSŁY 
 {
-	- 2D slash - kompresja do momentu że obiekt jest praktycznie dwuwymiarowy
+	-? 2D slash - kompresja do momentu że obiekt jest praktycznie dwuwymiarowy
 	
 	
 	- historia z o.asis
 	{
 	
 		- jeśli wystarczająco się skoncentruje jest w stanie przerobić też masę którą po prostu połknie 
-		- jeśli zje kamień nie jest on częścią niego 
+		- jeśli zje kamień nie jest on częścią niego
 		- potrzebuje ogromnego skupienia żeby wykorzystać taki materiał 
 		
 		
@@ -118,16 +109,17 @@ POMYSŁY
 			- tworząc i kontrolując klony zajmujące się mniejszą częścią ich części
 ?		- w ten sposób nie ma jednej osoby która zna cały plan
 		
+		
 		- klony tworzą nowe klony, zmieniają im twarzę i budowę 
 		- robi się z tego praktycznie organizacja, ktora ma zarówno tysiące i tylko jednego członka
 		
-		- założenie jest proste, trzeba zacząć od początku z wiedzą którą zebraliśmy, ale bez tyranii ludzi manipulujących innymi
-		- trzeba się pozbyć wszystkich którzy kierują tym światem
-		- problem że jeśli pozbędziesz się kilku reszta się ukryje
-		- trzeba zabić wszystkich na raz 
+		-? założenie jest proste, trzeba zacząć od początku z wiedzą którą zebraliśmy, ale bez tyranii ludzi manipulujących innymi
+		-? trzeba się pozbyć wszystkich którzy kierują tym światem
+		-? problem że jeśli pozbędziesz się kilku reszta się ukryje
+		-? trzeba zabić wszystkich na raz 
 		
-		- cała organizacja planuje jeden wielki dzien zero 
-		- zabójstwo każdej figury u władzy
+		-? cała organizacja planuje jeden wielki dzien zero 
+		-? zabójstwo każdej figury u władzy
 		
 !		- PROBLEM - Po prostu powstanie nowa generacja ludzi rządzących światem po wielu walkach i śmierciach
 		
@@ -145,3 +137,157 @@ POMYSŁY
 	
 
 }
+
+
+ - jest autodestrukcyjny
+ - nazywa się omega bill, bo po przejściu przez alpha bill, beta bill, delta bill... omega bill, przestał liczyć
+ - przestało go nawet obchodzić którą wersją siebie jest 
+ - jego życie nie ma znaczenia 
+
+
+ - dna test: "we have a match" - "with who?" - "with all of them"
+ 
+ 
+ 
+------doświadzczenia 
+ 
+ - różne klony różne dośwadczenia 
+	
+ - pierwsze klonowanie 
+	- oryginał klonuje po raz pierwszy
+	- chce armi, a armia oznacza wiele klonowania
+	- po pewnym czasie zdaje sobie sprawę że może to oddelegować pierwszym trzem klonom
+	- w czwórkę robią kolejne 12, potem z tamtymi 36 itd.
+	- okazuje się że są klony które radzą sobei lepiej z klonowaniem
+	- nawet absolutny los nas może zmienić nas w inne osoby
+	- ci którym lepiej idzie przejmują produkcję klonów żeby ich klony też były w tym lepsze
+	- eksperymentują, więc jest element losowości, każdemu idzie odrobinę inaczej. jednemu świeci po oczach, drugi jest w cieniu i wszedł w rytm
+
+	 - przykład
+		- jednemu poszło odrobinę lepiej od innych w walce
+		- polubił to i zyskał pewność siebie, co spowodowało że poszło mu później jeszcze lepiej i tak  się nakręcało
+	
+	?- bill ma kopie mózgów co lepszych klonów?
+		- na przykład temu świetnie idzie w walce, dał ci więc kopie swojego mózgu żebyś mógł wykorzystać jego doświadczenie jak będziesz potrzebował 
+		- bierzesz mózg ze słoja, piszesz na kartce o co prosisz, wymieniasz mózg, właściciel mózgu czyta i robi to o co prosisz
+	
+	- klony często się rozchodzą w ten sposób
+	- bill może być mocno nihilistyczny ale być tylko jednym z setek takich jak ty jest depresyjne
+	- kiedy widzą coś co ich rozróżnia chwytają się tego
+	- idzie im trochę lepiej w piłce nożnej? są z tego dumni. To jest sposób w jaki się wyróżniają od reszty 
+	- nikogo nie obchodzi czy jest to przydatne czy nie
+	- po prostu dla dobra swojego zdrowia psychicznego chwytają się tego w czym są lepsi
+	
+	- nie są klonem A12, czy innym gównem. każdy wybiera swoje imię i kim jest kiedy wpada na pomysł kim jest
+	- (ale masz z 20 nazwanych C134 czy coś takiego dla beki)
+	- im dłużej żyją tym bardziej ich doświadczenia tworzą z nich osoby którymi oryginał nigdy nie był i nie będzie
+	
+	
+------hierarchia i podział 
+	
+ - wybór dowódców
+	- tworzą bazy jako grupa z na przykład 30 osób
+	- komu się chce przejąc kontrolę, komu to wychodzi a komu nie...
+	- "potrzebujemy mechanika", *wybierana jest osoba która najlepiej sobie radzi* itd.
+	- po rozbudowaniu sie, kiedy są gotowi wybierają demokratycznie 
+	
+ - najpierw robią to z oryginalną czterdziestką
+	- kto ma najlepsze pomysły, komu najlepiej idzie, dajemy czas się zastanowić
+	- wybraliśmy? świetnie
+ 
+ - po rozejściu się w grupki, kiedy przywódca jest wybrany, jego klon i klon zastępcy są wysyłani do bazy na konsultacje
+ 
+ - masz w głównej bazie kilkunastu strategów (klonów dowódców grup). ich ludzi których wybrali ponieważ byli w czymś ważnym najlepsi, oraz "oryginał"
+ -? jest jakikolwiek oryginał? - czy nie dowodzi po prostu wybrany dowódca a oryginał może być niewiadomo gdzie?
+ - a w minibazach masz z trzydzieści osób kierowanych przez jedną osobę i jej zastępce/prawą rękę
+	- czasami prawa ręka to ktoś kto może ich zastąpić w przypadku awarii (a czasami mają kopię siebie skitraną na ten wypadek)
+	- czasami to po prostu najbardziej wykazujący się członek grupy. najlepszy w klonowaniu, walce wręcz, najszybszy, najlepszy "psycholog"/mówca...
+	- osoba której dowódca ufa, lub ma umiejętności na których bezustannie polega  
+
+	
+	30		20	...	33
+	A0		B0	...	Z0
+	A+0		B+0	...	Z+0
+		\		  |		/
+			A1, B1,...Z1	
+			A+1, B+1,...Z+1
+					?
+
+	
+
+ - nie ma podziału typu 10 breederów, 20 fighterów, jeden strateg i dwie osoby znające szekspira na bazę
+ - każdy klon po prostu ma inne doświadczenia które tworzą z nich różne osoby
+ 	
+	
+	
+	
+------------- introduction?
+	
+	- wyobraź sobie bohaterów oglądających co jakiś czas jak jeden z nich umiera tylko po to żeby zobaczyć że wrócił  (spotkanie przypadkiem na ulicy)
+	- nie był nawet nikim ważnym
+	
+	- klon się zaprzyjaźnił z bohaterami, umiera w wypadku, bohaterowie widzą kogoś takiego jak on
+	- idą za nim. klon się boi że ich wykryli, ich plany
+	- walka
+	- bohaterowie przypadkiem dowiadują się o planie billa
+	- myślą że ktoś wyprał mózg ich przyjacielowi
+
+
+
+------------mind merge
+
+- mind merge niemożliwy
+- możesz wymienić mózg, ale jak wybierasz które wspomnienia są potrzebne a które nie?
+- które to powtórki a które nie?
+- możesz dać ciało mózgowi i mieć z nimi rozmowę, ale nie mieć wiadomości z dwóch mózgów jednocześnie 
+
+- zaszyfrowane wiadomości
+	- jak rozszyfrujesz mózg nie będąc billem?
+	- ten mózg nawet nie żyje więc nie możesz go przeczytać 
+	- bill wysyła paczkę z klonem swojego mózgu, inny bill ją odbiera i daje mu ciało, resuscytuje i słucha co ma do powiedzenia 
+	- nie ma tego jak przechwycić
+	
+	- chyba że jeden z klonów idzie rouge
+	- pomaga bohaterom 
+	- przygotowywują kopię gabinetu oryginału, kopiują "przsyłkę"
+	- oryginał wraca do "poczty", a kopia "wiadomości" jest resuscytowana na miejscu 
+	- udając jednego z dowódców, zdrajca, słucha wiadomośći i wypuszcza mózg 
+	
+	
+	
+	
+-------------?
+
+ -? billowi za mało zależy na swoim życiu żeby poświęcać innych?
+ - jest w stanie poświęcić siebie, ale nie będzie tego wymagał, nawet od innej wersji siebie?
+ - trochę jak jesteś w stanie mówić okropne rzeczy o wadach na swoim ciele, które absolutnie ci nie przeszkadzają u innych
+ 
+ - każdy widzi że są różnymi ludźmi
+	-? na początku bill był chętniejszy na poświęcenia klonów, ale później zdał sobie sprawę kim są?
+	- to nie jest po prostu on, to jest inna osoba którą poświęca zamiast siebie
+ - jego celem jest pomóc. będzie drastyczny, ale nigdy kiedy to nie będzie potrzebne i nigdy nie poświęci życia kogoś kto na to nie zasługuje
+ - jak masz zaufać osobie która się nie wzdrygnie przed wysłaniem niewinnego człowieka na rzeź że chce ci pomóc?
+ 
+ - nikt nie myśli o zrobieniu klona i wysłaniu go żeby umarł za niego
+ - po pierwsze bo bez dodatkowych materiałów możesz zrobić tylko dwie mniejsze i słabsze wersje siebie 
+ - po drugie bo to jest wysyłanie kogoś kto nie jest tobą żeby zajął się konsekwencjami za które jesteś odpowiedzialny
+ - to twój problem, nie rzucaj kogoś innego pod pociąg żeby uniknąć konsekwencji
+ 
+ 
+ 
+ 
+ 
+ ----------?
+ 
+ - klony mają więcej życia od oryginału?
+ - problem izolacji, bycia nieakceptowanym znika kiedy jestes otoczony ludzmi takimi jak ty
+ - oryginał czuje się najgorzej? oryginał w ogóle istnieje?
+ - izoluje się też od klonów? czuje że nie jest częścią tej grupy?
+ 
+ - tylko oryginał jest autodestrukcyjny?
+ - oryginał trzyma się tego że jest oryginałem, zamiast starać się być kimś?
+ - stara się pozostac tym kim był?
+ 
+ 
+ 
+ -

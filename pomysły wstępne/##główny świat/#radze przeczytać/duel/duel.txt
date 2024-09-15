@@ -1,0 +1,18 @@
+- duel
+
+
+biorący udział
+{
+
+}
+
+wprowadzenie
+{
+	- nudno jest kiedy jest tylko jeden bohater - wiadomo kto wygra 
+	- czasami historię dzielą M.A.R.K. na dwie drużyny
+		
+	- nie ma widocznego głównego bochatera - perspektywa zmienia się w zależności od tego kto mówi
+		
+	- jeden miał powody by z nim sympatyzować (team Kendra + Russel)
+	- drugi czynem i słowem dawał powody dlaczego go preferować (Andrew + Mark)
+}

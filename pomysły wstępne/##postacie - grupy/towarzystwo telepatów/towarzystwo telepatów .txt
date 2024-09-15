@@ -1,5 +1,6 @@
  -? zmiana na psychic community?
- 
+ !- nie rób tego raczej - nie rób walonej inwigilacji jako coś dobrego
+ !- nawet jak chcesz to zrobić to nie rób z tego walonej maszyny do inwigilacji kosmosu
 OPIS
 {
 	- historia o świecie gdzie każdy jest telepatą

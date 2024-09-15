@@ -1,0 +1,16 @@
+- każdy może robić checkpointy 
+
+- kiedy umierają/chcą się cofnąć, mogą wrócić do ostatniego zrobionego checkpointa
+
+
+[?] - problem że jak zrobisz checkpoint, nie możesz go anulować
+[?] - po pierwszym checkpointcie już nie możesz umrzeć
+
+
+- walki zawodowców są staniem w miejscu przez dobre kilka sekund, dopóki jedna ze stron nie przyzna sie do porażki
+
+- wszystko jest przemyślane - świat z drugą i nawet trzecią szansą 
+- świat gdzie wszystko dzieje się tak jak wszyscy tego chcą 
+
+
+- timeline tego miejsca to praktycznie patchwork

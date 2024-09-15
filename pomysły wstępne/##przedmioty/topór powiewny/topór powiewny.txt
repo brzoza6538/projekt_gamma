@@ -1,4 +1,6 @@
- - topór obustronny, gdzie zamiast drugiego ostrza jest flaga
+ x- topór obustronny, gdzie zamiast drugiego ostrza jest flaga
+ - topór gdzie zamiast ostrza jest flaga 
+ -? z jednej czy z obu stron?
  
  -? jako natchnienie
  -? jako odwrócenie uwagi przeciwnika
@@ -15,5 +17,12 @@
  -? może byłaby w stanie zmieniać długość?
  - na przykład żeby związać się wokół czegoś
 
+ - musisz wymachać odpowiedni kształt 
+ - utwardzanie to utwardzanie, ale nie ma mocy która układa to
+ - musisz obudzić w sobię gimnastyczkę żeby to w pełni wykorzystać
+
+ -? czy w ogóle potrzeba po drugiej stronie ostrze?
+
  - czy manipulacja materiałem to moc broni czy użytkownika?
+ 
  

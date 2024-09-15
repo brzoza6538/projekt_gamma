@@ -31,3 +31,12 @@
  - blizny tworzą portal do momentu (w czasie) powstania blizny
  - jesteś tam tylko obserwatorem, nie możesz zmienić przyszłości
  - musiałby być w stanie przejść przez portal na własnym ciele żeby to miało jakikolwiek impakt
+
+ ?- co jeśli nie zawsze miał moce czasowozależne ale nigdy nei zuważył?
+ ?- rzeczy są bardziej zakurzone jak je odwiedzi w teraźniejszości, ale są
+ - jak je weźmie to ich nie będzie, jak je odłoży to będą
+ - ale paradoksy
+ - w momencie x tworzy portal, w momencie x+1  kładzie tam coś, w momencie x+3 odwiedza miejsce,  
+	w x+5 odkłada cośtam znowu  - w momencie x+3 zauważy rzecz którą odłożył w x+5
+ - musiałby to zauważyć 
+ - może uznaje że portal nie jest idealny?

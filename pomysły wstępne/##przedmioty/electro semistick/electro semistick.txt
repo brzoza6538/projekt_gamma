@@ -1,3 +1,6 @@
  - kij modułowy zakończony paralizatorem
  - moduły połączone sznurkiem
  - napinasz sznurek prostujesz kij
+ 
+ - na pewno tylko jednostronny?
+ - na pewno sznurkiem a nie vague explenation i tylko pokazujemy że może się modułować w dowolnym złączeniu na zawołanie?

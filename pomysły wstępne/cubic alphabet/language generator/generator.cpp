@@ -9,6 +9,10 @@
 //TODO - duże lkitery?
 //TODO - znaki parzyste? np. (), [], ""
 //TODO - problem z linijkami z jednym znakiem na krzyż
+//TODO - może określona długość słów - losowana w każdym razie
+//TODO - może podzielić to na małe i duże bloki - po każdym dużym enter, po każdym dużym enter
+//TODO - co zrobić ze znakami specjalnymi? enter to nie dwa znaki?
+
 
 struct pair
 {
@@ -83,7 +87,7 @@ int binary_search(double randnum)
         }
     }
     std::cout<<"AAAAAA"<<std::endl;
-    return -1;
+    return 1;
 }
 
 int main()
@@ -117,7 +121,7 @@ int main()
 
     std::ofstream plik("output.txt");
     
-    for(int i = 0; i < 1000; i++)
+    for(int i = 0; i < 10000; i++)
     {
         double randnum = (double)rand() / ((double)RAND_MAX + 1);
         plik<<dict.at(binary_search(randnum)).symbol;

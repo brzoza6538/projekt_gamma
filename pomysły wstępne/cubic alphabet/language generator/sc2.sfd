@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: aaa_sc2
-FullName: #sc2
-FamilyName: aaa_sc2
+FontName: shitty_cubic_69
+FullName: shitty_cubic_69
+FamilyName: shitty_cubic_69
 Weight: Regular
 Copyright: Copyright (c) 2024, m3.brzezinski
 UComments: "2024-9-10: Created with FontForge (http://fontforge.org)"
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1725963924
-ModificationTime: 1725966835
+ModificationTime: 1727557563
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,10 +44,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 16 4
+WinInfo: 16 16 4
 BeginPrivate: 0
 EndPrivate
-BeginChars: 256 60
+BeginChars: 256 61
 
 StartChar: a
 Encoding: 97 97 0
@@ -2971,11 +2971,62 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 59
-Width: 1000
+Width: 1098
 Flags: HW
 LayerCount: 2
 Fore
 Validated: 1
+EndChar
+
+StartChar: period
+Encoding: 46 46 60
+Width: 394
+InSpiro: 1
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+112 386 m 1
+ 244 386 l 1
+ 244 252 l 1
+ 112 252 l 1
+ 112 386 l 1
+  Spiro
+    112 386 v
+    244 386 v
+    244 252 v
+    112 252 v
+    0 0 z
+  EndSpiro
+87 411 m 1
+ 268 411 l 1
+ 268 229 l 1
+ 87 229 l 1
+ 87 411 l 1
+  Spiro
+    87 411 v
+    268 411 v
+    268 229 v
+    87 229 v
+    0 0 z
+  EndSpiro
+268.061523438 396.810546875 m 1026
+  Spiro
+    268.062 396.811 {
+    0 0 z
+  EndSpiro
+87.4482421875 241.09375 m 1026
+  Spiro
+    87.4482 241.094 {
+    0 0 z
+  EndSpiro
+87.4482421875 241.09375 m 1026
+  Spiro
+    87.4482 241.094 {
+    0 0 z
+  EndSpiro
+EndSplineSet
+Validated: 9
 EndChar
 EndChars
 EndSplineFont

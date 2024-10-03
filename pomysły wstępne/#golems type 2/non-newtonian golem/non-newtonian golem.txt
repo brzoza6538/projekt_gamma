@@ -1,0 +1,52 @@
+ - cienka warstwa golema z płynu newtonowskiego jako zbroja
+
+ - twadnieje kiedy coś uderza i rozprowadza obrażenie po całej skorupie
+	- w wewnętrzna warstwa jest jeszcze płynna, zewnętrzna twradnieje w skorupę
+	
+ - golem może przewidzieć że nadejdzie atak i lepiej się rozłożyć
+	- strzała może przelecieć przez jedną warstwę? bierzemy materiał z łydki której nic się teraz nie stanie i zwiększamy obronę przed strzałą
+	____ -> _n_
+	
+
+- obliczenia
+{
+	człowiek: 
+	 180 cm
+	 80 kg
+
+	 2 m^2
+	 0.08 m^3
+	 
+	 2 m^2 *  0.01 m
+	 0.02m^3 * 800 kg/m^3 = 16kg
+	 
+	 g wody - 1000kg/m^3
+	 g nienetonowskiego płynu - 800kg/m^3
+	 
+	 zwykła zbroja - 20 kg
+	 
+	 - w chuj pierdolenie, ale zawsze coś 
+	 
+ }
+ 
+ 
+ 
+ 
+ ?dlaczego nie pasuje do pierwszego typu
+ {
+	  - nie pasuje do reszty golemów bo nie ma czegokolwiek na czym dałoby się napisać runy
+	 - z natury jest cieczą - próba napisania czegokolwiek na tej cieczy byłaby niemożliwa
+	 ?- może jeśli uderzy się w ciecz żeby stwardniała i wystarzająco szybko się napisze wszędzie runy byłoby możliwe to zrobić
+		- na przykład uderzyć młotem z wyrytmi runami?
+		- może wtedy jeśli golem zaskoczy zanim materiał wróci do cieczy byłby w stanie stwardnieć na runach?
+	 
+	 - ale wtedy co z ciałem? "programowanie" czegoś z mutowalnyn ciałem miałoby być możliwe jak ledwo 
+		jesteśmy w stanie zrobić golemy które po po prostu mają dwie ręce i nogi?
+	 - ten golem jest w stanie dowolnie zmieniać kształt
+	 - może jako superduper zaawansowany golem **może**, ale tylko wtedy 
+	 - byłby tym samym co iphone dla tesli 
+	 
+	 - też problem rdzenia 
+	 - rdzeń jest sporym problemem 
+	 - nawet jeśli jest w bezpiecznym miejszu, to tracisz na niego sporo materiału którego nie możesz rozłożyć
+}

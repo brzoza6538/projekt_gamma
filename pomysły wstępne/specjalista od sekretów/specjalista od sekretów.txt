@@ -1,0 +1,179 @@
+ - Labirynth under your house
+
+?
+{
+ -? specjalista czy każdy wie po prostu
+ -? może istota która to robi mówi wprost po pewnym czasie "pozwolę ci się dowiedzieć, ale w zamian coś dla mnie zrobisz"
+ 
+ -? istota dobra? zła?
+	- dla rozywki
+	- posila się umierającymi z ciekawości 
+		(to nie oznacza że nie chce żeby ludzie rzeczywiście się poddali? nie ma dla nich zastosowania więc ich znika jak się poddadzą?)
+	- oferuję coś nowego, lepszego, ale nie może powiedzieć co
+	- oferuje deal - zaspokoję twoją ciekawość, będziesz mógł przejść przez te ciemne drzwi i zrozumieć, ale w zamian mi coś będziesz wisiał
+		- są to umowy które akceptujesz poddając się 
+	
+	
+ -? dlaczego tylko kusi?
+	- denial broni ludzi? nie może im nic zrobić dopóki w pełni nie zaakceptują że w ich domu jest coś dziwnego?
+	- chodzi mu o ciekawość i tylko ciekawość
+	- bawi się z nimi i dopiero kiedy się poddadzą traci zainteresowanie
+
+ -? rezultat
+	- negatywny?
+	- pozytywny?
+	- losowy?
+	
+ - nie ma żadnej istoty?
+	 - sekrety są sekretami, bo świat chce je utrzymać w tajemnicy?
+	 - nie ma żadnej istoty, są tylko sekrety których świat fundamentalnie nie może zdradzić
+	 - jak ktoś odkryje sekret którego nawet świat nie chce żebyś znał? po prostu znikasz 
+	 
+ 
+}
+
+
+
+
+
+ - The room you should never go into
+
+ -? Kazdy Dom ma swoj sekret. Do tego stopnia ze taki sekret jest spodziewany I akceptowany jako Norma
+ -? czy każdy ma, ale wszyscy udają że nie mają, nie mówią o tym, ukrywają itd...
+	-? specjaliści są nazywani szarlatanami, ale praktycznie każdy dom ich wzywa anonimowo 
+		 - denial, wybuchają jak ktoś to uzna za normalne "NIE! Ja nic takiego nie mam! to są oszuści!"
+		 -? specjaliści nawet tak wolą? im więcej ludzi ignoruje to, im więcej paniki, 
+			tym większa szansa że cokolwiek robi te sekrety, nie będzie się nudziło
+			- założenie jest zwykle że cokolwiek jest w tym dla tej istoty, jest to pewnie rozrywka
+			- jak rozrywka to może zmienić zasady gry jak zacznie się nudzić
+
+ - większość specjalistów uznaje, że cokolwiek robi sekrety, nie może być przyjazne
+ - bo większość tych którzy tak nie uważają, już dawno odkryli jakiś sekret i zniknęli
+ 
+ - praca ogranicza sie do robieniu spisu domu, spędzeniu tam nocy nasłuchując i sprawdzając każdy pokój
+	- sprawdzeniu planów budynku i porównaniu z rzeczywistością, czytaniu historii o okolicy...
+	
+ - Kazdy Dom ma swojego wspollokatora, tejemnicze drzwi... 
+ - nikt tego nie kwestionuje, po prostu kazdy ma przynajmniej jeden taki "dodatek" 
+
+ - Po wybudowaniu domu/przeprowadzce specjalista jest proszony o sprawdzenie domu
+ - Czy cos jest nie tak jak w planie, czy strych skrzypi jakby ktos sie tam bawil
+ - Zadanie jest proste. Zaprojektowac pracodawcy rutyne dzieki ktoremu Dom bedzie bezpieczny
+ - Unikajac selretòw, specjalista musi je zrozumiec I nauczyc radzic sobei z nimi
+ - Myśl o minach. Facio chodzi po pokoju I mowi "nie stawaj tutaj"
+
+ - Potrzeba doswiadczenia zeby nie dac ciekawosci wygrac I wbic nosa w nie swoje sprawy
+
+ -? Specjalisci maja na sobie kamery, ale mozna sie z nich czegokolwiek dowiedziec tylko jesli specjalista przeprał
+ -?Masz filmy najgorszych potworów I musisz się z nich uczyć jak ich unikac?
+ -! zwykle wiesz co sprawdzali, wiesz że już ich nie ma, ale nie wiesz jak i co się stało
+	- po prostu wiesz że pracodawcy będą musieli unikać tego czajnika
+
+ - Jak ktos szepnie ci imie do ucha? Nie odwracaj sie
+ - Jak drzwi same sie otworzą? nie przechodz przez nie nawet jesli normalnie prowadzilyby do sypialni.  itd.
+
+ - Zadaniem specjalisty jest znalezc taką pułapke w domu I nauczyc mieszkańców jak jej unikać 
+
+ - Ciekawosc nigdy nie jest nasycona 
+ - to jest najgorsze
+ - Ze ani oni, ani my nie mamy wiedziec. Nawet specjalisci nie wiedza. Zabija ich ciekawosc, ale nie wiedza 
+
+ - Wiadomo tylko ze kazdy Dom ma swoj sekret 
+ - I  zazwyczaj po tym jak sasiad ci powiedział o takim i stwierdzil ze ciekawosc go zabija, musi to sprawdzić, znikał bez śladu
+
+ -? Specjalisci to ludzie ktorzy nigdy nie beda wiedzieli czy to znikniecie to cos dobrego czy zlego
+	- Niektore sekrety wygladaja nawet obiecujaco, ale wiadomo ze to droga w jedna strone
+	- rzeczy mogą być creepy, ale nigdy nie ma być oczywistych konsekwencji
+	- wiesz tylko że wszystko się zmieni jeśli ciekawość wygra
+
+-? Czy sa jakies czysto negatywne sekrety? 
+	- Takie gdzie wiadomo ze to zły pomysł? 
+	
+co jeśli zła istota gra z nimi aspekt
+{
+	-? cokolwiek to robi chodzi o ciekwaość? temptation needs a reason
+	-? dlaczego im zależy na ciekawości
+
+	-? dlaczego ta istota nie zmieni zasad w trakcie gry 
+	- ona się bawi, to oznacza że nie pokazuje wszystkich kart, nic o niej nie wiesz, taka jej natura 
+
+	- ktoś kto jest w stanie kontrolować rzeczywistość chyba ma wystarczająco mocy żeby porwać człowieka
+}
+- 
+
+
+Niektorym trzeba sie oprzec (tajemniczym drzwiom itd.) Inne trzeb ignorowac (cos ci lize reke co noc)
+
+
+
+- koniec nie może być zawsze taki sam ale nigdy nie mamy dowodów co dokładnie sie stało
+	 - raz widzisz ptaka wyfruwającego pospiesznie z domu
+	 - raz może się zgubili w lairyncie pod domem
+	 - innym razem może coś ich zjadło w całości? i zostawiło tylko parę plam krwi 
+ - nic co ktokolwiek uzna za dowów, może się zaciął, może ptak po prostu wleciał do domu przypadkiem...
+ 
+ 
+ -? co jeśli są dowody ale zawsze są inne?
+	- raz pozytywka zwróci ci ukachanego
+	- raz drzwi poprowadzą do piekła
+	- bez ładu i składu
+	- to już nie tylko ciekawość ale też napięcie, jakbyś miał grę blackjacka na sto tysięcy przed sobą w salonie która czeka na ciebie 
+ 
+ - przecież czasami będą świadkowie 
+	- może jest zawsze upewniane że też się załapują?
+	- ktoś wchodzi do piwnicy? - nie widać co się z nim dzieje
+	- ktoś wchodzi do piwnicy a ktoś za nim? - ciekawość też go przejęłą, też jest brany
+	- widzisz przypadkiem jak ktoś gra na zakazanej gitarze? - słyszysz, widzisz to - unintended casualty
+ 
+ 
+ - co jeśli ktoś tam wejdzie przez przypadek 
+	- to nie ucina całego pomysłu umów? 
+		- a może uznać to za przypadkowe podpisanie umowy? to są pułąpki, istota je rozstawiła i czeka
+		- co jeśli nie ma wpływu co się stanie jak ktoś w nią wejdzie i są automatyczne
+		- a może aura sprawia że nie da się przez przypadek przejść
+		- ale wtedy po co są specjaliści?
+
+
+ - emeryt nie ma już nic do stracenia więc postanawia spróbować
+ - dziecko ukrywa się w szafie -
+ 
+
+
+
+ - pozytywka z nikąd
+ - niemające sensu drzwi
+ - napisy na ścianie których lepiej nie czytać ani próbować przetłumaczyć
+ - coś ci nagle dyszy z tyłu na piętę i musisz całą siłą sięzmusić żeby się nei odwrócić
+ - słyszysz głosy w piwnicy której nigdy nie budowałeś
+ - kartonowe pudełko
+ - kolacja której nikt nie zrobił co wieczór na stole 
+ -? coś wyrasta ci na ciele i robisz wszystko co możesz żeby to zignorować (istota może wpływać na ciało i ich po prostu nie zabiera zamiast się bawić w podchody?)
+ - instrument na pawlaczu
+ - ktoś cię obserwuje, wiesz to, ale nie możesz go szukać
+ - pająk wisi w tym samym miejscu od kiedy się wprowadziłeś
+ - nieistniejący krewny
+ 
+ 
+ 
+ -? co jeśli to nie jest jedna istota, ale każdy dom ma własną istotę, albo sam dom nabiera świadomości?
+	- po prostu w domach ukrywają się magiczne przedmioty i nie wiedzieć czemu każdy kto z nią ingeruje znika?
+	- domy mają coś w sobie, a sekret jest sercem domu
+		- czymś co zbiera ludzi? dosłownie pożera ich?
+		- przyciąga ich tylko dlatego że wciąga energię każdego kto wejdzie?
+		- nie ma to związku z ciekawością - myśl o czarnej dziurze 
+		- powoli zbiera energię i zbiera ją w sobie, a jak ktoś się wystarczająco zbliży wsysa całą istotę
+		- nieważne co było sekretem osoba kończy uwięziona w bliżej niezrozumiałym miejscu?
+		
+ 
+
+ 
+ #CURRENT
+ - każdy dom ma sekret który udają że nie istnieje 
+ - sekret jest jak mina 
+ - specjaliści (w których "nikt nie wierzy") znajdują te miny i mówią żeby na nie uważać
+ - nikt nie ma pojęcia co się dzieje po odkryciu sekretu, nawet specjaliści 
+ 
+ -? pokazać komukolwiek co to może być? kto? dlaczego?
+	- dać tworzyć teorię, zostawić miejsce na spekulacje? 
+	- czy zamknąć temat i nigdy nie zaglądać? co jest za drzwiami nie ma znaczenia i skupić się na ludzkiej ciekawości 
+	- chyba skupić się na ludzkiej ciekawości

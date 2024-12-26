@@ -1,4 +1,4 @@
- - magia lodu 
+ - magia lodu (plus minus)
  
  - nie manipuluje temperaturą, ale ułożeniem w obiekcie
  
@@ -14,3 +14,7 @@
  - zawsze zmieniasz świat w tym samym stopniu
  - siła wynika z ćwiczenia rzeczy niezwiązanych z samą magią
  - nie możesz wyćwiczyć silniejszej magii
+ 
+ -? ponieważ wprowadzasz ład, zatrzymujesz poruszanie się, kompresujesz i ciepło się uwalnia?
+	- czy wykorzystujesz tą energię żeby to ułożyć?
+	- uspokajasz przedmiot i przedmiot cię słucha, staje się zimny

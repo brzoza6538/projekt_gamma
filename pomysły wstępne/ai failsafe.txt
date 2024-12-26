@@ -1,0 +1,10 @@
+ - ai how to make definetly human
+ - na siłę zabraniasz im znać słowo
+ - nie wiedzieć jak to działa itd, to by bylo blisko niemożlkiwe, ale sam output tego jednego słowa.
+ - dosłownie pod koniec po sieci jest, jeśli myślisz o karpiu, nie  nie myślisz o karpiu
+ 
+ 
+ - albo nie jest w stanie przyjąć informacji przed wejściem do modelu na temat jednej rzeczy
+ - mniej zaawansowane ai, którego celem jest stwierdzić czy coś jest związane z karpiem i ignorujące wszystkie inputy o tym
+ 
+ 

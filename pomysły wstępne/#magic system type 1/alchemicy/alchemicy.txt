@@ -3,11 +3,13 @@
  
  - problem w tym że proces jest na tyle złożony że nie wiesz czym
  - każesz przedmiotowi stać się czymś innym, ale sam nie wiesz czym
+ - w sensie intuicja jak to się robi zaprowadzi cię tylko dokądś
+ - nazbyt skomplikowane żeby komukolwiek się chciało próbować to zapamiętać
  
- - randomizujesz przedmiot
+ - randomizujesz przedmiot tak w zasadzie
  - musisz potem wiedzieć co stworzyłeś i wiedzieć gdzie to można wykorzystać
  
- - zwykle dla ułatwienia testów zmieniają aż dojdą do cieczy
+ - zwykle dla ułatwienia testów zmieniają aż dojdą do cieczy (?)
  
  - noszą rękawice z próbek i blaszek, próbki wszyste w ubrania...
  - ręce są  pełne poparzeń i odbrawień w miejscach gdzie mikstura rozlała się poza próbkę

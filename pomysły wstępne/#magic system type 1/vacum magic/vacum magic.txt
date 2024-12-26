@@ -33,3 +33,8 @@
  - zawsze zmieniasz świat w tym samym stopniu
  - siła wynika z ćwiczenia rzeczy niezwiązanych z samą magią
  - nie możesz wyćwiczyć silniejszej magii
+ 
+ 
+ 
+ 
+ - taka cząsta zasysająca lub odsysająca lata sobie kilka minut, zanim nie przestanie być tą cząstką którą poproszono o aktywację

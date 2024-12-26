@@ -6,23 +6,270 @@
  
  - im lepszy przewodnik ciepła tym szybciej będą się zmieniać temperatury
  
- - żeby uniknąć poparzeń mogą pracować na dobrym przewodniku ciepła
+ - żeby uniknąć poparzeń mogą pracować na dobrym przewodniku(a nie izolatorze) ciepła
  - zmieniają temperatury, zużywają szybko temperature i znowu kładą ręce
  
  -  bieguny muszą mieć połączenie, inaczej czar pryska
  
  - musisz połozyć gołe ręce
- - opracowano specjalen rękawice bez osłoniętej strony wewnętrznej
+ - mag zrobił specjalne rękawice bez osłoniętej strony wewnętrznej
  - przechodzą przez całą rękawice rurki z chłodziwem, albo ogrzewaczem
  
  -? tempo nagrzewania jest na tyle wolne że kiedy oderwiesz ręce, temperatura będzie się jeszcze
 	zmieniać drugie tyle czasu
 	
- - w jakiś sposób musi dojść to do poważnych temperatur
+ - przydatne do gotowania wody, nie na tyle mocno żeby się poparzyć, ale na wannę byłoby idealne
+ - może się głupio czuć że jest w stanie zrobić tylko tyle 
+ - może spawanie jeśli możę zrobić więcej niż tylko tyle?
  
- - ale jak??
+ 
+ - w jakiś sposób musi dojść to do poważnych temperatur
+ - ale jak?? 
+- może mają jednak zwiększoną wytrzymałość, ale to wystarzczy tylko do pewnego stopnia
  
  - siła zależy od wytrzymałości, nie od siły magii
  - zawsze zmieniasz świat w tym samym stopniu
  - siła wynika z ćwiczenia rzeczy niezwiązanych z samą magią
  - nie możesz wyćwiczyć silniejszej magii
+ 
+ ------prawdziwa ewolucja
+ 
+ -? może przenosi ciepło które by go poparzyło, ciepło z jego ręki gdzieś indziej?
+ - na krzyż. ręka L dotyka nagrzewanego, ręka R chłodzonego
+ - jedna stopa tworzy połączenie z lewą ręką, pobiera ciepło z ręki i wydaje je stopą
+ - druga stopa wybiera ciepło i dorzuca je do ręki która schładza
+
+- zmieniasz temperaturę nie w miejscu styku tylko reszty ręki
+ - nie ma problemu z krzyżującym połączeniem
+ - dopóki naskórek się nie zwęgli i odpadnie, lub zamarznie na kamień i odpadnie, nie ma problemu
+  - masz połączenie ręka- ręka i ręka-noga, ręka-noga
+ 
+ -? dlaczego nie po prostu połączenie od nagrzewającego się wnętrza ręki przekazującej ciepłdo oziębiającego się wnętrza ręki zabierającej ciepło?
+	- ławiej na początku to zrobić wizualizując kiedy są łącza daleko od siebie, łatwiej ich nie pomieszać?
+	-? kolejna ewolucja?
+
+
+
+
+
+
+
+
+- analogia 1
+	 - myśl o tym jako o rurze z wodą, wciągasz z jednego, wylewasz z drugiego
+	 - rura jest od zewnątrz owinięta gąbką, wsiąkającą tą wodę pleśniejąc, lub kruszącą się z jej braku 
+	 -  woda zaczyna się na nią wylewać?
+	 - dodaj rurę wysysającą wodę z jednej gąbki i wrzucającą ją do drugiej
+	 
+ - analogia dla ciepła, nie dla zimna 
+	 - chodzisz z wiadrami wody od jednego pokoju ze zbiornikiem do drugiego
+	 - miejscami ci nakapie się wody i  pokój ze zbiornikiem staje się z lekka mokry
+	 - na korytarzu też widać szlak rozlanej wody
+	 - jeśli zaczniesz wybierać wodę z pokoju gdzie woda się zaczyna wylewać ze zbiornika i iść z nim do drugiego pokoju, to na korytarzu będzie jeszcze więcej wylanej wody
+	 - żeby uniknąc zalanego korytarza, jak tylko znajdujesz rozwidlenie, idziesz nim, rozlewasz wodę na innym korytarzu i wylewasz w innym miejscu 
+	 - wybierasz wodę z pokoju i z części korytarza przed rozwidleniem 
+	 
+	
+ - cykl:
+	- przenosisz trochę ciepła z ręki do ręki, część zostaje w ciele 
+	- powtarzasz to kilka razy 
+	- kiedy zacznie cie parzyć ręka, zbierasz z nich ciepło i przenosisz je do ręki która zaczyna ci zamarzać
+	- jeśli ciało zacznie się przegrzewać od tego przerzucania, zbierasz ciepło z torsa i ramion i przesyłasz je stopami 
+		
+	
+- musisz być szybki żeby to zadziałało
+- na raz parzy cię podgrzewający element te paredziesiąt stopni. w kilka milisekund przekazuje je na raz
+- to ma tylko sens jeśli bardzo mało energii zostaje w ciele 
+- zauważalne kiedy przenosisz ogromne ilości ciepła dwa razy> (dwupołączeniowa metoda), ale nie kiedy raz?
+- nie przenosić dużo na raz, ale mało z bardzo małymi przerwami 
+
+- nauczyć sie przejść z ".....X......X.....X", do "xxxxxx"
+	 
+ 
+ - metoda na zbieranie
+	- potrzebujesz dużo ciepła, zimno ci po nic
+	- podgrzewasz coś, masz ręke i dwa połączenia od niej zbierające ciepło 
+	- nie musisz się martwić symetrią, zbierasz ciepło z całego ciała i otoczenia i wysyłasz je w to jedno miejsce
+	- tak w zasadzie masz trzy połączenia. jedno zbierające ciepło z otoczenia, jedno zbierające z ciała i jedno z ręki
+	- dookoła może zbierać praktycznie na autopilocie, w środku trzeba bardziej uważać, przy ręce, najbardziej
+	
+	- myślisz o ciele jako o jednym końcu zbierajacym z całej powierzchni i ręce jako o drugim zamiast się ograniczać do czegoś małego
+	- trudne do zwizualizowania bez obiektu do skupienia się na, z którego zabierasz ciepło 
+	- jeszcze trudniej wysyłać ciepło przez całe ciało i schładzać co masz w ręce 
+	
+
+	
+	
+  -? dlaczego nie przerzucać zimna z ręki która oziębia do przedmiotu który oziębia
+	- nie byłoby prościej?
+	- trudno sobie wyobrazić, plus pracujesz na trzech połączeniach a nie dwóch
+	- szczyt umiejętności?
+	- normalnie chłodzisz obszar odrobinę bliżej niż wyrzucasz ciepło i jakoś się wyrównuje 
+ 
+- kurna chata, metoda na dwa l-p, p-l nie ma sensu
+- dlaczego nie l-p, l-ogrzewany, p-ogrzewany ?	
+	
+ - metoda na trzy połączenia:
+ 	*- ramiona nadal się przegrzewają bo przesyłasz nimi oba pasma
+		- dla tego nogi zbierają też z nich ciepło?
+		
+		- ciepło przechodzi, przez drugie ramię ale druga ręka się chlodzi.
+			-? zbierasz ciepło supergorącej ręki i ciepłego ciała jedną nogą i mocne zimno drugiej ręki drugą nogą?
+		-? ale zbierasz ciepło nierównomiernie, to nie problem?
+		
+	-? nie po prostu stopy zbierają cały nadmiar ciepła z ciała równomiernie?
+	- połączenie ręka-ręka, ręka-ręka, nogi-ciało brzmi jak lepszy pomysł 
+ 
+ 
+ 
+ 
+ 
+ -? musisz utrzymać tą samą zmianę temperatur na obu przejściach żeby zachować balans 
+	 - próbowałeś zwiększać inaczej i nie działało
+	 -? musisz pracować w jednym rytmie 
+
+ 
+ - historia progresu {
+	*- robisz jedno połączenie rękoma
+	*- zaczyna parzyć 
+	*- dlaczego by nie przerzucać ciepła z ręki która ociepla do ogrzewanego po prostu
+	*- starasz się zmodyfikować szybkość, zabierasz z zimna, zostawiasz wystarczająco żeby chonić ręke, lecisz dalej, zabierasz więcej z ręki, wywalasz do ogrzewanego
+	*-zbyt trudne, niemożliwe do zwizualizowania
+	*- inne podejście, uczysz się jak uważać i utrzymywać dwa połączenia na raz
+	*- robisz dwa połączenia, ale jesteś za wolny i parzysz się bo są za duże przerwy w dostawie 
+	*- uczysz się być płynniejszy w przepływie ciepła
+	*- całe ciało zaczyna się przegrzewać bo przesyłasz dwa połączenia tą samą częscią ciała 
+	*- przypominasz sobie pomysł ze zmienianiem tempa, zamiast modyfikować tempo jednego, zrób trzy o różnych tempach
+		- masz pomysł jak to zwizualizować, więc masz sposób 
+	*- uczysz się jak radzić sobie z trzema połączeniami na raz 
+	*-metoda na trzy połączenia ogrzewany-oziębiany, p-ogrzewany, l-oziębiany
+	*- całe ciało zaczyna się przegrzewać bo temperatura rośnie i rośnie 
+	*- starasz się nauczyć żeby mniej ciepła tracić w ciele 
+	*- nie wystarcza, tylko niewielki progres, niedługo później problem wraca 
+	*- dodajesz połączenie czwarte i dodajesz nogi, chłodząc całe ciało i wyrzucając nadmiar ciepła stopami 
+		-? dlaczego nie przesłać tego też do ogrzewacza? - za trudno zwizualizować coś niesymetrycznego?
+		
+}
+
+
+
+ - energia która podniosłaby odrobinę temperaturę czegoś dużego, a energia która przechodzi z powrotem żeby wyrównać temperaturę z otoczeniem 
+ - część tracisz do ręki, ale nie całość. Szczególnie jeśli przedmiot jest duży 
+	 
+
+
+ 
+
+ 
+ 
+
+ 
+ -? szybkość oznacza że przez całe twoje ciało pzechodzi ta różnica temperatur? 
+  - czujesz ciepło jak przez ciebie przechodzi, to musi być tego częścią
+  - w ten sposób wiesz że to działa
+  - ale jak dużo ciepła. im lepszy jesteś, tym mniej ciepła tracisz i tym łatwiej to wyczuć?
+  - phantom heat?
+ 
+
+ - zwiększenie możliwości znowu nie wyszło z siły. Nawet z wytrzymałości, która w retrospekcji był agłupim pomysłem zważając na theme przewodnik
+ - znowu uderzanie głową  w ścianę jak debil myśląc że po prostu musisz być lepszy nigdzie by cię nie przyniosło
+ 
+ 
+ - działanie 
+	 - wizualizuj kulę ciepła przechodzą od jednego końca ciała do drugiego 
+	 - jak kula dojdzie do końca, zostaw tam ją i powtórz proces 
+	 
+	 - później zamiast tego wizualizujesz coś ciągłego 
+	 
+ 
+ 
+ --------------------character 
+ 
+  -? może ma to połączenie nawet jeśli mówimy o ceramicznej kulce czy innym izolatorze która ma połączenie z czymś w środku 
+	- pogrzewasz tylko metal i izolator trzyma twoją rękę z daleka od tego?
+	- narzędzie nie technika  
+	- ma to sens kiedy zmieniasz temperaturę małych rzeczy
+	- całość się styka z twoim ciałem więc traciłbyś bardzo dużo energii
+	
+	- kulki mają sens dla małych przedmiotów bo potrzeba żeby bylo na tyle małe żeby był sens w tworzeniu minipieca dla tego 
+	- oraz musisz czuć połączenie z tym metalem w środku, nadal potrzebujesz 
+	- oraz na tyle duże 
+ 
+ - uuuuuuuu glassswork biżuteria!
+ - masz sobie mały piecyk w ręku, oglądasz coś sobie i nagle "o, mój naszyjnik jest już gotowy"
+ - i uuu moje lody są gotowe
+ 
+ 
+ prowadzi lodziarnię, hobby to ceramika i garncarstwo
+ potrzeba dużo lodów, żeby wypiec małą rzecz z gliny
+ 
+ wygrzanie pół kilo gliny:  2 671 560 J
+ zamrożenie litra lodów (plus minus) : 391,000 J +  162,000 J na utrzymanie go w tej temp. na 5 godzin
+ porcelana?
+ 
+ - zamraża pojemnik, miesza, wymienia na inny, zamraża, wymienia... jak skończą się pojemniki dodaje do nich to co utraciły z ciepła
+ 
+ 
+ 
+ 
+ -metody {
+	- jedno połączenie - dla małych temperatur
+	- dwa połączenia - udoskonalona wersja jeden ręka<-ręka, ręka->ręka
+	- trzy połączenia - udoskonalona wersja dwa ogrzewany<-oziębiany, ogrzewany<-ręka, oziębiany->ręka
+	- cztery połączenia - dodajesz nogi zbierając ciepło z ciała 
+	
+	- zbieranie - połączenie zbierające ciepło z otoczenia z wszystkąd, połączenie zbierające z ciała, połączenie zbierające z ręki 
+		- potrzeba podzielić na trzy obszary zbierające na różnej szybkości
+		- myślisz o zbieraniu z całego ciała na raz 
+	
+	- ceramiczne pojemniki - dla małych przedmiotów dla których ręka zbierałaby za dużo spowrotem 
+	- 
+ }
+ 
+ 
+ 
+ -----------------------źródła i obliczenia i liczby
+ 
+ 
+  przykładowe dane ręka-garnek
+	 240 dżuli na sekundę do ręki 
+	 78 400 J żeby podgrzać dwa kilo metalu o 80 stopni do 100
+ 
+ 
+https://ceramicznawyspa.pl/wypalanie-ceramiki-wybrane-aspekty/
+
+( m ) to masa (800 g),
+[ Q = 800 {g} * 0.92 {J/g°C} * 980 , {°C} ] [ Q = 720640 {J} ]
+
+na kilo gliny:
+0,7421 kWh = 2 671 560 J
+
+
+Calculate the total energy using the formula: Energy = mass (in grams)  imes heat of fusion.
+For 100 g of ice: Energy = 100 g  imes 333 J/g.
+Perform the multiplication: Energy = 33300 J.
+Thus, 33300 Joules of energy are required to melt 100 grams of ice at 0°C.
+  
+Podstawiając wartości:
+Q=1kg⋅4,18kJ/kg°C⋅(100°C−20°C)=334,4kJ
+Przeliczając na kilowatogodziny:
+334,4kJ÷3600s=0,093kWh
+  
+  https://www.gcca.org/legacy-system/WFLO-Commodity-Storage-Manual-2018-Milk%20~%20Condensed%20and%20Evaporated.pdf
+  https://www.quora.com/How-can-I-make-ice-cream-without-a-machine-only-with-a-freezer
+  
+  plus minus lody :
+  
+  ciepło właściwe dla mieszanki składającej się z:
+2 cups heavy cream z ciepłem właściwym =  2.5 J/g·°C
+1 cup sweetened condensed milk z ciepłem właściwym = 2.35 kJ/(kg*K) 0
+
++- 2.44 J/g·°C.
+-->> 391,000 J
+
+
+
+
+ nie ma bata że sięnie pomylił i nienawidzę się że go zapytałam, ale jest 
+ https://chatgpt.com/share/673e409f-0f3c-800b-aa96-98e6d774db87
+ 

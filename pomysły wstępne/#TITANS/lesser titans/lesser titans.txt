@@ -1,11 +1,23 @@
-  - gatunek siostrzany tytanów
-  ?- słabszy i żeruje wyłącznie na martwych ciałach w przeciwieństwie do tytanów potrzebujących żywego nosiciela
+  -? gatunek siostrzany tytanów
+  -? stworzony z fragmentów tytana?
+		- pasożytniczy grzyb na nim rośnie, przeżera się przez tytana
+		- może w ten sposób zyskać część tytana - nie mocy, ale część samego tytana 
+		
+		
+ -? każdy ma plus minus własną wolę, sense of self 
+	- ale na tyle mało że są praktycznie jak robaki
+	- nie wiedzą dlaczego coś robią, głównie lecą na instynktach
+	- mają być mięśniami, nie bawić się w magię
+			
+			
+			
+ X?- słabszy i żeruje wyłącznie na martwych ciałach w przeciwieństwie do tytanów potrzebujących żywego nosiciela
+	 
+ X- są tworzone przez tytanów
+ X- przenoszą się poprzez zarodniki
  
- - są tworzone przez tytanów
- - przenoszą się poprzez zarodniki
- 
- - w przeciwieństwie do nasion nie dzielą wspomnień z oryginałem
- - są posłuczne przodkowi
+ -? w przeciwieństwie do nasion nie dzielą wspomnień z oryginałem
+ -? są posłuczne przodkowi
  -? nie mają własnej woli?
  
  - tytan wytwarza armię pseudotytanów na swoich rozkazach zwykle kiedy ma z lekka słabe ciało

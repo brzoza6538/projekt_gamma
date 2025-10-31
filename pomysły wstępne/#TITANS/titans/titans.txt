@@ -1,8 +1,7 @@
  - gatunek drzew 
- - na ziemi też są 
  ?- dęby, brzozy, cholera wie
  
- - same nic nie zrobią ale z wystarczająco wielkim hostem mogą go przejąć
+ - same nic nie zrobią ale z wystarczająco wielkim hostem mogą go przejąć i się uaktywnić
  
  - przejęcie ciała człowieka nie wyjdzie
  - jest za mały, załamie się pod ciężarem drzewa
@@ -99,6 +98,4 @@
  
  - (catpack) - nie wiem, nikt nie wie jak i dlaczego tytan cziluje sobie po prostu
  
- - tytan wytwarza armię pseudotytanów na swoich rozkazach zwykle kiedy ma z lekka słabe ciało
-	 i stara się nadrobić robiąc w każdej wolnej chwili nowych służących (lesser titans) 
-	 (więksi tytani mają trochę "why bother with an ant farm", mniejsi nie mają siły ani czasu)
+ - tytan wytwarza armię pseudotytanów na swoich rozkazach (lesser titans) 

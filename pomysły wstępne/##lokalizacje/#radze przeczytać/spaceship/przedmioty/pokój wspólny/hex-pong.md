@@ -1,0 +1,4 @@
+- podświetla hex który kontrolujesz
+- klikasz góra-dół
+- piłka się odbija tak długo aż nie trafi do którejś z bramek
+- 

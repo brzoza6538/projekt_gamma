@@ -1,0 +1,1 @@
+ - Miejscami za dużo się dzieje u niej w głowie (jak u reszty u której za dużo w głowie)

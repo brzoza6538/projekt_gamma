@@ -1,0 +1,2 @@
+ - Pozostawiony statek ma własne nieodszyfrowane pismo
+ - 
